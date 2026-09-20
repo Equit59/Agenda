@@ -1,1 +1,4523 @@
-{"updated": null, "events": []}
+{
+ "updated": "2026-09-20T19:45:51+00:00",
+ "events": [
+  {
+   "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
+   "title": "RENTREE IE2 - DANIEL, MESGHOUNI - Réunion",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : RENTREE IE2\nEnseignants : DANIEL, MESGHOUNI\nSalle : Amphi L. de VINC\nType : Réunion",
+   "start": "2026-09-01T08:30:00+02:00",
+   "end": "2026-09-01T09:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-244483-3-TREHOUT_LOIS-Index-Education",
+   "title": "UN'ITEEM - Réunion",
+   "location": "",
+   "description": "Matière : UN'ITEEM\nType : Réunion",
+   "start": "2026-09-03T08:00:00+02:00",
+   "end": "2026-09-03T18:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232764-4-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - SION - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Electronique\nEnseignant : SION\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-09-07T08:00:00+02:00",
+   "end": "2026-09-07T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-4-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-09-07T10:15:00+02:00",
+   "end": "2026-09-07T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245048-4-TREHOUT_LOIS-Index-Education",
+   "title": "POINT SCOLARITE - Présence obligatoire - Réunion",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : POINT SCOLARITE\nSalle : Amphi L. de VINC\nMémo : Présence obligatoire\nType : Réunion",
+   "start": "2026-09-07T12:30:00+02:00",
+   "end": "2026-09-07T13:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-242999-4-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "E-604",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nSalle : E-604\nType : TD",
+   "start": "2026-09-08T08:00:00+02:00",
+   "end": "2026-09-08T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232610-4-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - OKACHI - Cours",
+   "location": "Amphi BODA",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : Amphi BODA\nType : Cours",
+   "start": "2026-09-08T10:15:00+02:00",
+   "end": "2026-09-08T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-235784-4-TREHOUT_LOIS-Index-Education",
+   "title": "Thermodynamique - HARIZI - TD",
+   "location": "I-104",
+   "description": "Matière : Thermodynamique\nEnseignant : HARIZI\nSalle : I-104\nType : TD",
+   "start": "2026-09-08T13:30:00+02:00",
+   "end": "2026-09-08T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232456-4-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - BHOURI - TD",
+   "location": "J-102",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : BHOURI\nSalle : J-102\nType : TD",
+   "start": "2026-09-09T08:00:00+02:00",
+   "end": "2026-09-09T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232766-4-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - SION - TD",
+   "location": "J-103",
+   "description": "Matière : Electronique\nEnseignant : SION\nSalle : J-103\nType : TD",
+   "start": "2026-09-09T10:15:00+02:00",
+   "end": "2026-09-09T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232648-4-TREHOUT_LOIS-Index-Education",
+   "title": "Thermodynamique - HARIZI - TD",
+   "location": "J-104",
+   "description": "Matière : Thermodynamique\nEnseignant : HARIZI\nSalle : J-104\nType : TD",
+   "start": "2026-09-09T13:30:00+02:00",
+   "end": "2026-09-09T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232613-4-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - OKACHI - TD",
+   "location": "J-102",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : J-102\nType : TD",
+   "start": "2026-09-09T15:45:00+02:00",
+   "end": "2026-09-09T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233078-4-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - TNE",
+   "location": "",
+   "description": "Matière : Electronique\nType : TNE",
+   "start": "2026-09-11T10:00:00+02:00",
+   "end": "2026-09-11T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-242976-4-TREHOUT_LOIS-Index-Education",
+   "title": "Presentation Assos - Réunion",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Presentation Assos\nSalle : Amphi L. de VINC\nType : Réunion",
+   "start": "2026-09-11T12:15:00+02:00",
+   "end": "2026-09-11T13:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245613-4-TREHOUT_LOIS-Index-Education",
+   "title": "WEEK END INTEGRATION - Réunion",
+   "location": "",
+   "description": "Matière : WEEK END INTEGRATION\nType : Réunion",
+   "start": "2026-09-12T08:00:00+02:00",
+   "end": "2026-09-12T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232614-5-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - OKACHI - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2026-09-14T08:00:00+02:00",
+   "end": "2026-09-14T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-5-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2026-09-14T10:15:00+02:00",
+   "end": "2026-09-14T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232788-5-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - SION - Demi-sem.",
+   "location": "C-206a",
+   "description": "Matière : Electronique\nEnseignant : SION\nSalle : C-206a\nType : Demi-sem.",
+   "start": "2026-09-14T13:30:00+02:00",
+   "end": "2026-09-14T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246125-5-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - HAGUE, PLOUVIER, RIBALS - TD",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Anglais\nEnseignants : HAGUE, PLOUVIER, RIBALS\nSalle : Amphi L. de VINC\nType : TD",
+   "start": "2026-09-15T08:00:00+02:00",
+   "end": "2026-09-15T08:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246129-5-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - PLOUVIER - TD",
+   "location": "I-103",
+   "description": "Matière : Anglais\nEnseignant : PLOUVIER\nSalle : I-103\nType : TD",
+   "start": "2026-09-15T08:30:00+02:00",
+   "end": "2026-09-15T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-5-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "I-102",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : I-102\nType : TD",
+   "start": "2026-09-15T10:15:00+02:00",
+   "end": "2026-09-15T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243028-5-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "E-603",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nSalle : E-603\nType : TD",
+   "start": "2026-09-15T13:30:00+02:00",
+   "end": "2026-09-15T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232785-5-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - PATROUIX - Séminaire",
+   "location": "B-030",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : PATROUIX\nSalle : B-030\nType : Séminaire",
+   "start": "2026-09-15T15:45:00+02:00",
+   "end": "2026-09-15T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232616-5-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - OKACHI - TD",
+   "location": "I-102",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : I-102\nType : TD",
+   "start": "2026-09-16T08:00:00+02:00",
+   "end": "2026-09-16T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-5-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-09-16T10:15:00+02:00",
+   "end": "2026-09-16T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232707-5-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Applications d'entreprise\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2026-09-16T13:30:00+02:00",
+   "end": "2026-09-16T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232664-5-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Applications d'entreprise\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2026-09-16T15:45:00+02:00",
+   "end": "2026-09-16T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-231341-5-TREHOUT_LOIS-Index-Education",
+   "title": "Management de l'innovation - NICLAEYS - Séminaire - TD",
+   "location": "J-102, J-103",
+   "description": "Matière : Management de l'innovation\nEnseignant : NICLAEYS\nSalles : J-102, J-103\nMémo : Séminaire\nType : TD",
+   "start": "2026-09-17T08:00:00+02:00",
+   "end": "2026-09-17T17:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-231343-5-TREHOUT_LOIS-Index-Education",
+   "title": "Management de l'innovation - NICLAEYS - Séminaire - TD",
+   "location": "J-102, J-103",
+   "description": "Matière : Management de l'innovation\nEnseignant : NICLAEYS\nSalles : J-102, J-103\nMémo : Séminaire\nType : TD",
+   "start": "2026-09-18T08:00:00+02:00",
+   "end": "2026-09-18T17:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232623-6-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - MOSCA - Cours",
+   "location": "Amphi POIRIER",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : Amphi POIRIER\nType : Cours",
+   "start": "2026-09-21T08:00:00+02:00",
+   "end": "2026-09-21T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-6-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi POIRIER",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi POIRIER\nType : Cours",
+   "start": "2026-09-21T10:15:00+02:00",
+   "end": "2026-09-21T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232784-6-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - ROYES - Séminaire",
+   "location": "B-023",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : ROYES\nSalle : B-023\nType : Séminaire",
+   "start": "2026-09-21T13:30:00+02:00",
+   "end": "2026-09-21T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232695-6-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - KHLIF BOUASSIDA - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Applications d'entreprise\nEnseignant : KHLIF BOUASSIDA\nSalle : B7-101\nType : Demi-sem.",
+   "start": "2026-09-21T15:45:00+02:00",
+   "end": "2026-09-21T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-6-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - PLOUVIER - TD",
+   "location": "I-101",
+   "description": "Matière : Anglais\nEnseignant : PLOUVIER\nSalle : I-101\nType : TD",
+   "start": "2026-09-22T08:00:00+02:00",
+   "end": "2026-09-22T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-6-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "J-105",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : J-105\nType : TD",
+   "start": "2026-09-22T10:15:00+02:00",
+   "end": "2026-09-22T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232619-6-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - OKACHI - TD",
+   "location": "I-101",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : I-101\nType : TD",
+   "start": "2026-09-22T15:45:00+02:00",
+   "end": "2026-09-22T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232443-6-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "J-101",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nSalle : J-101\nType : TD",
+   "start": "2026-09-23T08:00:00+02:00",
+   "end": "2026-09-23T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-6-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-09-23T10:15:00+02:00",
+   "end": "2026-09-23T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232134-6-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - NICLAEYS - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Projet - Conception et réalisa\nEnseignant : NICLAEYS\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-09-23T13:30:00+02:00",
+   "end": "2026-09-23T14:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232772-6-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - SION - Demi-sem.",
+   "location": "C-206a",
+   "description": "Matière : Electronique\nEnseignant : SION\nSalle : C-206a\nType : Demi-sem.",
+   "start": "2026-09-24T08:00:00+02:00",
+   "end": "2026-09-24T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236187-6-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - KHLIF BOUASSIDA - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Applications d'entreprise\nEnseignant : KHLIF BOUASSIDA\nSalle : I-106\nType : Demi-sem.",
+   "start": "2026-09-25T13:30:00+02:00",
+   "end": "2026-09-25T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232652-6-TREHOUT_LOIS-Index-Education",
+   "title": "Thermodynamique - HARIZI - TD",
+   "location": "I-103",
+   "description": "Matière : Thermodynamique\nEnseignant : HARIZI\nSalle : I-103\nType : TD",
+   "start": "2026-09-25T15:45:00+02:00",
+   "end": "2026-09-25T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232629-7-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - MOSCA - TD",
+   "location": "I-101",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : I-101\nType : TD",
+   "start": "2026-09-28T08:00:00+02:00",
+   "end": "2026-09-28T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-7-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-09-28T10:15:00+02:00",
+   "end": "2026-09-28T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243530-7-TREHOUT_LOIS-Index-Education",
+   "title": "Présentation FORUM GD Palais - Présence obligatoire - Réunion",
+   "location": "",
+   "description": "Matière : Présentation FORUM GD Palais\nMémo : Présence obligatoire\nType : Réunion",
+   "start": "2026-09-28T12:30:00+02:00",
+   "end": "2026-09-28T13:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232784-7-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - ROYES - Séminaire",
+   "location": "B-023",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : ROYES\nSalle : B-023\nType : Séminaire",
+   "start": "2026-09-28T13:30:00+02:00",
+   "end": "2026-09-28T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-7-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - PLOUVIER - TD",
+   "location": "",
+   "description": "Matière : Anglais\nEnseignant : PLOUVIER\nType : TD",
+   "start": "2026-09-29T08:00:00+02:00",
+   "end": "2026-09-29T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-7-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-09-29T10:15:00+02:00",
+   "end": "2026-09-29T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243035-7-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-09-30T08:00:00+02:00",
+   "end": "2026-09-30T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232446-7-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "J-101",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nSalle : J-101\nType : TD",
+   "start": "2026-09-30T10:15:00+02:00",
+   "end": "2026-09-30T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232153-7-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-09-30T13:30:00+02:00",
+   "end": "2026-09-30T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232234-7-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-09-30T15:45:00+02:00",
+   "end": "2026-09-30T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232776-7-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - SION - Demi-sem.",
+   "location": "C-206a",
+   "description": "Matière : Electronique\nEnseignant : SION\nSalle : C-206a\nType : Demi-sem.",
+   "start": "2026-10-01T08:00:00+02:00",
+   "end": "2026-10-01T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-247430-7-TREHOUT_LOIS-Index-Education",
+   "title": "REUNION DELEGUES - UNIQUEMENT LES DELEGUES - Réunion",
+   "location": "J-104",
+   "description": "Matière : REUNION DELEGUES\nSalle : J-104\nMémo : UNIQUEMENT LES DELEGUES\nType : Réunion",
+   "start": "2026-10-01T12:30:00+02:00",
+   "end": "2026-10-01T13:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232728-7-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-10-02T08:00:00+02:00",
+   "end": "2026-10-02T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232730-7-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - TD",
+   "location": "J-101",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : J-101\nType : TD",
+   "start": "2026-10-02T13:30:00+02:00",
+   "end": "2026-10-02T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232656-7-TREHOUT_LOIS-Index-Education",
+   "title": "Thermodynamique - HARIZI - TD",
+   "location": "I-104",
+   "description": "Matière : Thermodynamique\nEnseignant : HARIZI\nSalle : I-104\nType : TD",
+   "start": "2026-10-02T15:45:00+02:00",
+   "end": "2026-10-02T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-235766-8-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - TNE",
+   "location": "",
+   "description": "Matière : Mécanique des fluides\nType : TNE",
+   "start": "2026-10-05T08:00:00+02:00",
+   "end": "2026-10-05T09:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232733-8-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - Séminaire",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : Amphi GOUBET\nType : Séminaire",
+   "start": "2026-10-05T09:00:00+02:00",
+   "end": "2026-10-05T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-8-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi POIRIER",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi POIRIER\nType : Cours",
+   "start": "2026-10-05T10:15:00+02:00",
+   "end": "2026-10-05T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232784-8-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - PATROUIX - Séminaire",
+   "location": "B-023",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : PATROUIX\nSalle : B-023\nType : Séminaire",
+   "start": "2026-10-05T13:30:00+02:00",
+   "end": "2026-10-05T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-235763-8-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - KHLIF BOUASSIDA - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Applications d'entreprise\nEnseignant : KHLIF BOUASSIDA\nSalle : B7-101\nType : Demi-sem.",
+   "start": "2026-10-05T15:45:00+02:00",
+   "end": "2026-10-05T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-8-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-10-06T08:00:00+02:00",
+   "end": "2026-10-06T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-8-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-10-06T10:15:00+02:00",
+   "end": "2026-10-06T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243043-8-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nType : TD",
+   "start": "2026-10-06T13:30:00+02:00",
+   "end": "2026-10-06T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232727-8-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - TD",
+   "location": "I-102",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : I-102\nType : TD",
+   "start": "2026-10-06T15:45:00+02:00",
+   "end": "2026-10-06T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232660-8-TREHOUT_LOIS-Index-Education",
+   "title": "Thermodynamique - HARIZI - TD",
+   "location": "J-101",
+   "description": "Matière : Thermodynamique\nEnseignant : HARIZI\nSalle : J-101\nType : TD",
+   "start": "2026-10-07T08:00:00+02:00",
+   "end": "2026-10-07T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-8-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2026-10-07T10:15:00+02:00",
+   "end": "2026-10-07T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-8-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-10-07T13:30:00+02:00",
+   "end": "2026-10-07T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-8-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-10-07T15:45:00+02:00",
+   "end": "2026-10-07T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232735-8-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - TD",
+   "location": "I-102",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : I-102\nType : TD",
+   "start": "2026-10-08T08:00:00+02:00",
+   "end": "2026-10-08T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233074-8-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - LALOUX - TD",
+   "location": "J-101",
+   "description": "Matière : DDRS 2\nEnseignant : LALOUX\nSalle : J-101\nType : TD",
+   "start": "2026-10-08T10:15:00+02:00",
+   "end": "2026-10-08T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232725-8-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2026-10-09T08:00:00+02:00",
+   "end": "2026-10-09T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-247680-8-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - MOSCA - TD",
+   "location": "E-604",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : E-604\nType : TD",
+   "start": "2026-10-09T10:15:00+02:00",
+   "end": "2026-10-09T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-238336-8-TREHOUT_LOIS-Index-Education",
+   "title": "Presentation stage IE2 - Présentation des stages",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Presentation stage IE2\nSalle : Amphi GOUBET\nMémo : Présentation des stages",
+   "start": "2026-10-09T12:30:00+02:00",
+   "end": "2026-10-09T13:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232627-8-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - MOSCA - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2026-10-09T13:30:00+02:00",
+   "end": "2026-10-09T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232732-8-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2026-10-09T15:45:00+02:00",
+   "end": "2026-10-09T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232731-9-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-10-12T08:00:00+02:00",
+   "end": "2026-10-12T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-9-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-10-12T10:15:00+02:00",
+   "end": "2026-10-12T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232672-9-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - KHLIF BOUASSIDA - Macro Excel - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Applications d'entreprise\nEnseignant : KHLIF BOUASSIDA\nSalle : B7-101\nMémo : Macro Excel\nType : Demi-sem.",
+   "start": "2026-10-12T13:30:00+02:00",
+   "end": "2026-10-12T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232737-9-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - TD",
+   "location": "J-103",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : J-103\nType : TD",
+   "start": "2026-10-12T15:45:00+02:00",
+   "end": "2026-10-12T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-9-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-10-13T08:00:00+02:00",
+   "end": "2026-10-13T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-9-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-10-13T10:15:00+02:00",
+   "end": "2026-10-13T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232561-9-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Séminaire",
+   "location": "C-214",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-214\nType : Séminaire",
+   "start": "2026-10-13T13:30:00+02:00",
+   "end": "2026-10-13T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232742-9-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - GARGOURI - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : B7-101\nType : Demi-sem.",
+   "start": "2026-10-13T15:45:00+02:00",
+   "end": "2026-10-13T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232450-9-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "J-101",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nSalle : J-101\nType : TD",
+   "start": "2026-10-14T08:00:00+02:00",
+   "end": "2026-10-14T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-9-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-10-14T10:15:00+02:00",
+   "end": "2026-10-14T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-9-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-10-14T13:30:00+02:00",
+   "end": "2026-10-14T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-9-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-10-14T15:45:00+02:00",
+   "end": "2026-10-14T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232492-9-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - BHOURI, BOIDIN - TP",
+   "location": "B-023, Labo Méca.",
+   "description": "Matière : Conception et Production de Sy\nEnseignants : BHOURI, BOIDIN\nSalles : B-023, Labo Méca.\nType : TP",
+   "start": "2026-10-15T08:00:00+02:00",
+   "end": "2026-10-15T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232780-9-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - SION - Demi-sem.",
+   "location": "C-206a",
+   "description": "Matière : Electronique\nEnseignant : SION\nSalle : C-206a\nType : Demi-sem.",
+   "start": "2026-10-16T08:00:00+02:00",
+   "end": "2026-10-16T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232630-9-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - MOSCA - TD",
+   "location": "J-101",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : J-101\nType : TD",
+   "start": "2026-10-16T13:30:00+02:00",
+   "end": "2026-10-16T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233077-9-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - LALOUX - TD",
+   "location": "I-102",
+   "description": "Matière : DDRS 2\nEnseignant : LALOUX\nSalle : I-102\nType : TD",
+   "start": "2026-10-16T15:45:00+02:00",
+   "end": "2026-10-16T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232282-10-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "start": "2026-10-19T08:00:00+02:00",
+   "end": "2026-10-19T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232633-10-TREHOUT_LOIS-Index-Education",
+   "title": "Project Planning - DANIEL - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-10-19T10:15:00+02:00",
+   "end": "2026-10-19T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232496-10-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - ROYES - Séminaire",
+   "location": "B-023",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : ROYES\nSalle : B-023\nType : Séminaire",
+   "start": "2026-10-19T15:45:00+02:00",
+   "end": "2026-10-19T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-10-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-10-20T08:00:00+02:00",
+   "end": "2026-10-20T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-10-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-10-20T10:15:00+02:00",
+   "end": "2026-10-20T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232738-10-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mécanique des fluides\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "start": "2026-10-20T13:30:00+02:00",
+   "end": "2026-10-20T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232691-10-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - DANGOUMAU - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Applications d'entreprise\nEnseignant : DANGOUMAU\nSalle : I-106\nType : Demi-sem.",
+   "start": "2026-10-20T15:45:00+02:00",
+   "end": "2026-10-20T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232562-10-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Séminaire",
+   "location": "C-214",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-214\nType : Séminaire",
+   "start": "2026-10-21T08:00:00+02:00",
+   "end": "2026-10-21T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-10-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2026-10-21T10:15:00+02:00",
+   "end": "2026-10-21T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-10-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-10-21T13:30:00+02:00",
+   "end": "2026-10-21T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-10-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-10-21T15:45:00+02:00",
+   "end": "2026-10-21T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232699-10-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Applications d'entreprise\nSalle : B7-101\nType : Demi-sem.",
+   "start": "2026-10-22T08:00:00+02:00",
+   "end": "2026-10-22T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232668-10-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Applications d'entreprise\nSalle : B7-101\nType : Demi-sem.",
+   "start": "2026-10-22T10:15:00+02:00",
+   "end": "2026-10-22T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232661-10-TREHOUT_LOIS-Index-Education",
+   "title": "Thermodynamique - CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Thermodynamique\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "start": "2026-10-23T09:00:00+02:00",
+   "end": "2026-10-23T11:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-235772-10-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - TD",
+   "location": "J-101",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : J-101\nType : TD",
+   "start": "2026-10-23T15:45:00+02:00",
+   "end": "2026-10-23T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7791-TREHOUT_LOIS-Index-Education",
+   "title": "Vacances",
+   "location": "",
+   "description": "",
+   "start": "2026-10-26T00:00:00+01:00",
+   "end": "2026-11-02T00:00:00+01:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-235767-12-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-11-02T08:00:00+01:00",
+   "end": "2026-11-02T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-12-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-11-02T10:15:00+01:00",
+   "end": "2026-11-02T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-235770-12-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - TD",
+   "location": "I-101",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : I-101\nType : TD",
+   "start": "2026-11-02T13:30:00+01:00",
+   "end": "2026-11-02T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232687-12-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - KHLIF BOUASSIDA - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Applications d'entreprise\nEnseignant : KHLIF BOUASSIDA\nSalle : B7-101\nType : Demi-sem.",
+   "start": "2026-11-02T15:45:00+01:00",
+   "end": "2026-11-02T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-12-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-11-03T08:00:00+01:00",
+   "end": "2026-11-03T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-12-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-11-03T10:15:00+01:00",
+   "end": "2026-11-03T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232561-12-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Séminaire",
+   "location": "C-214",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-214\nType : Séminaire",
+   "start": "2026-11-03T13:30:00+01:00",
+   "end": "2026-11-03T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236147-12-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - GARGOURI - Demi-sem.",
+   "location": "B7-101",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : B7-101\nType : Demi-sem.",
+   "start": "2026-11-03T15:45:00+01:00",
+   "end": "2026-11-03T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232455-12-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "J-101",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nSalle : J-101\nType : TD",
+   "start": "2026-11-04T08:00:00+01:00",
+   "end": "2026-11-04T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-12-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-11-04T10:15:00+01:00",
+   "end": "2026-11-04T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-12-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-04T13:30:00+01:00",
+   "end": "2026-11-04T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-12-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-04T15:45:00+01:00",
+   "end": "2026-11-04T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232334-12-TREHOUT_LOIS-Index-Education",
+   "title": "Retour de Stage IE1 - SION - TD",
+   "location": "J-102",
+   "description": "Matière : Retour de Stage IE1\nEnseignant : SION\nSalle : J-102\nType : TD",
+   "start": "2026-11-05T08:00:00+01:00",
+   "end": "2026-11-05T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232501-12-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - ROYES - TP",
+   "location": "Labo Méca.",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : ROYES\nSalle : Labo Méca.\nType : TP",
+   "start": "2026-11-06T08:00:00+01:00",
+   "end": "2026-11-06T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232635-12-TREHOUT_LOIS-Index-Education",
+   "title": "Project Planning - DANIEL - TD",
+   "location": "J-101",
+   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "start": "2026-11-06T13:30:00+01:00",
+   "end": "2026-11-06T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232745-12-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - GARGOURI - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : I-106\nType : Demi-sem.",
+   "start": "2026-11-06T15:45:00+01:00",
+   "end": "2026-11-06T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232676-13-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - CB Surv",
+   "location": "B7-101",
+   "description": "Matière : Applications d'entreprise\nSalle : B7-101\nType : CB Surv",
+   "start": "2026-11-09T08:00:00+01:00",
+   "end": "2026-11-09T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-13-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-11-09T10:15:00+01:00",
+   "end": "2026-11-09T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232393-13-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Séminaire",
+   "location": "C-214",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-214\nType : Séminaire",
+   "start": "2026-11-09T13:30:00+01:00",
+   "end": "2026-11-09T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232505-13-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - ROYES - Séminaire",
+   "location": "B-028",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : ROYES\nSalle : B-028\nType : Séminaire",
+   "start": "2026-11-09T15:45:00+01:00",
+   "end": "2026-11-09T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-13-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-11-10T08:00:00+01:00",
+   "end": "2026-11-10T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-13-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-11-10T10:15:00+01:00",
+   "end": "2026-11-10T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232243-13-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-10T13:30:00+01:00",
+   "end": "2026-11-10T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232244-13-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-10T15:45:00+01:00",
+   "end": "2026-11-10T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7792-TREHOUT_LOIS-Index-Education",
+   "title": "Férié",
+   "location": "",
+   "description": "",
+   "start": "2026-11-11T00:00:00+01:00",
+   "end": "2026-11-12T00:00:00+01:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-232637-13-TREHOUT_LOIS-Index-Education",
+   "title": "Project Planning - DANIEL - TD",
+   "location": "J-101",
+   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "start": "2026-11-13T08:00:00+01:00",
+   "end": "2026-11-13T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232293-13-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-11-13T10:15:00+01:00",
+   "end": "2026-11-13T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243690-13-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - JEDREZAK - TP",
+   "location": "B7-102",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : JEDREZAK\nSalle : B7-102\nType : TP",
+   "start": "2026-11-13T13:30:00+01:00",
+   "end": "2026-11-13T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232586-14-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-11-16T08:00:00+01:00",
+   "end": "2026-11-16T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-14-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-11-16T10:15:00+01:00",
+   "end": "2026-11-16T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236139-14-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - DANGOUMAU - Demi-sem.",
+   "location": "B7-001",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : DANGOUMAU\nSalle : B7-001\nType : Demi-sem.",
+   "start": "2026-11-16T13:30:00+01:00",
+   "end": "2026-11-16T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233028-14-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - BELART - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Changement organisationnel\nEnseignant : BELART\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-11-16T15:45:00+01:00",
+   "end": "2026-11-16T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-14-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-11-17T08:00:00+01:00",
+   "end": "2026-11-17T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-14-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-11-17T10:15:00+01:00",
+   "end": "2026-11-17T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-14-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-11-18T10:15:00+01:00",
+   "end": "2026-11-18T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-14-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-18T13:30:00+01:00",
+   "end": "2026-11-18T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-14-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-18T15:45:00+01:00",
+   "end": "2026-11-18T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232830-14-TREHOUT_LOIS-Index-Education",
+   "title": "Electronique - Demi-sem.",
+   "location": "C-206a",
+   "description": "Matière : Electronique\nSalle : C-206a\nType : Demi-sem.",
+   "start": "2026-11-19T08:00:00+01:00",
+   "end": "2026-11-19T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-240071-14-TREHOUT_LOIS-Index-Education",
+   "title": "Trophée de l'engagement - Réunion",
+   "location": "",
+   "description": "Matière : Trophée de l'engagement\nType : Réunion",
+   "start": "2026-11-19T18:00:00+01:00",
+   "end": "2026-11-19T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232829-14-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Séminaire",
+   "location": "C-212",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-212\nType : Séminaire",
+   "start": "2026-11-20T08:00:00+01:00",
+   "end": "2026-11-20T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233023-14-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - ROYES - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : ROYES\nSalle : B-024\nType : Séminaire",
+   "start": "2026-11-20T13:30:00+01:00",
+   "end": "2026-11-20T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236163-14-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - GARGOURI - Demi-sem.",
+   "location": "B7-001",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : B7-001\nType : Demi-sem.",
+   "start": "2026-11-20T15:45:00+01:00",
+   "end": "2026-11-20T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232861-15-TREHOUT_LOIS-Index-Education",
+   "title": "Project Planning - DANIEL - TD",
+   "location": "J-101",
+   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "start": "2026-11-23T08:00:00+01:00",
+   "end": "2026-11-23T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-15-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-11-23T10:15:00+01:00",
+   "end": "2026-11-23T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233022-15-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - BOIDIN - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : BOIDIN\nSalle : B-024\nType : Séminaire",
+   "start": "2026-11-23T13:30:00+01:00",
+   "end": "2026-11-23T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236155-15-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - GARGOURI - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : I-105\nType : Demi-sem.",
+   "start": "2026-11-23T15:45:00+01:00",
+   "end": "2026-11-23T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-15-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-11-24T08:00:00+01:00",
+   "end": "2026-11-24T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-15-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-11-24T10:15:00+01:00",
+   "end": "2026-11-24T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232723-15-TREHOUT_LOIS-Index-Education",
+   "title": "Introduction aux réseaux - DRUON - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Introduction aux réseaux\nEnseignant : DRUON\nSalle : I-106\nType : Demi-sem.",
+   "start": "2026-11-24T15:45:00+01:00",
+   "end": "2026-11-24T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232594-15-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - TD",
+   "location": "J-101",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : J-101\nType : TD",
+   "start": "2026-11-25T08:00:00+01:00",
+   "end": "2026-11-25T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-15-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-11-25T10:15:00+01:00",
+   "end": "2026-11-25T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-15-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-25T13:30:00+01:00",
+   "end": "2026-11-25T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-15-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-11-25T15:45:00+01:00",
+   "end": "2026-11-25T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232828-15-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - Séminaire",
+   "location": "C-212",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-212\nType : Séminaire",
+   "start": "2026-11-26T08:00:00+01:00",
+   "end": "2026-11-26T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232599-15-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - JEDREZAK - TP",
+   "location": "B7-101",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : JEDREZAK\nSalle : B7-101\nType : TP",
+   "start": "2026-11-27T08:00:00+01:00",
+   "end": "2026-11-27T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232643-15-TREHOUT_LOIS-Index-Education",
+   "title": "Project Planning - DANIEL - TD",
+   "location": "J-101",
+   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "start": "2026-11-27T15:45:00+01:00",
+   "end": "2026-11-27T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232926-16-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - TD",
+   "location": "E-602",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : E-602\nType : TD",
+   "start": "2026-11-30T08:00:00+01:00",
+   "end": "2026-11-30T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-16-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi BODA",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi BODA\nType : Cours",
+   "start": "2026-11-30T10:15:00+01:00",
+   "end": "2026-11-30T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233022-16-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - BOIDIN - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : BOIDIN\nSalle : B-024\nType : Séminaire",
+   "start": "2026-11-30T13:30:00+01:00",
+   "end": "2026-11-30T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236167-16-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2026-11-30T15:45:00+01:00",
+   "end": "2026-11-30T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232098-16-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-12-01T08:00:00+01:00",
+   "end": "2026-12-01T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233114-16-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-12-01T10:15:00+01:00",
+   "end": "2026-12-01T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232711-16-TREHOUT_LOIS-Index-Education",
+   "title": "Introduction aux réseaux - DRUON - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Introduction aux réseaux\nEnseignant : DRUON\nSalle : I-105\nType : Demi-sem.",
+   "start": "2026-12-01T13:30:00+01:00",
+   "end": "2026-12-01T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236175-16-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - DANGOUMAU - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : DANGOUMAU\nSalle : I-106\nType : Demi-sem.",
+   "start": "2026-12-01T15:45:00+01:00",
+   "end": "2026-12-01T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-16-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2026-12-02T10:15:00+01:00",
+   "end": "2026-12-02T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-16-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-12-02T13:30:00+01:00",
+   "end": "2026-12-02T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-16-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-12-02T15:45:00+01:00",
+   "end": "2026-12-02T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232828-16-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - Séminaire",
+   "location": "C-212",
+   "description": "Matière : Traitement du signal\nSalle : C-212\nType : Séminaire",
+   "start": "2026-12-03T08:00:00+01:00",
+   "end": "2026-12-03T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232604-16-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - JEDREZAK - TP",
+   "location": "C-206a, C-206b",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : JEDREZAK\nSalles : C-206a, C-206b\nType : TP",
+   "start": "2026-12-04T08:00:00+01:00",
+   "end": "2026-12-04T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232645-16-TREHOUT_LOIS-Index-Education",
+   "title": "Project Planning - DANIEL - TD",
+   "location": "J-102",
+   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-102\nType : TD",
+   "start": "2026-12-04T13:30:00+01:00",
+   "end": "2026-12-04T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232924-16-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - TD",
+   "location": "I-101",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : I-101\nType : TD",
+   "start": "2026-12-04T15:45:00+01:00",
+   "end": "2026-12-04T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232608-17-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "start": "2026-12-07T08:00:00+01:00",
+   "end": "2026-12-07T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-17-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-12-07T10:15:00+01:00",
+   "end": "2026-12-07T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233022-17-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - PATROUIX - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : PATROUIX\nSalle : B-024\nType : Séminaire",
+   "start": "2026-12-07T13:30:00+01:00",
+   "end": "2026-12-07T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236178-17-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - GARGOURI - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : I-105\nType : Demi-sem.",
+   "start": "2026-12-07T15:45:00+01:00",
+   "end": "2026-12-07T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232103-17-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - TD",
+   "location": "",
+   "description": "Matière : Anglais\nType : TD",
+   "start": "2026-12-08T08:00:00+01:00",
+   "end": "2026-12-08T09:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232152-17-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-12-08T09:15:00+01:00",
+   "end": "2026-12-08T11:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232715-17-TREHOUT_LOIS-Index-Education",
+   "title": "Introduction aux réseaux - DRUON - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Introduction aux réseaux\nEnseignant : DRUON\nSalle : I-106\nType : Demi-sem.",
+   "start": "2026-12-08T13:30:00+01:00",
+   "end": "2026-12-08T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-17-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2026-12-09T10:15:00+01:00",
+   "end": "2026-12-09T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-17-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-12-09T13:30:00+01:00",
+   "end": "2026-12-09T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-17-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-12-09T15:45:00+01:00",
+   "end": "2026-12-09T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245564-17-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDS - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDS\nType : Réunion",
+   "start": "2026-12-09T18:15:00+01:00",
+   "end": "2026-12-09T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232828-17-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - Séminaire",
+   "location": "C-212",
+   "description": "Matière : Traitement du signal\nSalle : C-212\nType : Séminaire",
+   "start": "2026-12-10T08:00:00+01:00",
+   "end": "2026-12-10T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-238337-17-TREHOUT_LOIS-Index-Education",
+   "title": "Matière à préciser - CV",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Matière à préciser\nSalle : Amphi GOUBET\nMémo : CV",
+   "start": "2026-12-10T13:30:00+01:00",
+   "end": "2026-12-10T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245565-17-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDS - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDS\nType : Réunion",
+   "start": "2026-12-10T18:15:00+01:00",
+   "end": "2026-12-10T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-236180-17-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - CB Surv",
+   "location": "E-502",
+   "description": "Matière : Conception de Système d'inform\nSalle : E-502\nType : CB Surv",
+   "start": "2026-12-11T08:00:00+01:00",
+   "end": "2026-12-11T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232928-17-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - Cours",
+   "location": "Amphi BODA",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi BODA\nType : Cours",
+   "start": "2026-12-11T10:15:00+01:00",
+   "end": "2026-12-11T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245566-17-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDS - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDS\nType : Réunion",
+   "start": "2026-12-11T18:15:00+01:00",
+   "end": "2026-12-11T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232249-18-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-12-14T10:15:00+01:00",
+   "end": "2026-12-14T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245567-18-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDS - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDS\nType : Réunion",
+   "start": "2026-12-14T18:15:00+01:00",
+   "end": "2026-12-14T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232104-18-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - DAVIES, HAGUE, RIBALS - CB Ens",
+   "location": "I-101, I-102, I-103, I-104",
+   "description": "Matière : Anglais\nEnseignants : DAVIES, HAGUE, RIBALS\nSalles : I-101, I-102, I-103, I-104\nType : CB Ens",
+   "start": "2026-12-15T08:00:00+01:00",
+   "end": "2026-12-15T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232130-18-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2026-12-15T10:15:00+01:00",
+   "end": "2026-12-15T11:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245568-18-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDS - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDS\nType : Réunion",
+   "start": "2026-12-15T18:15:00+01:00",
+   "end": "2026-12-15T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232893-18-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - TD",
+   "location": "",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nType : TD",
+   "start": "2026-12-16T08:00:00+01:00",
+   "end": "2026-12-16T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-18-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2026-12-16T10:15:00+01:00",
+   "end": "2026-12-16T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-18-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-12-16T13:30:00+01:00",
+   "end": "2026-12-16T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-18-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2026-12-16T15:45:00+01:00",
+   "end": "2026-12-16T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245569-18-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDS - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDS\nType : Réunion",
+   "start": "2026-12-16T18:15:00+01:00",
+   "end": "2026-12-16T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232719-18-TREHOUT_LOIS-Index-Education",
+   "title": "Introduction aux réseaux - DRUON - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Introduction aux réseaux\nEnseignant : DRUON\nSalle : I-106\nType : Demi-sem.",
+   "start": "2026-12-17T08:00:00+01:00",
+   "end": "2026-12-17T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243471-18-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - BHOURI - Séminaire",
+   "location": "B-030",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : BHOURI\nSalle : B-030\nType : Séminaire",
+   "start": "2026-12-17T10:15:00+01:00",
+   "end": "2026-12-17T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-238340-18-TREHOUT_LOIS-Index-Education",
+   "title": "Matière à préciser - CV",
+   "location": "",
+   "description": "Matière : Matière à préciser\nMémo : CV",
+   "start": "2026-12-17T13:30:00+01:00",
+   "end": "2026-12-17T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232435-18-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - BOUTGHATIN - CB Ens",
+   "location": "B7-103",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : B7-103\nType : CB Ens",
+   "start": "2026-12-18T09:00:00+01:00",
+   "end": "2026-12-18T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232927-18-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-12-18T10:15:00+01:00",
+   "end": "2026-12-18T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7793-TREHOUT_LOIS-Index-Education",
+   "title": "Vacances",
+   "location": "",
+   "description": "",
+   "start": "2026-12-19T00:00:00+01:00",
+   "end": "2027-01-04T00:00:00+01:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-233218-21-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-01-05T08:00:00+01:00",
+   "end": "2027-01-05T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232133-21-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - BRANCO, VIAU - CB Ens",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignants : BRANCO, VIAU\nType : CB Ens",
+   "start": "2027-01-05T10:15:00+01:00",
+   "end": "2027-01-05T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232929-21-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2027-01-05T13:30:00+01:00",
+   "end": "2027-01-05T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232891-21-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - TD",
+   "location": "I-102",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : I-102\nType : TD",
+   "start": "2027-01-06T08:00:00+01:00",
+   "end": "2027-01-06T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243034-21-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2027-01-06T10:15:00+01:00",
+   "end": "2027-01-06T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-21-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-01-06T13:30:00+01:00",
+   "end": "2027-01-06T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-21-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-01-06T15:45:00+01:00",
+   "end": "2027-01-06T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-243711-21-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - BHOURI - Séminaire",
+   "location": "B-030",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : BHOURI\nSalle : B-030\nType : Séminaire",
+   "start": "2027-01-07T08:00:00+01:00",
+   "end": "2027-01-07T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232329-21-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 3\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "start": "2027-01-08T08:00:00+01:00",
+   "end": "2027-01-08T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232554-22-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - CB Ens",
+   "location": "B7-103",
+   "description": "Matière : Conception et Production de Sy\nSalle : B7-103\nType : CB Ens",
+   "start": "2027-01-11T08:00:00+01:00",
+   "end": "2027-01-11T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234188-22-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - Cours",
+   "location": "Amphi POIRIER",
+   "description": "Matière : Résistance des matériaux\nSalle : Amphi POIRIER\nType : Cours",
+   "start": "2027-01-11T13:30:00+01:00",
+   "end": "2027-01-11T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234191-22-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - Cours",
+   "location": "Amphi POIRIER",
+   "description": "Matière : Résistance des matériaux\nSalle : Amphi POIRIER\nType : Cours",
+   "start": "2027-01-11T15:45:00+01:00",
+   "end": "2027-01-11T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-22-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-01-12T08:00:00+01:00",
+   "end": "2027-01-12T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-22-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-01-12T10:15:00+01:00",
+   "end": "2027-01-12T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233030-22-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Changement organisationnel\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "start": "2027-01-13T09:00:00+01:00",
+   "end": "2027-01-13T11:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232239-22-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - MESGHOUNI, NICLAEYS, TROUILLET - SOUTENANCE - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nEnseignants : MESGHOUNI, NICLAEYS, TROUILLET\nMémo : SOUTENANCE\nType : TNE",
+   "start": "2027-01-13T13:30:00+01:00",
+   "end": "2027-01-13T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232240-22-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - MESGHOUNI, NICLAEYS, TROUILLET - SOUTENANCE - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nEnseignants : MESGHOUNI, NICLAEYS, TROUILLET\nMémo : SOUTENANCE\nType : TNE",
+   "start": "2027-01-13T15:45:00+01:00",
+   "end": "2027-01-13T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233214-23-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - REPARATION RATTRAPAGE - CB Surv",
+   "location": "J-105",
+   "description": "Matière : Espagnol\nSalle : J-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-18T10:15:00+01:00",
+   "end": "2027-01-18T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233211-23-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais - REPARATION RATTRAPAGE - CB Surv",
+   "location": "J-105",
+   "description": "Matière : Anglais\nSalle : J-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-18T13:30:00+01:00",
+   "end": "2027-01-18T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233208-23-TREHOUT_LOIS-Index-Education",
+   "title": "Traitement du signal - REPARATION RATTRAPAGE - CB Surv",
+   "location": "I-106",
+   "description": "Matière : Traitement du signal\nSalle : I-106\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-19T08:30:00+01:00",
+   "end": "2027-01-19T09:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233198-23-TREHOUT_LOIS-Index-Education",
+   "title": "Thermodynamique - REPARATION RATTRAPAGE - CB Surv",
+   "location": "J-105",
+   "description": "Matière : Thermodynamique\nSalle : J-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-19T10:15:00+01:00",
+   "end": "2027-01-19T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233202-23-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - REPARATION RATTRAPAGE - CB Surv",
+   "location": "J-105",
+   "description": "Matière : Mécanique des fluides\nSalle : J-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-19T13:30:00+01:00",
+   "end": "2027-01-19T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245954-23-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - REPARATION RATTRAPAGE - CB Surv",
+   "location": "I-105",
+   "description": "Matière : Applications d'entreprise\nSalle : I-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-20T10:15:00+01:00",
+   "end": "2027-01-20T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232245-23-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-01-20T13:30:00+01:00",
+   "end": "2027-01-20T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232246-23-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-01-20T15:45:00+01:00",
+   "end": "2027-01-20T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233203-23-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - REPARATION RATTRAPAGE - CB Surv",
+   "location": "I-106",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nSalle : I-106\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-21T08:00:00+01:00",
+   "end": "2027-01-21T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233195-23-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 3 - REPARATION RATTRAPAGE - CB Surv",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 3\nSalle : I-101\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-21T10:15:00+01:00",
+   "end": "2027-01-21T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245956-23-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - REPARATION RATTRAPAGE - CB Surv",
+   "location": "I-106",
+   "description": "Matière : Conception de Système d'inform\nSalle : I-106\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-22T08:00:00+01:00",
+   "end": "2027-01-22T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233210-23-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - REPARATION RATTRAPAGE - CB Surv",
+   "location": "I-101",
+   "description": "Matière : Changement organisationnel\nSalle : I-101\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-22T10:15:00+01:00",
+   "end": "2027-01-22T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233206-23-TREHOUT_LOIS-Index-Education",
+   "title": "Conception et Production de Sy - REPARATION RATTRAPAGE - CB Surv",
+   "location": "I-105",
+   "description": "Matière : Conception et Production de Sy\nSalle : I-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "start": "2027-01-22T13:30:00+01:00",
+   "end": "2027-01-22T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233115-23-TREHOUT_LOIS-Index-Education",
+   "title": "FIN DU 3E SEMESTRE - Réunion",
+   "location": "",
+   "description": "Matière : FIN DU 3E SEMESTRE\nType : Réunion",
+   "start": "2027-01-22T19:45:00+01:00",
+   "end": "2027-01-22T21:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233300-24-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - MEGE REVIL - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Du Minerai à la pièce fonction\nEnseignant : MEGE REVIL\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-01-25T08:00:00+01:00",
+   "end": "2027-01-25T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233555-24-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-01-25T10:15:00+01:00",
+   "end": "2027-01-25T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233319-24-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Ondes\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-01-25T13:30:00+01:00",
+   "end": "2027-01-25T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233463-24-TREHOUT_LOIS-Index-Education",
+   "title": "Project Organizing - DANIEL - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-01-25T15:45:00+01:00",
+   "end": "2027-01-25T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-24-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-01-26T08:00:00+01:00",
+   "end": "2027-01-26T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-24-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-01-26T10:15:00+01:00",
+   "end": "2027-01-26T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233701-24-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-01-26T13:30:00+01:00",
+   "end": "2027-01-26T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233702-24-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-01-26T15:45:00+01:00",
+   "end": "2027-01-26T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233466-24-TREHOUT_LOIS-Index-Education",
+   "title": "Project Organizing - DANIEL - TD",
+   "location": "J-101",
+   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "start": "2027-01-27T08:00:00+01:00",
+   "end": "2027-01-27T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233618-24-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "I-101",
+   "description": "Matière : Economie et Science politique\nSalle : I-101\nType : TD",
+   "start": "2027-01-27T10:15:00+01:00",
+   "end": "2027-01-27T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232230-24-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-01-27T13:30:00+01:00",
+   "end": "2027-01-27T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232231-24-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-01-27T15:45:00+01:00",
+   "end": "2027-01-27T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233488-24-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-102",
+   "description": "Matière : Entrepreneuriat\nSalle : J-102\nType : TD",
+   "start": "2027-01-29T08:00:00+01:00",
+   "end": "2027-01-29T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233490-24-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-102",
+   "description": "Matière : Entrepreneuriat\nSalle : J-102\nType : TD",
+   "start": "2027-01-29T10:15:00+01:00",
+   "end": "2027-01-29T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233523-24-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "I-102",
+   "description": "Matière : Dynamique des solides\nSalle : I-102\nType : TD",
+   "start": "2027-01-29T13:30:00+01:00",
+   "end": "2027-01-29T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234193-24-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-103",
+   "description": "Matière : Résistance des matériaux\nSalle : I-103\nType : TD",
+   "start": "2027-01-29T15:45:00+01:00",
+   "end": "2027-01-29T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233301-25-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - NAJJAR - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Du Minerai à la pièce fonction\nEnseignant : NAJJAR\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-01T08:00:00+01:00",
+   "end": "2027-02-01T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233557-25-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-01T10:15:00+01:00",
+   "end": "2027-02-01T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233323-25-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-103",
+   "description": "Matière : Ondes\nSalle : I-103\nType : Séminaire",
+   "start": "2027-02-01T13:30:00+01:00",
+   "end": "2027-02-01T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-25-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-02-02T08:00:00+01:00",
+   "end": "2027-02-02T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-25-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-02-02T10:15:00+01:00",
+   "end": "2027-02-02T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233724-25-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-02-02T13:30:00+01:00",
+   "end": "2027-02-02T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233725-25-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-02-02T15:45:00+01:00",
+   "end": "2027-02-02T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233560-25-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-02-03T08:00:00+01:00",
+   "end": "2027-02-03T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233618-25-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "I-101",
+   "description": "Matière : Economie et Science politique\nSalle : I-101\nType : TD",
+   "start": "2027-02-03T10:15:00+01:00",
+   "end": "2027-02-03T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234414-25-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-03T13:30:00+01:00",
+   "end": "2027-02-03T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234415-25-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-03T15:45:00+01:00",
+   "end": "2027-02-03T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234197-25-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-102",
+   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
+   "start": "2027-02-04T08:00:00+01:00",
+   "end": "2027-02-04T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233327-25-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-02-04T10:15:00+01:00",
+   "end": "2027-02-04T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233320-25-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Ondes\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-05T08:00:00+01:00",
+   "end": "2027-02-05T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233524-25-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-05T10:15:00+01:00",
+   "end": "2027-02-05T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233467-25-TREHOUT_LOIS-Index-Education",
+   "title": "Project Organizing - DANIEL - TD",
+   "location": "J-101",
+   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "start": "2027-02-05T13:30:00+01:00",
+   "end": "2027-02-05T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233492-25-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "I-103",
+   "description": "Matière : Entrepreneuriat\nSalle : I-103\nType : TD",
+   "start": "2027-02-05T15:45:00+01:00",
+   "end": "2027-02-05T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233304-26-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - TANDJAOUI - Cours",
+   "location": "Amphi BODA",
+   "description": "Matière : Du Minerai à la pièce fonction\nEnseignant : TANDJAOUI\nSalle : Amphi BODA\nType : Cours",
+   "start": "2027-02-08T08:00:00+01:00",
+   "end": "2027-02-08T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233566-26-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi BODA",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi BODA\nType : Cours",
+   "start": "2027-02-08T10:15:00+01:00",
+   "end": "2027-02-08T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233748-26-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-02-08T13:30:00+01:00",
+   "end": "2027-02-08T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233750-26-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-02-08T15:45:00+01:00",
+   "end": "2027-02-08T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-26-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-02-09T08:00:00+01:00",
+   "end": "2027-02-09T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-26-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-02-09T10:15:00+01:00",
+   "end": "2027-02-09T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233494-26-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-104",
+   "description": "Matière : Entrepreneuriat\nSalle : J-104\nType : TD",
+   "start": "2027-02-09T13:30:00+01:00",
+   "end": "2027-02-09T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233496-26-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-104",
+   "description": "Matière : Entrepreneuriat\nSalle : J-104\nType : TD",
+   "start": "2027-02-09T15:45:00+01:00",
+   "end": "2027-02-09T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233572-26-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2027-02-10T08:00:00+01:00",
+   "end": "2027-02-10T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233618-26-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "I-102",
+   "description": "Matière : Economie et Science politique\nSalle : I-102\nType : TD",
+   "start": "2027-02-10T10:15:00+01:00",
+   "end": "2027-02-10T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246697-26-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-10T13:30:00+01:00",
+   "end": "2027-02-10T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-246698-26-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-10T15:45:00+01:00",
+   "end": "2027-02-10T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233568-26-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-102",
+   "description": "Matière : Ondes\nSalle : I-102\nType : Séminaire",
+   "start": "2027-02-11T08:00:00+01:00",
+   "end": "2027-02-11T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233525-26-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-11T10:15:00+01:00",
+   "end": "2027-02-11T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233305-26-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - M. ATTIA Moustapha - TD",
+   "location": "J-101",
+   "description": "Matière : Du Minerai à la pièce fonction\nSalle : J-101\nMémo : M. ATTIA Moustapha\nType : TD",
+   "start": "2027-02-12T08:00:00+01:00",
+   "end": "2027-02-12T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233526-26-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "J-103",
+   "description": "Matière : Dynamique des solides\nSalle : J-103\nType : TD",
+   "start": "2027-02-12T10:15:00+01:00",
+   "end": "2027-02-12T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233474-26-TREHOUT_LOIS-Index-Education",
+   "title": "Project Organizing - DANIEL - TD",
+   "location": "J-101",
+   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "start": "2027-02-12T13:30:00+01:00",
+   "end": "2027-02-12T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233740-26-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-02-12T15:45:00+01:00",
+   "end": "2027-02-12T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233529-27-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-15T08:00:00+01:00",
+   "end": "2027-02-15T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233573-27-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-15T10:15:00+01:00",
+   "end": "2027-02-15T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233747-27-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-102",
+   "description": "Matière : Ondes\nSalle : I-102\nType : Séminaire",
+   "start": "2027-02-15T15:45:00+01:00",
+   "end": "2027-02-15T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-27-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-02-16T08:00:00+01:00",
+   "end": "2027-02-16T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-27-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-02-16T10:15:00+01:00",
+   "end": "2027-02-16T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233498-27-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-103",
+   "description": "Matière : Entrepreneuriat\nSalle : J-103\nType : TD",
+   "start": "2027-02-16T13:30:00+01:00",
+   "end": "2027-02-16T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233460-27-TREHOUT_LOIS-Index-Education",
+   "title": "Cycle de conférences - NORMAND - TP",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Cycle de conférences\nEnseignant : NORMAND\nSalle : Amphi L. de VINC\nType : TP",
+   "start": "2027-02-16T15:45:00+01:00",
+   "end": "2027-02-16T16:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245570-27-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDI - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDI\nType : Réunion",
+   "start": "2027-02-16T18:15:00+01:00",
+   "end": "2027-02-16T20:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233475-27-TREHOUT_LOIS-Index-Education",
+   "title": "Project Organizing - DANIEL - TD",
+   "location": "J-102",
+   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : J-102\nType : TD",
+   "start": "2027-02-17T08:00:00+01:00",
+   "end": "2027-02-17T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233579-27-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2027-02-17T10:15:00+01:00",
+   "end": "2027-02-17T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-27-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-17T13:30:00+01:00",
+   "end": "2027-02-17T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-27-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-17T15:45:00+01:00",
+   "end": "2027-02-17T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245571-27-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDI - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDI\nType : Réunion",
+   "start": "2027-02-17T18:15:00+01:00",
+   "end": "2027-02-17T20:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233530-27-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - CB Ens",
+   "location": "E-601, E-603",
+   "description": "Matière : Dynamique des solides\nSalles : E-601, E-603\nType : CB Ens",
+   "start": "2027-02-18T09:00:00+01:00",
+   "end": "2027-02-18T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234216-27-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "J-102",
+   "description": "Matière : Résistance des matériaux\nSalle : J-102\nType : TD",
+   "start": "2027-02-18T10:15:00+01:00",
+   "end": "2027-02-18T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245572-27-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDI - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDI\nType : Réunion",
+   "start": "2027-02-18T18:15:00+01:00",
+   "end": "2027-02-18T20:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233547-27-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "I-103",
+   "description": "Matière : Economie et Science politique\nSalle : I-103\nType : TD",
+   "start": "2027-02-19T08:00:00+01:00",
+   "end": "2027-02-19T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233309-27-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - M.ATTIA Moustapha - TD",
+   "location": "J-102",
+   "description": "Matière : Du Minerai à la pièce fonction\nSalle : J-102\nMémo : M.ATTIA Moustapha\nType : TD",
+   "start": "2027-02-19T10:15:00+01:00",
+   "end": "2027-02-19T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233779-27-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-02-19T13:30:00+01:00",
+   "end": "2027-02-19T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245573-27-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDI - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDI\nType : Réunion",
+   "start": "2027-02-19T18:15:00+01:00",
+   "end": "2027-02-19T20:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234221-28-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-101",
+   "description": "Matière : Résistance des matériaux\nSalle : I-101\nType : TD",
+   "start": "2027-02-22T08:00:00+01:00",
+   "end": "2027-02-22T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233583-28-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-22T10:15:00+01:00",
+   "end": "2027-02-22T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233533-28-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "J-104",
+   "description": "Matière : Dynamique des solides\nSalle : J-104\nType : TD",
+   "start": "2027-02-22T13:30:00+01:00",
+   "end": "2027-02-22T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233500-28-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-101",
+   "description": "Matière : Entrepreneuriat\nSalle : J-101\nType : TD",
+   "start": "2027-02-22T15:45:00+01:00",
+   "end": "2027-02-22T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245574-28-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDI - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDI\nType : Réunion",
+   "start": "2027-02-22T18:15:00+01:00",
+   "end": "2027-02-22T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-28-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-02-23T08:00:00+01:00",
+   "end": "2027-02-23T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-28-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-02-23T10:15:00+01:00",
+   "end": "2027-02-23T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233531-28-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-02-23T13:30:00+01:00",
+   "end": "2027-02-23T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233502-28-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "",
+   "description": "Matière : Entrepreneuriat\nType : TD",
+   "start": "2027-02-23T15:45:00+01:00",
+   "end": "2027-02-23T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245575-28-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDI - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDI\nType : Réunion",
+   "start": "2027-02-23T18:15:00+01:00",
+   "end": "2027-02-23T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233585-28-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-02-24T08:00:00+01:00",
+   "end": "2027-02-24T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233618-28-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "I-102",
+   "description": "Matière : Economie et Science politique\nSalle : I-102\nType : TD",
+   "start": "2027-02-24T10:15:00+01:00",
+   "end": "2027-02-24T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-28-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-24T13:30:00+01:00",
+   "end": "2027-02-24T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-28-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-02-24T15:45:00+01:00",
+   "end": "2027-02-24T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245576-28-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDI - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDI\nType : Réunion",
+   "start": "2027-02-24T18:15:00+01:00",
+   "end": "2027-02-24T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233739-28-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-02-25T08:00:00+01:00",
+   "end": "2027-02-25T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233575-28-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-101",
+   "description": "Matière : Ondes\nSalle : I-101\nType : Séminaire",
+   "start": "2027-02-26T08:00:00+01:00",
+   "end": "2027-02-26T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233780-28-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-02-26T13:30:00+01:00",
+   "end": "2027-02-26T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233781-28-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "start": "2027-02-26T15:45:00+01:00",
+   "end": "2027-02-26T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7794-TREHOUT_LOIS-Index-Education",
+   "title": "Vacances",
+   "location": "",
+   "description": "",
+   "start": "2027-03-01T00:00:00+01:00",
+   "end": "2027-03-08T00:00:00+01:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-233816-30-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - CB Ens",
+   "location": "E-601, E-603",
+   "description": "Matière : Intelligence ambiante\nSalles : E-601, E-603\nType : CB Ens",
+   "start": "2027-03-08T09:00:00+01:00",
+   "end": "2027-03-08T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233479-30-TREHOUT_LOIS-Index-Education",
+   "title": "Project Organizing - DANIEL - TD",
+   "location": "E-504",
+   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : E-504\nType : TD",
+   "start": "2027-03-08T10:15:00+01:00",
+   "end": "2027-03-08T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233314-30-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - TANDJAOUI - M ou Mme ATTIA - TP",
+   "location": "Fonderie-TP, G-001, G-101",
+   "description": "Matière : Du Minerai à la pièce fonction\nEnseignant : TANDJAOUI\nSalles : Fonderie-TP, G-001, G-101\nMémo : M ou Mme ATTIA\nType : TP",
+   "start": "2027-03-08T13:30:00+01:00",
+   "end": "2027-03-08T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-30-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-03-09T08:00:00+01:00",
+   "end": "2027-03-09T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-30-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-03-09T10:15:00+01:00",
+   "end": "2027-03-09T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233590-30-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2027-03-09T13:30:00+01:00",
+   "end": "2027-03-09T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233504-30-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "E-603",
+   "description": "Matière : Entrepreneuriat\nSalle : E-603\nType : TD",
+   "start": "2027-03-09T15:45:00+01:00",
+   "end": "2027-03-09T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233535-30-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "J-102",
+   "description": "Matière : Dynamique des solides\nSalle : J-102\nType : TD",
+   "start": "2027-03-10T08:00:00+01:00",
+   "end": "2027-03-10T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233593-30-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-03-10T10:15:00+01:00",
+   "end": "2027-03-10T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-30-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-10T13:30:00+01:00",
+   "end": "2027-03-10T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-30-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-10T15:45:00+01:00",
+   "end": "2027-03-10T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245577-30-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDA - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDA\nType : Réunion",
+   "start": "2027-03-10T18:15:00+01:00",
+   "end": "2027-03-10T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233371-30-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-102",
+   "description": "Matière : Ondes\nSalle : I-102\nType : Séminaire",
+   "start": "2027-03-11T08:00:00+01:00",
+   "end": "2027-03-11T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233375-30-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-03-11T10:15:00+01:00",
+   "end": "2027-03-11T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245578-30-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDA - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDA\nType : Réunion",
+   "start": "2027-03-11T18:15:00+01:00",
+   "end": "2027-03-11T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234222-30-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-101",
+   "description": "Matière : Résistance des matériaux\nSalle : I-101\nType : TD",
+   "start": "2027-03-12T08:00:00+01:00",
+   "end": "2027-03-12T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233484-30-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "I-104",
+   "description": "Matière : Economie et Science politique\nSalle : I-104\nType : TD",
+   "start": "2027-03-12T10:15:00+01:00",
+   "end": "2027-03-12T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233823-30-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TP",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TP",
+   "start": "2027-03-12T13:30:00+01:00",
+   "end": "2027-03-12T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245582-30-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDA - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDA\nType : Réunion",
+   "start": "2027-03-12T18:15:00+01:00",
+   "end": "2027-03-12T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233513-31-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-03-15T10:15:00+01:00",
+   "end": "2027-03-15T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233601-31-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TP",
+   "location": "B7-101",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : B7-101\nType : TP",
+   "start": "2027-03-15T13:30:00+01:00",
+   "end": "2027-03-15T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245585-31-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDA - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDA\nType : Réunion",
+   "start": "2027-03-15T18:15:00+01:00",
+   "end": "2027-03-15T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-31-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-03-16T08:00:00+01:00",
+   "end": "2027-03-16T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-31-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-03-16T10:15:00+01:00",
+   "end": "2027-03-16T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233508-31-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "",
+   "description": "Matière : Entrepreneuriat\nType : TD",
+   "start": "2027-03-16T15:45:00+01:00",
+   "end": "2027-03-16T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245584-31-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDA - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDA\nType : Réunion",
+   "start": "2027-03-16T18:15:00+01:00",
+   "end": "2027-03-16T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233540-31-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "J-104",
+   "description": "Matière : Dynamique des solides\nSalle : J-104\nType : TD",
+   "start": "2027-03-17T08:00:00+01:00",
+   "end": "2027-03-17T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233618-31-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "J-101",
+   "description": "Matière : Economie et Science politique\nSalle : J-101\nType : TD",
+   "start": "2027-03-17T10:15:00+01:00",
+   "end": "2027-03-17T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-31-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-17T13:30:00+01:00",
+   "end": "2027-03-17T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-31-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-17T15:45:00+01:00",
+   "end": "2027-03-17T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-245583-31-TREHOUT_LOIS-Index-Education",
+   "title": "CAMPAGNE BDA - Réunion",
+   "location": "",
+   "description": "Matière : CAMPAGNE BDA\nType : Réunion",
+   "start": "2027-03-17T18:15:00+01:00",
+   "end": "2027-03-17T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233316-31-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - CB Surv",
+   "location": "E-601, E-603",
+   "description": "Matière : Du Minerai à la pièce fonction\nSalles : E-601, E-603\nType : CB Surv",
+   "start": "2027-03-18T08:30:00+01:00",
+   "end": "2027-03-18T10:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233462-31-TREHOUT_LOIS-Index-Education",
+   "title": "Cycle de conférences - NORMAND - TP",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Cycle de conférences\nEnseignant : NORMAND\nSalle : Amphi L. de VINC\nType : TP",
+   "start": "2027-03-18T11:00:00+01:00",
+   "end": "2027-03-18T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234227-31-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-102",
+   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
+   "start": "2027-03-19T08:00:00+01:00",
+   "end": "2027-03-19T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233600-31-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-101",
+   "description": "Matière : Ondes\nSalle : I-101\nType : Séminaire",
+   "start": "2027-03-19T10:15:00+01:00",
+   "end": "2027-03-19T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233838-31-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TP",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TP",
+   "start": "2027-03-19T13:30:00+01:00",
+   "end": "2027-03-19T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233542-32-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "J-101",
+   "description": "Matière : Dynamique des solides\nSalle : J-101\nType : TD",
+   "start": "2027-03-22T08:00:00+01:00",
+   "end": "2027-03-22T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233610-32-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-03-22T10:15:00+01:00",
+   "end": "2027-03-22T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233853-32-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - TP",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TP",
+   "start": "2027-03-22T13:30:00+01:00",
+   "end": "2027-03-22T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233218-32-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-03-23T08:00:00+01:00",
+   "end": "2027-03-23T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-32-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-03-23T10:15:00+01:00",
+   "end": "2027-03-23T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233578-32-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "I-101",
+   "description": "Matière : Economie et Science politique\nSalle : I-101\nType : TD",
+   "start": "2027-03-24T08:00:00+01:00",
+   "end": "2027-03-24T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233619-32-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - CB Surv",
+   "location": "E-601, E-603",
+   "description": "Matière : Mathématiques 4\nSalles : E-601, E-603\nType : CB Surv",
+   "start": "2027-03-24T10:15:00+01:00",
+   "end": "2027-03-24T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-32-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-24T13:30:00+01:00",
+   "end": "2027-03-24T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-32-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-24T15:45:00+01:00",
+   "end": "2027-03-24T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233518-32-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-101",
+   "description": "Matière : Entrepreneuriat\nSalle : J-101\nType : TD",
+   "start": "2027-03-25T08:00:00+01:00",
+   "end": "2027-03-25T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233520-32-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TD",
+   "location": "J-101",
+   "description": "Matière : Entrepreneuriat\nSalle : J-101\nType : TD",
+   "start": "2027-03-25T10:15:00+01:00",
+   "end": "2027-03-25T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234231-32-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - CB Ens",
+   "location": "E-601, E-603",
+   "description": "Matière : Résistance des matériaux\nSalles : E-601, E-603\nType : CB Ens",
+   "start": "2027-03-26T08:00:00+01:00",
+   "end": "2027-03-26T09:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233521-32-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - CB Ens",
+   "location": "E-601, E-603",
+   "description": "Matière : Entrepreneuriat\nSalles : E-601, E-603\nType : CB Ens",
+   "start": "2027-03-26T10:15:00+01:00",
+   "end": "2027-03-26T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233599-32-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "J-101",
+   "description": "Matière : Ondes\nSalle : J-101\nType : Séminaire",
+   "start": "2027-03-26T13:30:00+01:00",
+   "end": "2027-03-26T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233514-32-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-03-26T15:45:00+01:00",
+   "end": "2027-03-26T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7795-TREHOUT_LOIS-Index-Education",
+   "title": "Vacances",
+   "location": "",
+   "description": "",
+   "start": "2027-03-28T00:00:00+01:00",
+   "end": "2027-03-30T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-233218-33-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-03-30T08:00:00+02:00",
+   "end": "2027-03-30T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-33-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-03-30T10:15:00+02:00",
+   "end": "2027-03-30T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234389-33-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Développement web\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2027-03-30T13:30:00+02:00",
+   "end": "2027-03-30T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233625-33-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-03-31T08:00:00+02:00",
+   "end": "2027-03-31T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233548-33-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-03-31T10:15:00+02:00",
+   "end": "2027-03-31T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-33-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-31T13:30:00+02:00",
+   "end": "2027-03-31T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-33-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-03-31T15:45:00+02:00",
+   "end": "2027-03-31T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233627-33-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-04-01T08:00:00+02:00",
+   "end": "2027-04-01T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233433-33-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-04-01T10:15:00+02:00",
+   "end": "2027-04-01T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234242-33-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "J-102",
+   "description": "Matière : Résistance des matériaux\nSalle : J-102\nType : TD",
+   "start": "2027-04-02T08:00:00+02:00",
+   "end": "2027-04-02T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233484-33-TREHOUT_LOIS-Index-Education",
+   "title": "Economie et Science politique - TD",
+   "location": "J-102",
+   "description": "Matière : Economie et Science politique\nSalle : J-102\nType : TD",
+   "start": "2027-04-02T10:15:00+02:00",
+   "end": "2027-04-02T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233879-33-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TP",
+   "location": "C-018",
+   "description": "Matière : Ondes\nSalle : C-018\nType : TP",
+   "start": "2027-04-02T13:30:00+02:00",
+   "end": "2027-04-02T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233640-34-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TP",
+   "location": "C-018",
+   "description": "Matière : Ondes\nSalle : C-018\nType : TP",
+   "start": "2027-04-05T08:00:00+02:00",
+   "end": "2027-04-05T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233871-34-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - CB Ens",
+   "location": "J-101",
+   "description": "Matière : Intelligence ambiante\nSalle : J-101\nType : CB Ens",
+   "start": "2027-04-05T13:30:00+02:00",
+   "end": "2027-04-05T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233277-34-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - TD",
+   "location": "",
+   "description": "Matière : Anglais 4\nType : TD",
+   "start": "2027-04-06T08:00:00+02:00",
+   "end": "2027-04-06T09:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-34-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-04-06T10:15:00+02:00",
+   "end": "2027-04-06T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234386-34-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - DANGOUMAU - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Développement web\nEnseignant : DANGOUMAU\nSalle : I-106\nType : Demi-sem.",
+   "start": "2027-04-06T13:30:00+02:00",
+   "end": "2027-04-06T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234014-34-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-04-07T08:00:00+02:00",
+   "end": "2027-04-07T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233633-34-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-04-07T10:15:00+02:00",
+   "end": "2027-04-07T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-34-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-04-07T13:30:00+02:00",
+   "end": "2027-04-07T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-34-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-04-07T15:45:00+02:00",
+   "end": "2027-04-07T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233636-34-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-04-08T08:00:00+02:00",
+   "end": "2027-04-08T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233437-34-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-04-08T10:15:00+02:00",
+   "end": "2027-04-08T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-238343-34-TREHOUT_LOIS-Index-Education",
+   "title": "Matière à préciser - Question/Réponse stage",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Matière à préciser\nSalle : Amphi L. de VINC\nMémo : Question/Réponse stage",
+   "start": "2027-04-09T08:30:00+02:00",
+   "end": "2027-04-09T09:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233885-34-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - CB Ens",
+   "location": "E-601, E-602, E-603",
+   "description": "Matière : Intelligence ambiante\nSalles : E-601, E-602, E-603\nType : CB Ens",
+   "start": "2027-04-09T10:15:00+02:00",
+   "end": "2027-04-09T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234301-34-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-102",
+   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
+   "start": "2027-04-09T13:30:00+02:00",
+   "end": "2027-04-09T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233550-34-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "I-102",
+   "description": "Matière : Dynamique des solides\nSalle : I-102\nType : TD",
+   "start": "2027-04-09T15:45:00+02:00",
+   "end": "2027-04-09T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234015-35-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-04-12T08:00:00+02:00",
+   "end": "2027-04-12T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233638-35-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-04-12T10:15:00+02:00",
+   "end": "2027-04-12T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233641-35-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TP",
+   "location": "C-018",
+   "description": "Matière : Ondes\nSalle : C-018\nType : TP",
+   "start": "2027-04-12T13:30:00+02:00",
+   "end": "2027-04-12T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233227-35-TREHOUT_LOIS-Index-Education",
+   "title": "Anglais 4 - DAVIES, HAGUE, RIBALS - CB Ens",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Anglais 4\nEnseignants : DAVIES, HAGUE, RIBALS\nSalle : Amphi L. de VINC\nType : CB Ens",
+   "start": "2027-04-13T08:00:00+02:00",
+   "end": "2027-04-13T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233249-35-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-04-13T10:15:00+02:00",
+   "end": "2027-04-13T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234379-35-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Développement web\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2027-04-13T13:30:00+02:00",
+   "end": "2027-04-13T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233648-35-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-04-14T08:00:00+02:00",
+   "end": "2027-04-14T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234017-35-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - TD",
+   "location": "I-102",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : I-102\nType : TD",
+   "start": "2027-04-14T10:15:00+02:00",
+   "end": "2027-04-14T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-35-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-04-14T13:30:00+02:00",
+   "end": "2027-04-14T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-35-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-04-14T15:45:00+02:00",
+   "end": "2027-04-14T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233551-35-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - CB Ens",
+   "location": "E-601, E-603",
+   "description": "Matière : Dynamique des solides\nSalles : E-601, E-603\nType : CB Ens",
+   "start": "2027-04-15T10:15:00+02:00",
+   "end": "2027-04-15T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234065-35-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - IFQIR - Demi-sem.",
+   "location": "C-112",
+   "description": "Matière : Commande des systèmes\nEnseignant : IFQIR\nSalle : C-112\nType : Demi-sem.",
+   "start": "2027-04-16T08:00:00+02:00",
+   "end": "2027-04-16T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234066-35-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - TNE",
+   "location": "",
+   "description": "Matière : Commande des systèmes\nType : TNE",
+   "start": "2027-04-16T10:15:00+02:00",
+   "end": "2027-04-16T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234305-35-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-101",
+   "description": "Matière : Résistance des matériaux\nSalle : I-101\nType : TD",
+   "start": "2027-04-16T13:30:00+02:00",
+   "end": "2027-04-16T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233441-35-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-04-16T15:45:00+02:00",
+   "end": "2027-04-16T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7796-TREHOUT_LOIS-Index-Education",
+   "title": "Vacances",
+   "location": "",
+   "description": "",
+   "start": "2027-04-19T00:00:00+02:00",
+   "end": "2027-05-03T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-233896-38-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Finances et gestion\nSalle : Amphi L. de VINC\nMémo : M. OKACHI Redouane - Vacataire\nType : Cours",
+   "start": "2027-05-03T08:00:00+02:00",
+   "end": "2027-05-03T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233654-38-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-05-03T10:15:00+02:00",
+   "end": "2027-05-03T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234121-38-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - TD",
+   "location": "J-102",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : J-102\nType : TD",
+   "start": "2027-05-03T13:30:00+02:00",
+   "end": "2027-05-03T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233900-38-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - TD",
+   "location": "J-101",
+   "description": "Matière : Finances et gestion\nSalle : J-101\nMémo : M. OKACHI Redouane - Vacataire\nType : TD",
+   "start": "2027-05-03T15:45:00+02:00",
+   "end": "2027-05-03T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234102-38-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Bureau d'étude\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-05-04T08:00:00+02:00",
+   "end": "2027-05-04T09:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233254-38-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - VIAU - TD",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "start": "2027-05-04T09:00:00+02:00",
+   "end": "2027-05-04T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233445-38-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-05-04T10:15:00+02:00",
+   "end": "2027-05-04T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234024-38-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-05-04T13:30:00+02:00",
+   "end": "2027-05-04T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234322-38-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Résistance des matériaux\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-05-04T15:45:00+02:00",
+   "end": "2027-05-04T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234018-38-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - TD",
+   "location": "I-103",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : I-103\nType : TD",
+   "start": "2027-05-05T08:00:00+02:00",
+   "end": "2027-05-05T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233657-38-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2027-05-05T10:15:00+02:00",
+   "end": "2027-05-05T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-38-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-05-05T13:30:00+02:00",
+   "end": "2027-05-05T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-38-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-05-05T15:45:00+02:00",
+   "end": "2027-05-05T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7797-TREHOUT_LOIS-Index-Education",
+   "title": "Vacances",
+   "location": "",
+   "description": "",
+   "start": "2027-05-06T00:00:00+02:00",
+   "end": "2027-05-09T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-234025-39-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-05-10T08:00:00+02:00",
+   "end": "2027-05-10T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233659-39-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-05-10T10:15:00+02:00",
+   "end": "2027-05-10T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234375-39-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Développement web\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2027-05-10T13:30:00+02:00",
+   "end": "2027-05-10T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233248-39-TREHOUT_LOIS-Index-Education",
+   "title": "Espagnol - BRANCO, VIAU - CB Ens",
+   "location": "",
+   "description": "Matière : Espagnol\nEnseignants : BRANCO, VIAU\nType : CB Ens",
+   "start": "2027-05-11T08:00:00+02:00",
+   "end": "2027-05-11T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233901-39-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Finances et gestion\nSalle : Amphi L. de VINC\nMémo : M. OKACHI Redouane - Vacataire\nType : Cours",
+   "start": "2027-05-11T10:15:00+02:00",
+   "end": "2027-05-11T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233421-39-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TP",
+   "location": "C-018",
+   "description": "Matière : Ondes\nSalle : C-018\nType : TP",
+   "start": "2027-05-11T13:30:00+02:00",
+   "end": "2027-05-11T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233660-39-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-05-12T08:00:00+02:00",
+   "end": "2027-05-12T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233903-39-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - TD",
+   "location": "J-103",
+   "description": "Matière : Finances et gestion\nSalle : J-103\nMémo : M. OKACHI Redouane - Vacataire\nType : TD",
+   "start": "2027-05-12T10:15:00+02:00",
+   "end": "2027-05-12T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-39-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-05-12T13:30:00+02:00",
+   "end": "2027-05-12T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-39-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-05-12T15:45:00+02:00",
+   "end": "2027-05-12T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234106-39-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Bureau d'étude\nSalle : B-024\nType : Séminaire",
+   "start": "2027-05-13T08:00:00+02:00",
+   "end": "2027-05-13T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234108-39-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - TNE",
+   "location": "",
+   "description": "Matière : Bureau d'étude\nType : TNE",
+   "start": "2027-05-13T10:15:00+02:00",
+   "end": "2027-05-13T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233447-39-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - CB Surv",
+   "location": "E-601, E-602, E-603",
+   "description": "Matière : Ondes\nSalles : E-601, E-602, E-603\nType : CB Surv",
+   "start": "2027-05-14T08:00:00+02:00",
+   "end": "2027-05-14T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234073-39-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - IFQIR - Demi-sem.",
+   "location": "C-112",
+   "description": "Matière : Commande des systèmes\nEnseignant : IFQIR\nSalle : C-112\nType : Demi-sem.",
+   "start": "2027-05-14T13:30:00+02:00",
+   "end": "2027-05-14T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234074-39-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - TNE",
+   "location": "",
+   "description": "Matière : Commande des systèmes\nType : TNE",
+   "start": "2027-05-14T15:45:00+02:00",
+   "end": "2027-05-14T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Ferie-7798-TREHOUT_LOIS-Index-Education",
+   "title": "Férié",
+   "location": "",
+   "description": "",
+   "start": "2027-05-17T00:00:00+02:00",
+   "end": "2027-05-18T00:00:00+02:00",
+   "allDay": true
+  },
+  {
+   "id": "Cours-233670-40-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-05-18T10:15:00+02:00",
+   "end": "2027-05-18T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234038-40-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - TD",
+   "location": "I-102",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : I-102\nType : TD",
+   "start": "2027-05-18T13:30:00+02:00",
+   "end": "2027-05-18T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234031-40-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - TD",
+   "location": "I-102",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : I-102\nType : TD",
+   "start": "2027-05-18T15:45:00+02:00",
+   "end": "2027-05-18T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233906-40-TREHOUT_LOIS-Index-Education",
+   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - TD",
+   "location": "I-103",
+   "description": "Matière : Finances et gestion\nSalle : I-103\nMémo : M. OKACHI Redouane - Vacataire\nType : TD",
+   "start": "2027-05-19T08:00:00+02:00",
+   "end": "2027-05-19T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233672-40-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-104",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
+   "start": "2027-05-19T10:15:00+02:00",
+   "end": "2027-05-19T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232247-40-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-05-19T13:30:00+02:00",
+   "end": "2027-05-19T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232248-40-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - TNE",
+   "location": "",
+   "description": "Matière : Projet - Conception et réalisa\nType : TNE",
+   "start": "2027-05-19T15:45:00+02:00",
+   "end": "2027-05-19T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234127-40-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - TNE",
+   "location": "",
+   "description": "Matière : Bureau d'étude\nType : TNE",
+   "start": "2027-05-20T10:15:00+02:00",
+   "end": "2027-05-20T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234126-40-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Bureau d'étude\nSalle : B-024\nType : Séminaire",
+   "start": "2027-05-21T08:00:00+02:00",
+   "end": "2027-05-21T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234326-40-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "E-604",
+   "description": "Matière : Résistance des matériaux\nSalle : E-604\nType : TD",
+   "start": "2027-05-21T10:15:00+02:00",
+   "end": "2027-05-21T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234082-40-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - IFQIR - Demi-sem.",
+   "location": "C-112",
+   "description": "Matière : Commande des systèmes\nEnseignant : IFQIR\nSalle : C-112\nType : Demi-sem.",
+   "start": "2027-05-21T13:30:00+02:00",
+   "end": "2027-05-21T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234083-40-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - TNE",
+   "location": "",
+   "description": "Matière : Commande des systèmes\nType : TNE",
+   "start": "2027-05-21T15:45:00+02:00",
+   "end": "2027-05-21T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234035-41-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - TD",
+   "location": "J-101",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : J-101\nType : TD",
+   "start": "2027-05-24T08:00:00+02:00",
+   "end": "2027-05-24T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233678-41-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - TD",
+   "location": "I-101",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : I-101\nType : TD",
+   "start": "2027-05-24T10:15:00+02:00",
+   "end": "2027-05-24T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234132-41-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Bureau d'étude\nSalle : B-024\nType : Séminaire",
+   "start": "2027-05-24T13:30:00+02:00",
+   "end": "2027-05-24T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234133-41-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - TNE",
+   "location": "",
+   "description": "Matière : Bureau d'étude\nType : TNE",
+   "start": "2027-05-24T15:45:00+02:00",
+   "end": "2027-05-24T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234093-41-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - IFQIR - Demi-sem.",
+   "location": "C-112",
+   "description": "Matière : Commande des systèmes\nEnseignant : IFQIR\nSalle : C-112\nType : Demi-sem.",
+   "start": "2027-05-25T08:00:00+02:00",
+   "end": "2027-05-25T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234095-41-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - TNE",
+   "location": "",
+   "description": "Matière : Commande des systèmes\nType : TNE",
+   "start": "2027-05-25T10:15:00+02:00",
+   "end": "2027-05-25T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232237-41-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - MESGHOUNI, NICLAEYS, TROUILLET - SOUTRENANCE - TNE",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Projet - Conception et réalisa\nEnseignants : MESGHOUNI, NICLAEYS, TROUILLET\nSalle : Amphi L. de VINC\nMémo : SOUTRENANCE\nType : TNE",
+   "start": "2027-05-26T08:00:00+02:00",
+   "end": "2027-05-26T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232238-41-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - MESGHOUNI, NICLAEYS, TROUILLET - SOUTRENANCE - TNE",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Projet - Conception et réalisa\nEnseignants : MESGHOUNI, NICLAEYS, TROUILLET\nSalle : Amphi L. de VINC\nMémo : SOUTRENANCE\nType : TNE",
+   "start": "2027-05-26T10:15:00+02:00",
+   "end": "2027-05-26T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232235-41-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - MESGHOUNI, NICLAEYS, TROUILLET - SOUTRENANCE - TNE",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Projet - Conception et réalisa\nEnseignants : MESGHOUNI, NICLAEYS, TROUILLET\nSalle : Amphi L. de VINC\nMémo : SOUTRENANCE\nType : TNE",
+   "start": "2027-05-26T13:30:00+02:00",
+   "end": "2027-05-26T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-232236-41-TREHOUT_LOIS-Index-Education",
+   "title": "Projet - Conception et réalisa - MESGHOUNI, NICLAEYS, TROUILLET - SOUTRENANCE - TNE",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Projet - Conception et réalisa\nEnseignants : MESGHOUNI, NICLAEYS, TROUILLET\nSalle : Amphi L. de VINC\nMémo : SOUTRENANCE\nType : TNE",
+   "start": "2027-05-26T15:45:00+02:00",
+   "end": "2027-05-26T17:45:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233681-41-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - CB Ens",
+   "location": "E-601, E-602, E-603",
+   "description": "Matière : Mathématiques 4\nSalles : E-601, E-602, E-603\nType : CB Ens",
+   "start": "2027-05-27T10:15:00+02:00",
+   "end": "2027-05-27T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234332-41-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TP",
+   "location": "B-028",
+   "description": "Matière : Résistance des matériaux\nSalle : B-028\nType : TP",
+   "start": "2027-05-28T08:00:00+02:00",
+   "end": "2027-05-28T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234371-41-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Développement web\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2027-05-28T13:30:00+02:00",
+   "end": "2027-05-28T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234158-42-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - Séminaire",
+   "location": "B-024",
+   "description": "Matière : Bureau d'étude\nSalle : B-024\nType : Séminaire",
+   "start": "2027-05-31T08:00:00+02:00",
+   "end": "2027-05-31T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234159-42-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - TNE",
+   "location": "",
+   "description": "Matière : Bureau d'étude\nType : TNE",
+   "start": "2027-05-31T10:15:00+02:00",
+   "end": "2027-05-31T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234367-42-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Développement web\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2027-05-31T13:30:00+02:00",
+   "end": "2027-05-31T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234100-42-TREHOUT_LOIS-Index-Education",
+   "title": "Commande des systèmes - CB Ens",
+   "location": "E-601, E-602, E-603",
+   "description": "Matière : Commande des systèmes\nSalles : E-601, E-602, E-603\nType : CB Ens",
+   "start": "2027-06-01T10:15:00+02:00",
+   "end": "2027-06-01T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-239909-42-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - Demi-sem.",
+   "location": "I-106",
+   "description": "Matière : Développement web\nSalle : I-106\nType : Demi-sem.",
+   "start": "2027-06-01T13:30:00+02:00",
+   "end": "2027-06-01T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234177-42-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - TP",
+   "location": "C-027a, C-027b",
+   "description": "Matière : Equipement électrique\nSalles : C-027a, C-027b\nType : TP",
+   "start": "2027-06-02T08:00:00+02:00",
+   "end": "2027-06-02T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234163-42-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - M. MOSCA - Vacataire - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Marketing\nSalle : Amphi L. de VINC\nMémo : M. MOSCA - Vacataire\nType : Cours",
+   "start": "2027-06-02T13:30:00+02:00",
+   "end": "2027-06-02T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234334-42-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - Cours",
+   "location": "E-601, E-602, E-603",
+   "description": "Matière : Résistance des matériaux\nSalles : E-601, E-602, E-603\nType : Cours",
+   "start": "2027-06-03T10:15:00+02:00",
+   "end": "2027-06-03T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234166-42-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - M. MOSCA - Vacataire - TD",
+   "location": "I-101",
+   "description": "Matière : Marketing\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
+   "start": "2027-06-04T10:15:00+02:00",
+   "end": "2027-06-04T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-239908-43-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - DANGOUMAU - Demi-sem.",
+   "location": "I-105",
+   "description": "Matière : Développement web\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "start": "2027-06-07T13:30:00+02:00",
+   "end": "2027-06-07T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234168-43-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - M. MOSCA - Vacataire - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Marketing\nSalle : Amphi L. de VINC\nMémo : M. MOSCA - Vacataire\nType : Cours",
+   "start": "2027-06-08T08:00:00+02:00",
+   "end": "2027-06-08T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234169-43-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - M. MOSCA - Vacataire - TD",
+   "location": "I-101",
+   "description": "Matière : Marketing\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
+   "start": "2027-06-08T10:15:00+02:00",
+   "end": "2027-06-08T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234341-43-TREHOUT_LOIS-Index-Education",
+   "title": "Développement web - CB Ens",
+   "location": "B7-103",
+   "description": "Matière : Développement web\nSalle : B7-103\nType : CB Ens",
+   "start": "2027-06-09T10:15:00+02:00",
+   "end": "2027-06-09T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234053-43-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - Séminaire",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Séminaire",
+   "start": "2027-06-10T09:00:00+02:00",
+   "end": "2027-06-10T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234172-43-TREHOUT_LOIS-Index-Education",
+   "title": "Marketing - M. MOSCA - Vacataire - TD",
+   "location": "I-101",
+   "description": "Matière : Marketing\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
+   "start": "2027-06-11T10:15:00+02:00",
+   "end": "2027-06-11T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234178-43-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - TP",
+   "location": "C-027a, C-027b",
+   "description": "Matière : Equipement électrique\nSalles : C-027a, C-027b\nType : TP",
+   "start": "2027-06-11T13:30:00+02:00",
+   "end": "2027-06-11T17:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-234054-44-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - CB Surv",
+   "location": "E-601, E-602, E-603",
+   "description": "Matière : Equipement électrique\nSalles : E-601, E-602, E-603\nType : CB Surv",
+   "start": "2027-06-14T10:15:00+02:00",
+   "end": "2027-06-14T12:15:00+02:00",
+   "allDay": false
+  }
+ ]
+}
