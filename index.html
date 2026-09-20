@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Agenda de Loïs</title>
+<meta name="description" content="Emploi du temps de Loïs, ITEEM à Centrale Lille, mis à jour toutes les heures.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #F2F4F1;
+  --surface: #FFFFFF;
+  --ink: #1C2430;
+  --muted: #5E6873;
+  --line: #D6DBD4;
+  --accent: #2446C9;
+  --now: #D0342C;
+  --hour: 56px;
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+  color-scheme: light dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #15191E;
+    --surface: #1E242B;
+    --ink: #E8ECEF;
+    --muted: #9AA4AE;
+    --line: #2C333B;
+    --accent: #8FA6FF;
+    --now: #FF6B61;
+  }
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font: 15px/1.45 var(--body);
+  padding: env(safe-area-inset-top, 0) env(safe-area-inset-right, 0) env(safe-area-inset-bottom, 0) env(safe-area-inset-left, 0);
+}
+button { font: inherit; color: inherit; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header {
+  max-width: 1200px; margin: 0 auto; padding: 28px 20px 16px;
+  display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 16px;
+}
+h1 {
+  font: 700 clamp(30px, 6vw, 48px)/1 var(--display);
+  letter-spacing: -0.025em; margin: 0;
+}
+.sub { margin: 8px 0 0; color: var(--muted); }
+
+.nav { display: flex; align-items: center; gap: 6px; }
+.nav button {
+  background: var(--surface); border: 1px solid var(--line); border-radius: 8px;
+  padding: 8px 12px; cursor: pointer; min-height: 40px;
+}
+.nav button:hover { border-color: var(--accent); }
+.range { font: 500 17px var(--display); min-width: 15ch; text-align: center; }
+
+main { max-width: 1200px; margin: 0 auto; padding: 0 20px 32px; }
+
+.tabs { display: none; gap: 4px; margin-bottom: 10px; overflow-x: auto; }
+.tabs button {
+  flex: 1; min-width: 48px; padding: 6px 4px; border: 1px solid transparent; border-radius: 8px;
+  background: none; cursor: pointer; display: flex; flex-direction: column; align-items: center; line-height: 1.2;
+}
+.tabs button span { font-size: 12px; color: var(--muted); }
+.tabs button strong { font: 700 18px var(--display); }
+.tabs button[aria-selected="true"] { background: var(--surface); border-color: var(--line); }
+.tabs button.is-today strong { color: var(--accent); }
+
+.grid {
+  display: grid; grid-template-columns: 44px repeat(var(--days, 5), minmax(0, 1fr));
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; overflow: hidden;
+}
+.corner, .dayhead { grid-row: 1; border-bottom: 1px solid var(--line); }
+.corner { grid-column: 1; }
+.times, .col { grid-row: 2; }
+.dayhead { padding: 10px 8px 8px; border-left: 1px solid var(--line); min-width: 0; }
+.dayhead .wd { color: var(--muted); text-transform: capitalize; }
+.dayhead .num { font: 700 20px var(--display); margin-left: 4px; padding: 0 6px; border-radius: 6px; }
+.dayhead.today .num { background: var(--accent); color: var(--surface); }
+.allday {
+  display: block; width: 100%; margin-top: 6px; text-align: left; cursor: pointer;
+  border: 0; border-radius: 6px; padding: 3px 6px; font-size: 12px;
+  background: color-mix(in srgb, var(--c) 22%, var(--surface));
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+
+.times { position: relative; }
+.times span { position: absolute; right: 6px; font-size: 11px; color: var(--muted); transform: translateY(2px); }
+.col {
+  position: relative; border-left: 1px solid var(--line);
+  background-image: repeating-linear-gradient(to bottom, var(--line) 0 1px, transparent 1px var(--hour));
+}
+.col.today { background-color: color-mix(in srgb, var(--accent) 5%, transparent); }
+
+.ev {
+  position: absolute; overflow: hidden; cursor: pointer; text-align: left;
+  border: 0; border-left: 4px solid var(--c); border-radius: 6px; padding: 4px 6px;
+  background: color-mix(in srgb, var(--c) 15%, var(--surface));
+  font-size: 12.5px; line-height: 1.25;
+}
+.ev:hover { background: color-mix(in srgb, var(--c) 25%, var(--surface)); }
+.ev b { display: block; font-weight: 700; overflow-wrap: break-word; hyphens: auto; }
+.ev span { display: block; color: var(--muted); }
+.ev.past { opacity: .55; }
+
+.now { position: absolute; left: 0; right: 0; height: 2px; background: var(--now); z-index: 2; pointer-events: none; }
+.now::before { content: ""; position: absolute; left: -5px; top: -4px; width: 10px; height: 10px; border-radius: 50%; background: var(--now); }
+
+.notice { margin: 16px 0; padding: 14px 16px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); }
+.notice[hidden] { display: none; }
+
+footer { max-width: 1200px; margin: 0 auto; padding: 0 20px 32px; color: var(--muted); font-size: 13px; }
+
+dialog {
+  border: 1px solid var(--line); border-radius: 14px; padding: 0; width: min(440px, calc(100% - 32px));
+  background: var(--surface); color: var(--ink);
+}
+dialog::backdrop { background: rgb(0 0 0 / .35); }
+.dlg { padding: 20px 22px 18px; border-top: 6px solid var(--c, var(--accent)); }
+.dlg h2 { font: 700 22px/1.15 var(--display); margin: 0 0 10px; letter-spacing: -.01em; }
+.dlg p { margin: 4px 0; }
+.dlg .desc { margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--line); color: var(--muted); }
+.dlg .close {
+  margin-top: 16px; width: 100%; padding: 10px; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--line); background: var(--paper);
+}
+
+@media (max-width: 700px) {
+  header { padding-top: 20px; }
+  .nav { width: 100%; }
+  .range { flex: 1; }
+  .tabs { display: flex; }
+  .dayhead, .corner { display: none; }
+  .grid:has(.has-allday) .corner { display: block; }
+  .dayhead.has-allday { display: block; }
+  main { padding: 0 12px 24px; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  dialog[open] { animation: pop .16s ease-out; }
+  @keyframes pop { from { transform: translateY(8px); opacity: 0; } }
+}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1>Agenda de Loïs</h1>
+    <p class="sub">Emploi du temps ITEEM, Centrale Lille</p>
+  </div>
+  <nav class="nav" aria-label="Changer de semaine">
+    <button id="prev" aria-label="Semaine précédente">‹</button>
+    <span class="range" id="range" aria-live="polite"></span>
+    <button id="next" aria-label="Semaine suivante">›</button>
+    <button id="today">Aujourd'hui</button>
+  </nav>
+</header>
+
+<main>
+  <div class="tabs" id="tabs" role="tablist" aria-label="Jour"></div>
+  <p class="notice" id="notice" hidden></p>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer id="updated"></footer>
+
+<dialog id="dlg">
+  <div class="dlg">
+    <h2 id="d-title"></h2>
+    <p id="d-when"></p>
+    <p id="d-where"></p>
+    <div class="desc" id="d-desc"></div>
+    <button class="close" id="d-close">Fermer</button>
+  </div>
+</dialog>
+
+<script>
+const TZ = "Europe/Paris";
+const HOUR = 56;
+const PALETTE = ["#2F7D6D", "#B5562E", "#6A4FB3", "#2E6DB4", "#A1812A", "#B03A67", "#4E7F2E", "#3B8A9E"];
+
+const $ = (id) => document.getElementById(id);
+const grid = $("grid"), tabs = $("tabs"), notice = $("notice");
+const mobile = matchMedia("(max-width: 700px)");
+
+const partsFmt = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+const wdFmt = new Intl.DateTimeFormat("fr-FR", { weekday: "short", timeZone: "UTC" });
+const longFmt = new Intl.DateTimeFormat("fr-FR", { weekday: "long", day: "numeric", month: "long", timeZone: "UTC" });
+const rangeFmt = new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "short", timeZone: "UTC" });
+const updFmt = new Intl.DateTimeFormat("fr-FR", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit", timeZone: TZ });
+
+function paris(d) {
+  const p = Object.fromEntries(partsFmt.formatToParts(d).map((x) => [x.type, x.value]));
+  return { key: `${p.year}-${p.month}-${p.day}`, min: +p.hour * 60 + +p.minute };
+}
+const keyDate = (k) => new Date(k + "T12:00:00Z");
+function addDays(k, n) { const d = keyDate(k); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
+function mondayOf(k) { return addDays(k, -((keyDate(k).getUTCDay() + 6) % 7)); }
+const hm = (m) => `${Math.floor(m / 60)}h${String(m % 60).padStart(2, "0")}`;
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+function hash(s) { let h = 0; for (const c of s) h = (h * 31 + c.codePointAt(0)) >>> 0; return h; }
+const courseKey = (t) => t.split(/\s[-–]\s|\(/)[0].trim().toLowerCase();
+
+let EVENTS = [];
+let weekStart = mondayOf(paris(new Date()).key);
+let selected = null;
+
+function weekDays() {
+  const days = [0, 1, 2, 3, 4].map((i) => addDays(weekStart, i));
+  for (const i of [5, 6]) {
+    const k = addDays(weekStart, i);
+    if (EVENTS.some((e) => e.key === k)) days.push(k);
+  }
+  return days;
+}
+
+function layout(list, h0, nowKey, nowMin) {
+  list = [...list].sort((a, b) => a.sm - b.sm || b.em - a.em);
+  let html = "", cluster = [], end = -1;
+  const flush = () => {
+    const cols = [];
+    for (const e of cluster) {
+      let i = cols.findIndex((c) => c <= e.sm);
+      if (i < 0) { i = cols.length; cols.push(0); }
+      cols[i] = e.em; e._c = i;
+    }
+    const n = cols.length;
+    for (const e of cluster) {
+      const top = (e.sm - h0 * 60) / 60 * HOUR;
+      const height = Math.max((e.em - e.sm) / 60 * HOUR - 2, 22);
+      const past = e.key < nowKey || (e.key === nowKey && e.em <= nowMin);
+      html += `<button class="ev${past ? " past" : ""}" data-i="${e.i}" style="--c:${e.color};top:${top}px;height:${height}px;left:calc(${(e._c / n) * 100}% + 3px);width:calc(${100 / n}% - 6px)">`
+        + `<b>${esc(e.title)}</b><span>${hm(e.sm)}–${hm(e.em)}</span>${e.location ? `<span>${esc(e.location)}</span>` : ""}</button>`;
+    }
+    cluster = [];
+  };
+  for (const e of list) {
+    if (cluster.length && e.sm >= end) { flush(); end = -1; }
+    cluster.push(e); end = Math.max(end, e.em);
+  }
+  if (cluster.length) flush();
+  return html;
+}
+
+function render() {
+  const now = paris(new Date());
+  const days = weekDays();
+  if (!days.includes(selected)) selected = days.includes(now.key) ? now.key : days[0];
+  const shown = mobile.matches ? [selected] : days;
+
+  const last = keyDate(days[days.length - 1]);
+  $("range").textContent = rangeFmt.formatRange ? rangeFmt.formatRange(keyDate(days[0]), last) : `${rangeFmt.format(keyDate(days[0]))} – ${rangeFmt.format(last)}`;
+
+  tabs.innerHTML = days.map((k) =>
+    `<button role="tab" aria-selected="${k === selected}" data-k="${k}" class="${k === now.key ? "is-today" : ""}"><span>${wdFmt.format(keyDate(k))}</span><strong>${keyDate(k).getUTCDate()}</strong></button>`
+  ).join("");
+
+  const timed = EVENTS.filter((e) => !e.allDay && shown.includes(e.key));
+  let h0 = 8, h1 = 18;
+  for (const e of timed) { h0 = Math.min(h0, Math.floor(e.sm / 60)); h1 = Math.max(h1, Math.ceil(e.em / 60)); }
+  const colH = (h1 - h0) * HOUR;
+
+  let html = `<div class="corner"></div>`;
+  for (const k of shown) {
+    const ad = EVENTS.filter((e) => e.allDay && e.key === k);
+    html += `<div class="dayhead${k === now.key ? " today" : ""}${ad.length ? " has-allday" : ""}"><span class="wd">${wdFmt.format(keyDate(k))}</span><span class="num">${keyDate(k).getUTCDate()}</span>`
+      + ad.map((e) => `<button class="allday" data-i="${e.i}" style="--c:${e.color}">${esc(e.title)}</button>`).join("") + `</div>`;
+  }
+  html += `<div class="times" style="height:${colH}px">`;
+  for (let h = h0; h < h1; h++) html += `<span style="top:${(h - h0) * HOUR}px">${h}h</span>`;
+  html += `</div>`;
+  for (const k of shown) {
+    html += `<div class="col${k === now.key ? " today" : ""}" style="height:${colH}px">`
+      + layout(timed.filter((e) => e.key === k), h0, now.key, now.min);
+    if (k === now.key && now.min >= h0 * 60 && now.min <= h1 * 60)
+      html += `<div class="now" style="top:${(now.min - h0 * 60) / 60 * HOUR}px" aria-hidden="true"></div>`;
+    html += `</div>`;
+  }
+  grid.style.setProperty("--days", shown.length);
+  grid.innerHTML = html;
+
+  if (!notice.dataset.error) {
+    const count = EVENTS.filter((e) => shown.includes(e.key)).length;
+    notice.hidden = count > 0;
+    notice.textContent = mobile.matches ? "Pas de cours ce jour-là." : "Pas de cours cette semaine.";
+  }
+}
+
+function openDetail(i) {
+  const e = EVENTS[i];
+  const box = $("dlg").querySelector(".dlg");
+  box.style.setProperty("--c", e.color);
+  $("d-title").textContent = e.title;
+  const day = longFmt.format(keyDate(e.key));
+  $("d-when").textContent = e.allDay ? `${day}, toute la journée` : `${day}, ${hm(e.sm)}–${hm(e.em)}`;
+  $("d-where").textContent = e.location ? `Salle : ${e.location}` : "";
+  const desc = $("d-desc");
+  desc.replaceChildren(...e.description.split("\n").map((l) => l.trim()).filter(Boolean).map((l) => {
+    const p = document.createElement("p"); p.textContent = l; return p;
+  }));
+  desc.hidden = !desc.childElementCount;
+  $("dlg").showModal();
+}
+
+grid.addEventListener("click", (ev) => { const b = ev.target.closest("[data-i]"); if (b) openDetail(+b.dataset.i); });
+tabs.addEventListener("click", (ev) => { const b = ev.target.closest("[data-k]"); if (b) { selected = b.dataset.k; render(); } });
+$("prev").onclick = () => { weekStart = addDays(weekStart, -7); selected = null; render(); };
+$("next").onclick = () => { weekStart = addDays(weekStart, 7); selected = null; render(); };
+$("today").onclick = () => { weekStart = mondayOf(paris(new Date()).key); selected = null; render(); };
+$("d-close").onclick = () => $("dlg").close();
+$("dlg").addEventListener("click", (ev) => { if (ev.target === $("dlg")) $("dlg").close(); });
+document.addEventListener("keydown", (ev) => {
+  if ($("dlg").open || ev.target.closest("input, textarea")) return;
+  if (ev.key === "ArrowLeft") $("prev").click();
+  if (ev.key === "ArrowRight") $("next").click();
+});
+mobile.addEventListener("change", render);
+setInterval(render, 60_000);
+
+(async () => {
+  try {
+    const r = await fetch("data/events.json", { cache: "no-store" });
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    EVENTS = data.events.map((e, i) => {
+      const s = paris(new Date(e.start)), en = paris(new Date(e.end));
+      return {
+        ...e, i, key: s.key, sm: s.min,
+        em: en.key === s.key ? en.min : 24 * 60,
+        color: PALETTE[hash(courseKey(e.title)) % PALETTE.length],
+      };
+    });
+    if (data.updated) $("updated").textContent = `Synchronisé avec HyperPlanning toutes les heures. Dernière modification le ${updFmt.format(new Date(data.updated))}.`;
+    else { notice.dataset.error = "1"; notice.hidden = false; notice.textContent = "L'agenda n'a pas encore été récupéré. Lance l'action « Mettre à jour l'agenda » dans l'onglet Actions du dépôt GitHub."; }
+    // Le week-end, on affiche directement la semaine suivante s'il n'y a pas de cours.
+    const today = paris(new Date()).key, wd = (keyDate(today).getUTCDay() + 6) % 7;
+    if (wd >= 5 && !EVENTS.some((e) => e.key >= today && e.key < addDays(weekStart, 7))) weekStart = addDays(weekStart, 7);
+  } catch (err) {
+    notice.dataset.error = "1"; notice.hidden = false;
+    notice.textContent = "Impossible de charger data/events.json. Vérifie que l'action GitHub « Mettre à jour l'agenda » s'est bien terminée, puis recharge la page.";
+  }
+  render();
+})();
+</script>
+</body>
+</html>
