@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22T13:24:20+00:00",
+ "updated": "2026-09-22T18:04:56+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -407,10 +407,19 @@
    "allDay": false
   },
   {
+   "id": "Cours-248593-7-TREHOUT_LOIS-Index-Education",
+   "title": "Applications d'entreprise - DANGOUMAU - Demi-sem.",
+   "location": "B7-105",
+   "description": "Matière : Applications d'entreprise\nEnseignant : DANGOUMAU\nSalle : B7-105\nType : Demi-sem.",
+   "start": "2026-09-28T15:45:00+02:00",
+   "end": "2026-09-28T17:45:00+02:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-232098-7-TREHOUT_LOIS-Index-Education",
    "title": "Anglais - PLOUVIER - TD",
-   "location": "",
-   "description": "Matière : Anglais\nEnseignant : PLOUVIER\nType : TD",
+   "location": "E-303",
+   "description": "Matière : Anglais\nEnseignant : PLOUVIER\nSalle : E-303\nType : TD",
    "start": "2026-09-29T08:00:00+02:00",
    "end": "2026-09-29T10:00:00+02:00",
    "allDay": false
@@ -418,8 +427,8 @@
   {
    "id": "Cours-233114-7-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "E-304",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-304\nType : TD",
    "start": "2026-09-29T10:15:00+02:00",
    "end": "2026-09-29T12:15:00+02:00",
    "allDay": false
@@ -947,12 +956,12 @@
    "allDay": false
   },
   {
-   "id": "Cours-232668-10-TREHOUT_LOIS-Index-Education",
-   "title": "Applications d'entreprise - Demi-sem.",
-   "location": "B7-101",
-   "description": "Matière : Applications d'entreprise\nSalle : B7-101\nType : Demi-sem.",
-   "start": "2026-10-22T10:15:00+02:00",
-   "end": "2026-10-22T12:15:00+02:00",
+   "id": "Cours-248590-10-TREHOUT_LOIS-Index-Education",
+   "title": "Conference Octobre Rose - Amphi Cuccaroni - sur inscription sur le point com étudiant - Réunion",
+   "location": "",
+   "description": "Matière : Conference Octobre Rose\nMémo : Amphi Cuccaroni - sur inscription sur le point com étudiant\nType : Réunion",
+   "start": "2026-10-22T17:00:00+02:00",
+   "end": "2026-10-22T18:30:00+02:00",
    "allDay": false
   },
   {
