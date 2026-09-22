@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21T14:07:28+00:00",
+ "updated": "2026-09-22T13:24:20+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1748,10 +1748,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-236180-17-TREHOUT_LOIS-Index-Education",
-   "title": "Conception de Système d'inform - CB Surv",
-   "location": "E-502",
-   "description": "Matière : Conception de Système d'inform\nSalle : E-502\nType : CB Surv",
+   "id": "Cours-248551-17-TREHOUT_LOIS-Index-Education",
+   "title": "Conception de Système d'inform - DANGOUMAU - CB Ens",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : DANGOUMAU\nSalle : Amphi L. de VINC\nType : CB Ens",
    "start": "2026-12-11T08:00:00+01:00",
    "end": "2026-12-11T10:00:00+01:00",
    "allDay": false
@@ -1759,8 +1759,8 @@
   {
    "id": "Cours-232928-17-TREHOUT_LOIS-Index-Education",
    "title": "Changement organisationnel - MALASSINGNE - Cours",
-   "location": "Amphi BODA",
-   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi BODA\nType : Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi L. de VINC\nType : Cours",
    "start": "2026-12-11T10:15:00+01:00",
    "end": "2026-12-11T12:15:00+01:00",
    "allDay": false
