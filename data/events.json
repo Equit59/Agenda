@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T09:59:41+00:00",
+ "updated": "2026-09-24T15:05:26+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -373,8 +373,8 @@
   {
    "id": "Cours-232629-7-TREHOUT_LOIS-Index-Education",
    "title": "Marketing - MOSCA - TD",
-   "location": "I-101",
-   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : I-101\nType : TD",
+   "location": "E-604",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : E-604\nType : TD",
    "start": "2026-09-28T08:00:00+02:00",
    "end": "2026-09-28T10:00:00+02:00",
    "allDay": false
@@ -382,8 +382,8 @@
   {
    "id": "Cours-232249-7-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 3 - LEDDA - Cours",
-   "location": "Amphi L. de VINC",
-   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi GOUBET\nType : Cours",
    "start": "2026-09-28T10:15:00+02:00",
    "end": "2026-09-28T12:15:00+02:00",
    "allDay": false
@@ -391,8 +391,8 @@
   {
    "id": "Cours-243530-7-TREHOUT_LOIS-Index-Education",
    "title": "Présentation FORUM GD Palais - Présence obligatoire - Réunion",
-   "location": "",
-   "description": "Matière : Présentation FORUM GD Palais\nMémo : Présence obligatoire\nType : Réunion",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Présentation FORUM GD Palais\nSalle : Amphi GOUBET\nMémo : Présence obligatoire\nType : Réunion",
    "start": "2026-09-28T12:30:00+02:00",
    "end": "2026-09-28T13:00:00+02:00",
    "allDay": false
@@ -2244,9 +2244,9 @@
   },
   {
    "id": "Cours-233319-24-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - Cours",
+   "title": "Ondes - BOU MATAR-LACAZE - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Ondes\nSalle : Amphi L. de VINC\nType : Cours",
+   "description": "Matière : Ondes\nEnseignant : BOU MATAR-LACAZE\nSalle : Amphi L. de VINC\nType : Cours",
    "start": "2027-01-25T13:30:00+01:00",
    "end": "2027-01-25T15:30:00+01:00",
    "allDay": false
@@ -2487,9 +2487,9 @@
   },
   {
    "id": "Cours-233320-25-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - Cours",
+   "title": "Ondes - BOU MATAR-LACAZE - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Ondes\nSalle : Amphi L. de VINC\nType : Cours",
+   "description": "Matière : Ondes\nEnseignant : BOU MATAR-LACAZE\nSalle : Amphi L. de VINC\nType : Cours",
    "start": "2027-02-05T08:00:00+01:00",
    "end": "2027-02-05T10:00:00+01:00",
    "allDay": false
@@ -3900,9 +3900,9 @@
   },
   {
    "id": "Cours-233896-38-TREHOUT_LOIS-Index-Education",
-   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - Cours",
+   "title": "Finances et gestion - OKACHI - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Finances et gestion\nSalle : Amphi L. de VINC\nMémo : M. OKACHI Redouane - Vacataire\nType : Cours",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : Amphi L. de VINC\nType : Cours",
    "start": "2027-05-03T08:00:00+02:00",
    "end": "2027-05-03T10:00:00+02:00",
    "allDay": false
@@ -3927,9 +3927,9 @@
   },
   {
    "id": "Cours-233900-38-TREHOUT_LOIS-Index-Education",
-   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - TD",
+   "title": "Finances et gestion - OKACHI - TD",
    "location": "J-101",
-   "description": "Matière : Finances et gestion\nSalle : J-101\nMémo : M. OKACHI Redouane - Vacataire\nType : TD",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : J-101\nType : TD",
    "start": "2027-05-03T15:45:00+02:00",
    "end": "2027-05-03T17:45:00+02:00",
    "allDay": false
@@ -4062,9 +4062,9 @@
   },
   {
    "id": "Cours-233901-39-TREHOUT_LOIS-Index-Education",
-   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - Cours",
+   "title": "Finances et gestion - OKACHI - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Finances et gestion\nSalle : Amphi L. de VINC\nMémo : M. OKACHI Redouane - Vacataire\nType : Cours",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : Amphi L. de VINC\nType : Cours",
    "start": "2027-05-11T10:15:00+02:00",
    "end": "2027-05-11T12:15:00+02:00",
    "allDay": false
@@ -4089,9 +4089,9 @@
   },
   {
    "id": "Cours-233903-39-TREHOUT_LOIS-Index-Education",
-   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - TD",
+   "title": "Finances et gestion - OKACHI - TD",
    "location": "J-103",
-   "description": "Matière : Finances et gestion\nSalle : J-103\nMémo : M. OKACHI Redouane - Vacataire\nType : TD",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : J-103\nType : TD",
    "start": "2027-05-12T10:15:00+02:00",
    "end": "2027-05-12T12:15:00+02:00",
    "allDay": false
