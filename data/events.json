@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24T15:05:26+00:00",
+ "updated": "2026-09-25T13:45:56+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -650,10 +650,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-233074-8-TREHOUT_LOIS-Index-Education",
-   "title": "DDRS 2 - LALOUX - TD",
-   "location": "J-101",
-   "description": "Matière : DDRS 2\nEnseignant : LALOUX\nSalle : J-101\nType : TD",
+   "id": "Cours-249159-8-TREHOUT_LOIS-Index-Education",
+   "title": "Communication d'entreprise - NORMAND - TD",
+   "location": "",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nType : TD",
    "start": "2026-10-08T10:15:00+02:00",
    "end": "2026-10-08T12:15:00+02:00",
    "allDay": false
@@ -836,15 +836,6 @@
    "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : J-101\nType : TD",
    "start": "2026-10-16T13:30:00+02:00",
    "end": "2026-10-16T15:30:00+02:00",
-   "allDay": false
-  },
-  {
-   "id": "Cours-233077-9-TREHOUT_LOIS-Index-Education",
-   "title": "DDRS 2 - LALOUX - TD",
-   "location": "I-102",
-   "description": "Matière : DDRS 2\nEnseignant : LALOUX\nSalle : I-102\nType : TD",
-   "start": "2026-10-16T15:45:00+02:00",
-   "end": "2026-10-16T17:45:00+02:00",
    "allDay": false
   },
   {
@@ -3008,6 +2999,15 @@
    "allDay": false
   },
   {
+   "id": "Cours-249163-28-TREHOUT_LOIS-Index-Education",
+   "title": "Du Minerai à la pièce fonction - TNE",
+   "location": "",
+   "description": "Matière : Du Minerai à la pièce fonction\nType : TNE",
+   "start": "2027-02-25T10:15:00+01:00",
+   "end": "2027-02-25T12:15:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-233575-28-TREHOUT_LOIS-Index-Education",
    "title": "Ondes - Séminaire",
    "location": "I-101",
@@ -4197,9 +4197,9 @@
   },
   {
    "id": "Cours-233906-40-TREHOUT_LOIS-Index-Education",
-   "title": "Finances et gestion - M. OKACHI Redouane - Vacataire - TD",
+   "title": "Finances et gestion - OKACHI - TD",
    "location": "I-103",
-   "description": "Matière : Finances et gestion\nSalle : I-103\nMémo : M. OKACHI Redouane - Vacataire\nType : TD",
+   "description": "Matière : Finances et gestion\nEnseignant : OKACHI\nSalle : I-103\nType : TD",
    "start": "2027-05-19T08:00:00+02:00",
    "end": "2027-05-19T10:00:00+02:00",
    "allDay": false
@@ -4423,8 +4423,8 @@
   {
    "id": "Cours-234100-42-TREHOUT_LOIS-Index-Education",
    "title": "Commande des systèmes - CB Ens",
-   "location": "E-601, E-602, E-603",
-   "description": "Matière : Commande des systèmes\nSalles : E-601, E-602, E-603\nType : CB Ens",
+   "location": "",
+   "description": "Matière : Commande des systèmes\nType : CB Ens",
    "start": "2027-06-01T10:15:00+02:00",
    "end": "2027-06-01T12:15:00+02:00",
    "allDay": false
@@ -4458,9 +4458,9 @@
   },
   {
    "id": "Cours-234334-42-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - Cours",
-   "location": "E-601, E-602, E-603",
-   "description": "Matière : Résistance des matériaux\nSalles : E-601, E-602, E-603\nType : Cours",
+   "title": "Résistance des matériaux - CB Surv",
+   "location": "",
+   "description": "Matière : Résistance des matériaux\nType : CB Surv",
    "start": "2027-06-03T10:15:00+02:00",
    "end": "2027-06-03T12:15:00+02:00",
    "allDay": false
