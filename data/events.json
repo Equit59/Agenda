@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T13:41:54+00:00",
+ "updated": "2026-10-01T13:11:24+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1811,6 +1811,24 @@
    "allDay": false
   },
   {
+   "id": "Cours-249357-18-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2026-12-14T13:30:00+01:00",
+   "end": "2026-12-14T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249358-18-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2026-12-14T15:45:00+01:00",
+   "end": "2026-12-14T17:45:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-245567-18-TREHOUT_LOIS-Index-Education",
    "title": "CAMPAGNE BDS - Réunion",
    "location": "",
@@ -2027,12 +2045,39 @@
    "allDay": false
   },
   {
+   "id": "Cours-249362-21-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2027-01-08T10:15:00+01:00",
+   "end": "2027-01-08T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249354-21-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2027-01-08T15:45:00+01:00",
+   "end": "2027-01-08T17:45:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-232554-22-TREHOUT_LOIS-Index-Education",
    "title": "Conception et Production de Sy - CB Ens",
    "location": "B7-103",
    "description": "Matière : Conception et Production de Sy\nSalle : B7-103\nType : CB Ens",
    "start": "2027-01-11T08:00:00+01:00",
    "end": "2027-01-11T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249348-22-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2027-01-11T15:45:00+01:00",
+   "end": "2027-01-11T17:45:00+01:00",
    "allDay": false
   },
   {
@@ -2090,12 +2135,39 @@
    "allDay": false
   },
   {
+   "id": "Cours-249356-22-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2027-01-14T08:00:00+01:00",
+   "end": "2027-01-14T10:00:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-234191-22-TREHOUT_LOIS-Index-Education",
    "title": "Résistance des matériaux - NICLAEYS - Cours",
    "location": "",
    "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nType : Cours",
    "start": "2027-01-14T10:15:00+01:00",
    "end": "2027-01-14T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249350-22-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2027-01-15T10:15:00+01:00",
+   "end": "2027-01-15T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249351-22-TREHOUT_LOIS-Index-Education",
+   "title": "DDRS 2 - TD",
+   "location": "",
+   "description": "Matière : DDRS 2\nType : TD",
+   "start": "2027-01-15T15:45:00+01:00",
+   "end": "2027-01-15T17:45:00+01:00",
    "allDay": false
   },
   {
