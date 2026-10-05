@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T09:02:08+00:00",
+ "updated": "2026-10-05T18:26:21+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -723,9 +723,9 @@
   },
   {
    "id": "Cours-249332-9-TREHOUT_LOIS-Index-Education",
-   "title": "Matière à préciser - En visio - - Réunion",
+   "title": "aide mobilité internationale - Amphi Cuccaroni - Financer votre mobilité avec les aides à la mobilité internationale - Réunion",
    "location": "",
-   "description": "Matière : Matière à préciser\nMémo : En visio -\nType : Réunion",
+   "description": "Matière : aide mobilité internationale\nMémo : Amphi Cuccaroni - Financer votre mobilité avec les aides à la mobilité internationale\nType : Réunion",
    "start": "2026-10-12T12:30:00+02:00",
    "end": "2026-10-12T13:30:00+02:00",
    "allDay": false
@@ -830,10 +830,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-249472-9-TREHOUT_LOIS-Index-Education",
-   "title": "Matière à préciser - Réunion",
-   "location": "",
-   "description": "Matière : Matière à préciser\nType : Réunion",
+   "id": "Cours-249481-9-TREHOUT_LOIS-Index-Education",
+   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
+   "location": "I-101",
+   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
    "start": "2026-10-15T13:30:00+02:00",
    "end": "2026-10-15T14:30:00+02:00",
    "allDay": false
@@ -962,6 +962,15 @@
    "description": "Matière : Applications d'entreprise\nEnseignant : DANGOUMAU\nSalle : B7-101\nType : Demi-sem.",
    "start": "2026-10-22T08:00:00+02:00",
    "end": "2026-10-22T10:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249481-10-TREHOUT_LOIS-Index-Education",
+   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
+   "location": "I-101",
+   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
+   "start": "2026-10-22T13:30:00+02:00",
+   "end": "2026-10-22T14:30:00+02:00",
    "allDay": false
   },
   {
@@ -1118,6 +1127,15 @@
    "allDay": false
   },
   {
+   "id": "Cours-249481-12-TREHOUT_LOIS-Index-Education",
+   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
+   "location": "I-101",
+   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
+   "start": "2026-11-05T13:30:00+01:00",
+   "end": "2026-11-05T14:30:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-232501-12-TREHOUT_LOIS-Index-Education",
    "title": "Conception et Production de Sy - ROYES - TP",
    "location": "Labo Méca.",
@@ -1224,6 +1242,15 @@
    "start": "2026-11-11T00:00:00+01:00",
    "end": "2026-11-12T00:00:00+01:00",
    "allDay": true
+  },
+  {
+   "id": "Cours-249481-13-TREHOUT_LOIS-Index-Education",
+   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
+   "location": "I-101",
+   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
+   "start": "2026-11-12T13:30:00+01:00",
+   "end": "2026-11-12T14:30:00+01:00",
+   "allDay": false
   },
   {
    "id": "Cours-248866-13-TREHOUT_LOIS-Index-Education",
@@ -1358,6 +1385,15 @@
    "description": "Matière : Electronique\nSalle : C-206a\nType : Demi-sem.",
    "start": "2026-11-19T08:00:00+01:00",
    "end": "2026-11-19T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249481-14-TREHOUT_LOIS-Index-Education",
+   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
+   "location": "I-101",
+   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
+   "start": "2026-11-19T13:30:00+01:00",
+   "end": "2026-11-19T14:30:00+01:00",
    "allDay": false
   },
   {
@@ -1505,6 +1541,15 @@
    "allDay": false
   },
   {
+   "id": "Cours-249481-15-TREHOUT_LOIS-Index-Education",
+   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
+   "location": "I-101",
+   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
+   "start": "2026-11-26T13:30:00+01:00",
+   "end": "2026-11-26T14:30:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-232599-15-TREHOUT_LOIS-Index-Education",
    "title": "Mod. sim. comm. proces. élec. - JEDREZAK - TP",
    "location": "B7-101",
@@ -1628,6 +1673,15 @@
    "description": "Matière : Traitement du signal\nEnseignant : AHMIDAYI\nSalle : C-212\nType : Séminaire",
    "start": "2026-12-03T08:00:00+01:00",
    "end": "2026-12-03T12:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-249481-16-TREHOUT_LOIS-Index-Education",
+   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
+   "location": "I-101",
+   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
+   "start": "2026-12-03T13:30:00+01:00",
+   "end": "2026-12-03T14:30:00+01:00",
    "allDay": false
   },
   {
