@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T18:26:21+00:00",
+ "updated": "2026-10-06T07:33:26+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -578,10 +578,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-233114-8-TREHOUT_LOIS-Index-Education",
-   "title": "Espagnol - VIAU - TD",
+   "id": "COURSANNULE-396-8-TREHOUT_LOIS-Index-Education",
+   "title": "Annulation : Espagnol - VIAU - TD",
    "location": "E-204",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-204\nType : TD",
+   "description": "Annulation : \nMatière : Espagnol\nEnseignant : VIAU\nSalle : E-204\nType : TD",
    "start": "2026-10-06T10:15:00+02:00",
    "end": "2026-10-06T12:15:00+02:00",
    "allDay": false
