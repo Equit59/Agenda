@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T15:35:33+00:00",
+ "updated": "2026-10-08T21:19:06+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1100,7 +1100,7 @@
    "allDay": false
   },
   {
-   "id": "Cours-246697-12-TREHOUT_LOIS-Index-Education",
+   "id": "Cours-249878-12-TREHOUT_LOIS-Index-Education",
    "title": "Projet - Conception et réalisa - TNE",
    "location": "",
    "description": "Matière : Projet - Conception et réalisa\nType : TNE",
@@ -2469,18 +2469,18 @@
   },
   {
    "id": "Cours-233488-24-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-102",
-   "description": "Matière : Entrepreneuriat\nSalle : J-102\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-102\nType : TD",
    "start": "2027-01-29T08:00:00+01:00",
    "end": "2027-01-29T10:00:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233490-24-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-102",
-   "description": "Matière : Entrepreneuriat\nSalle : J-102\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-102\nType : TD",
    "start": "2027-01-29T10:15:00+01:00",
    "end": "2027-01-29T12:15:00+01:00",
    "allDay": false
@@ -2649,9 +2649,9 @@
   },
   {
    "id": "Cours-233492-25-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "I-103",
-   "description": "Matière : Entrepreneuriat\nSalle : I-103\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : I-103\nType : TD",
    "start": "2027-02-05T15:45:00+01:00",
    "end": "2027-02-05T17:45:00+01:00",
    "allDay": false
@@ -2712,18 +2712,18 @@
   },
   {
    "id": "Cours-233494-26-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-104",
-   "description": "Matière : Entrepreneuriat\nSalle : J-104\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-104\nType : TD",
    "start": "2027-02-09T13:30:00+01:00",
    "end": "2027-02-09T15:30:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233496-26-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-104",
-   "description": "Matière : Entrepreneuriat\nSalle : J-104\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-104\nType : TD",
    "start": "2027-02-09T15:45:00+01:00",
    "end": "2027-02-09T17:45:00+01:00",
    "allDay": false
@@ -2865,9 +2865,9 @@
   },
   {
    "id": "Cours-233498-27-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-103",
-   "description": "Matière : Entrepreneuriat\nSalle : J-103\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-103\nType : TD",
    "start": "2027-02-16T13:30:00+01:00",
    "end": "2027-02-16T15:30:00+01:00",
    "allDay": false
@@ -3027,9 +3027,9 @@
   },
   {
    "id": "Cours-233500-28-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-101",
-   "description": "Matière : Entrepreneuriat\nSalle : J-101\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-101\nType : TD",
    "start": "2027-02-22T15:45:00+01:00",
    "end": "2027-02-22T17:45:00+01:00",
    "allDay": false
@@ -3072,9 +3072,9 @@
   },
   {
    "id": "Cours-233502-28-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "",
-   "description": "Matière : Entrepreneuriat\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nType : TD",
    "start": "2027-02-23T15:45:00+01:00",
    "end": "2027-02-23T17:45:00+01:00",
    "allDay": false
@@ -3243,9 +3243,9 @@
   },
   {
    "id": "Cours-233504-30-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "E-603",
-   "description": "Matière : Entrepreneuriat\nSalle : E-603\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : E-603\nType : TD",
    "start": "2027-03-09T15:45:00+01:00",
    "end": "2027-03-09T17:45:00+01:00",
    "allDay": false
@@ -3405,11 +3405,11 @@
   },
   {
    "id": "Cours-233508-31-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "",
-   "description": "Matière : Entrepreneuriat\nType : TD",
-   "start": "2027-03-16T15:45:00+01:00",
-   "end": "2027-03-16T17:45:00+01:00",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nType : TD",
+   "start": "2027-03-16T13:30:00+01:00",
+   "end": "2027-03-16T15:30:00+01:00",
    "allDay": false
   },
   {
@@ -3594,18 +3594,18 @@
   },
   {
    "id": "Cours-233518-32-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-101",
-   "description": "Matière : Entrepreneuriat\nSalle : J-101\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-101\nType : TD",
    "start": "2027-03-25T08:00:00+01:00",
    "end": "2027-03-25T10:00:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233520-32-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TD",
+   "title": "Entrepreneuriat - TALBI - TD",
    "location": "J-101",
-   "description": "Matière : Entrepreneuriat\nSalle : J-101\nType : TD",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-101\nType : TD",
    "start": "2027-03-25T10:15:00+01:00",
    "end": "2027-03-25T12:15:00+01:00",
    "allDay": false
@@ -3621,9 +3621,9 @@
   },
   {
    "id": "Cours-233521-32-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - CB Ens",
-   "location": "E-601, E-603",
-   "description": "Matière : Entrepreneuriat\nSalles : E-601, E-603\nType : CB Ens",
+   "title": "Entrepreneuriat - NORMAND, TALBI - CB Ens",
+   "location": "",
+   "description": "Matière : Entrepreneuriat\nEnseignants : NORMAND, TALBI\nType : CB Ens",
    "start": "2027-03-26T10:15:00+01:00",
    "end": "2027-03-26T12:15:00+01:00",
    "allDay": false
