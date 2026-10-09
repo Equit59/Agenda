@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-08T21:19:06+00:00",
+ "updated": "2026-10-09T16:11:13+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -857,6 +857,15 @@
    "allDay": false
   },
   {
+   "id": "Cours-249953-9-TREHOUT_LOIS-Index-Education",
+   "title": "Mécanique des fluides - OBLIGADO - TD",
+   "location": "",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nType : TD",
+   "start": "2026-10-16T15:45:00+02:00",
+   "end": "2026-10-16T17:45:00+02:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-232282-10-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 3 - CB Surv",
    "location": "Amphi L. de VINC",
@@ -938,7 +947,7 @@
    "allDay": false
   },
   {
-   "id": "Cours-246697-10-TREHOUT_LOIS-Index-Education",
+   "id": "Cours-249955-10-TREHOUT_LOIS-Index-Education",
    "title": "Projet - Conception et réalisa - TNE",
    "location": "",
    "description": "Matière : Projet - Conception et réalisa\nType : TNE",
@@ -1079,15 +1088,6 @@
    "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : B7-101\nType : Demi-sem.",
    "start": "2026-11-03T15:45:00+01:00",
    "end": "2026-11-03T17:45:00+01:00",
-   "allDay": false
-  },
-  {
-   "id": "Cours-232455-12-TREHOUT_LOIS-Index-Education",
-   "title": "Communication d'entreprise - NORMAND - TD",
-   "location": "",
-   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nType : TD",
-   "start": "2026-11-04T08:00:00+01:00",
-   "end": "2026-11-04T10:00:00+01:00",
    "allDay": false
   },
   {
