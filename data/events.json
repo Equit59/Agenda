@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09T16:11:13+00:00",
+ "updated": "2026-10-12T15:21:31+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -732,9 +732,9 @@
   },
   {
    "id": "Cours-232672-9-TREHOUT_LOIS-Index-Education",
-   "title": "Applications d'entreprise - KHLIF BOUASSIDA - Macro Excel - Demi-sem.",
+   "title": "Applications d'entreprise - DANGOUMAU - Macro Excel - Demi-sem.",
    "location": "B7-101",
-   "description": "Matière : Applications d'entreprise\nEnseignant : KHLIF BOUASSIDA\nSalle : B7-101\nMémo : Macro Excel\nType : Demi-sem.",
+   "description": "Matière : Applications d'entreprise\nEnseignant : DANGOUMAU\nSalle : B7-101\nMémo : Macro Excel\nType : Demi-sem.",
    "start": "2026-10-12T13:30:00+02:00",
    "end": "2026-10-12T15:30:00+02:00",
    "allDay": false
@@ -867,9 +867,9 @@
   },
   {
    "id": "Cours-232282-10-TREHOUT_LOIS-Index-Education",
-   "title": "Mathématiques 3 - CB Surv",
+   "title": "Mathématiques 3 - BASIER, BURGNIES, JELINSKI - CB Surv",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Mathématiques 3\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "description": "Matière : Mathématiques 3\nEnseignants : BASIER, BURGNIES, JELINSKI\nSalle : Amphi L. de VINC\nType : CB Surv",
    "start": "2026-10-19T08:00:00+02:00",
    "end": "2026-10-19T10:00:00+02:00",
    "allDay": false
@@ -894,9 +894,9 @@
   },
   {
    "id": "Cours-232098-10-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - TD",
-   "location": "",
-   "description": "Matière : Anglais\nType : TD",
+   "title": "Anglais - PLOUVIER - TD",
+   "location": "E-410",
+   "description": "Matière : Anglais\nEnseignant : PLOUVIER\nSalle : E-410\nType : TD",
    "start": "2026-10-20T08:00:00+02:00",
    "end": "2026-10-20T10:00:00+02:00",
    "allDay": false
@@ -904,17 +904,17 @@
   {
    "id": "Cours-233114-10-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "E-303",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-303\nType : TD",
    "start": "2026-10-20T10:15:00+02:00",
    "end": "2026-10-20T12:15:00+02:00",
    "allDay": false
   },
   {
    "id": "Cours-232738-10-TREHOUT_LOIS-Index-Education",
-   "title": "Mécanique des fluides - CB Surv",
+   "title": "Mécanique des fluides - BASIER, BURGNIES, JELINSKI - CB Surv",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Mécanique des fluides\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "description": "Matière : Mécanique des fluides\nEnseignants : BASIER, BURGNIES, JELINSKI\nSalle : Amphi L. de VINC\nType : CB Surv",
    "start": "2026-10-20T13:30:00+02:00",
    "end": "2026-10-20T15:30:00+02:00",
    "allDay": false
@@ -993,9 +993,9 @@
   },
   {
    "id": "Cours-232661-10-TREHOUT_LOIS-Index-Education",
-   "title": "Thermodynamique - CB Surv",
+   "title": "Thermodynamique - BASIER, BURGNIES, JOZEFCZAK - CB Surv",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Thermodynamique\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "description": "Matière : Thermodynamique\nEnseignants : BASIER, BURGNIES, JOZEFCZAK\nSalle : Amphi L. de VINC\nType : CB Surv",
    "start": "2026-10-23T09:00:00+02:00",
    "end": "2026-10-23T11:00:00+02:00",
    "allDay": false
@@ -1039,8 +1039,8 @@
   {
    "id": "Cours-235770-12-TREHOUT_LOIS-Index-Education",
    "title": "Mod. sim. comm. proces. élec. - FRANCOIS - TD",
-   "location": "I-101",
-   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : I-101\nType : TD",
+   "location": "E-306",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : E-306\nType : TD",
    "start": "2026-11-02T13:30:00+01:00",
    "end": "2026-11-02T15:30:00+01:00",
    "allDay": false
@@ -1174,8 +1174,8 @@
   {
    "id": "Cours-232249-13-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 3 - LEDDA - Cours",
-   "location": "Amphi L. de VINC",
-   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : Amphi GOUBET\nType : Cours",
    "start": "2026-11-09T10:15:00+01:00",
    "end": "2026-11-09T12:15:00+01:00",
    "allDay": false
@@ -4679,6 +4679,15 @@
    "description": "Matière : Equipement électrique\nSalles : E-601, E-602, E-603\nType : CB Surv",
    "start": "2027-06-14T10:15:00+02:00",
    "end": "2027-06-14T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-250108-44-TREHOUT_LOIS-Index-Education",
+   "title": "Matière à préciser - Réunion",
+   "location": "",
+   "description": "Matière : Matière à préciser\nType : Réunion",
+   "start": "2027-06-18T08:00:00+02:00",
+   "end": "2027-06-18T10:00:00+02:00",
    "allDay": false
   }
  ]
