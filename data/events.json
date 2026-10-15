@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T15:21:31+00:00",
+ "updated": "2026-10-15T13:24:49+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -859,8 +859,8 @@
   {
    "id": "Cours-249953-9-TREHOUT_LOIS-Index-Education",
    "title": "Mécanique des fluides - OBLIGADO - TD",
-   "location": "",
-   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nType : TD",
+   "location": "I-102",
+   "description": "Matière : Mécanique des fluides\nEnseignant : OBLIGADO\nSalle : I-102\nType : TD",
    "start": "2026-10-16T15:45:00+02:00",
    "end": "2026-10-16T17:45:00+02:00",
    "allDay": false
