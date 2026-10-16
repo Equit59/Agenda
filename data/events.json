@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T13:24:49+00:00",
+ "updated": "2026-10-16T11:21:26+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1056,9 +1056,9 @@
   },
   {
    "id": "Cours-232098-12-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - TD",
-   "location": "",
-   "description": "Matière : Anglais\nType : TD",
+   "title": "Anglais - PLOUVIER - TD",
+   "location": "E-401",
+   "description": "Matière : Anglais\nEnseignant : PLOUVIER\nSalle : E-401\nType : TD",
    "start": "2026-11-03T08:00:00+01:00",
    "end": "2026-11-03T10:00:00+01:00",
    "allDay": false
@@ -1066,8 +1066,8 @@
   {
    "id": "Cours-233114-12-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "E-306",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-306\nType : TD",
    "start": "2026-11-03T10:15:00+01:00",
    "end": "2026-11-03T12:15:00+01:00",
    "allDay": false
