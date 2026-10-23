@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:37:38+00:00",
+ "updated": "2026-10-23T13:24:58+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1164,9 +1164,9 @@
   },
   {
    "id": "Cours-232676-13-TREHOUT_LOIS-Index-Education",
-   "title": "Applications d'entreprise - CB Surv",
+   "title": "Applications d'entreprise - DANGOUMAU - CB Ens",
    "location": "B7-101",
-   "description": "Matière : Applications d'entreprise\nSalle : B7-101\nType : CB Surv",
+   "description": "Matière : Applications d'entreprise\nEnseignant : DANGOUMAU\nSalle : B7-101\nType : CB Ens",
    "start": "2026-11-09T08:00:00+01:00",
    "end": "2026-11-09T10:00:00+01:00",
    "allDay": false
@@ -2019,9 +2019,9 @@
   },
   {
    "id": "Cours-233218-21-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - HAGUE - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : HAGUE\nType : TD",
    "start": "2027-01-05T08:00:00+01:00",
    "end": "2027-01-05T10:00:00+01:00",
    "allDay": false
@@ -2136,9 +2136,9 @@
   },
   {
    "id": "Cours-233218-22-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - HAGUE - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : HAGUE\nType : TD",
    "start": "2027-01-12T08:00:00+01:00",
    "end": "2027-01-12T10:00:00+01:00",
    "allDay": false
@@ -2388,9 +2388,9 @@
   },
   {
    "id": "Cours-233218-24-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - HAGUE - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : HAGUE\nType : TD",
    "start": "2027-01-26T08:00:00+01:00",
    "end": "2027-01-26T10:00:00+01:00",
    "allDay": false
@@ -2523,9 +2523,9 @@
   },
   {
    "id": "Cours-233218-25-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - HAGUE - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : HAGUE\nType : TD",
    "start": "2027-02-02T08:00:00+01:00",
    "end": "2027-02-02T10:00:00+01:00",
    "allDay": false
@@ -2685,9 +2685,9 @@
   },
   {
    "id": "Cours-233218-26-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - HAGUE - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : HAGUE\nType : TD",
    "start": "2027-02-09T08:00:00+01:00",
    "end": "2027-02-09T10:00:00+01:00",
    "allDay": false
@@ -2838,9 +2838,9 @@
   },
   {
    "id": "Cours-233218-27-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - HAGUE - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : HAGUE\nType : TD",
    "start": "2027-02-16T08:00:00+01:00",
    "end": "2027-02-16T10:00:00+01:00",
    "allDay": false
@@ -3036,9 +3036,9 @@
   },
   {
    "id": "Cours-233218-28-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - HAGUE - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : HAGUE\nType : TD",
    "start": "2027-02-23T08:00:00+01:00",
    "end": "2027-02-23T10:00:00+01:00",
    "allDay": false
@@ -3207,9 +3207,9 @@
   },
   {
    "id": "Cours-233218-30-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - DAVIES - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : DAVIES\nType : TD",
    "start": "2027-03-09T08:00:00+01:00",
    "end": "2027-03-09T10:00:00+01:00",
    "allDay": false
@@ -3378,9 +3378,9 @@
   },
   {
    "id": "Cours-233218-31-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - DAVIES - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : DAVIES\nType : TD",
    "start": "2027-03-16T08:00:00+01:00",
    "end": "2027-03-16T10:00:00+01:00",
    "allDay": false
@@ -3531,9 +3531,9 @@
   },
   {
    "id": "Cours-233218-32-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - DAVIES - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : DAVIES\nType : TD",
    "start": "2027-03-23T08:00:00+01:00",
    "end": "2027-03-23T10:00:00+01:00",
    "allDay": false
@@ -3648,9 +3648,9 @@
   },
   {
    "id": "Cours-233218-33-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - DAVIES - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : DAVIES\nType : TD",
    "start": "2027-03-30T08:00:00+02:00",
    "end": "2027-03-30T10:00:00+02:00",
    "allDay": false
@@ -3774,9 +3774,9 @@
   },
   {
    "id": "Cours-233277-34-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - TD",
+   "title": "Anglais 4 - DAVIES - TD",
    "location": "",
-   "description": "Matière : Anglais 4\nType : TD",
+   "description": "Matière : Anglais 4\nEnseignant : DAVIES\nType : TD",
    "start": "2027-04-06T08:00:00+02:00",
    "end": "2027-04-06T09:00:00+02:00",
    "allDay": false
@@ -3918,9 +3918,9 @@
   },
   {
    "id": "Cours-233227-35-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais 4 - DAVIES, HAGUE, RIBALS - CB Ens",
+   "title": "Anglais 4 - DAVIES, HAGUE, PLOUVIER, RIBALS - CB Ens",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Anglais 4\nEnseignants : DAVIES, HAGUE, RIBALS\nSalle : Amphi L. de VINC\nType : CB Ens",
+   "description": "Matière : Anglais 4\nEnseignants : DAVIES, HAGUE, PLOUVIER, RIBALS\nSalle : Amphi L. de VINC\nType : CB Ens",
    "start": "2027-04-13T08:00:00+02:00",
    "end": "2027-04-13T10:00:00+02:00",
    "allDay": false
