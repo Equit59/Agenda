@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:24:58+00:00",
+ "updated": "2026-10-28T15:59:55+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1307,15 +1307,6 @@
    "allDay": false
   },
   {
-   "id": "Cours-233028-14-TREHOUT_LOIS-Index-Education",
-   "title": "Changement organisationnel - MALASSINGNE - Cours",
-   "location": "Amphi L. de VINC",
-   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi L. de VINC\nType : Cours",
-   "start": "2026-11-16T15:45:00+01:00",
-   "end": "2026-11-16T17:45:00+01:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-232098-14-TREHOUT_LOIS-Index-Education",
    "title": "Anglais - TD",
    "location": "",
@@ -1559,15 +1550,6 @@
    "allDay": false
   },
   {
-   "id": "Cours-232926-16-TREHOUT_LOIS-Index-Education",
-   "title": "Changement organisationnel - MALASSINGNE - TD",
-   "location": "E-602",
-   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : E-602\nType : TD",
-   "start": "2026-11-30T08:00:00+01:00",
-   "end": "2026-11-30T10:00:00+01:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-232249-16-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 3 - LEDDA - Cours",
    "location": "Amphi BODA",
@@ -1691,15 +1673,6 @@
    "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-102\nType : TD",
    "start": "2026-12-04T13:30:00+01:00",
    "end": "2026-12-04T15:30:00+01:00",
-   "allDay": false
-  },
-  {
-   "id": "Cours-232924-16-TREHOUT_LOIS-Index-Education",
-   "title": "Changement organisationnel - MALASSINGNE - TD",
-   "location": "I-101",
-   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : I-101\nType : TD",
-   "start": "2026-12-04T15:45:00+01:00",
-   "end": "2026-12-04T17:45:00+01:00",
    "allDay": false
   },
   {
@@ -1853,6 +1826,15 @@
    "description": "Matière : CAMPAGNE BDS\nType : Réunion",
    "start": "2026-12-11T18:15:00+01:00",
    "end": "2026-12-11T20:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-251562-18-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - TD",
+   "location": "",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nType : TD",
+   "start": "2026-12-14T08:00:00+01:00",
+   "end": "2026-12-14T10:00:00+01:00",
    "allDay": false
   },
   {
@@ -2045,6 +2027,15 @@
    "allDay": false
   },
   {
+   "id": "Cours-251601-21-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - Cours",
+   "location": "Amphi GOUBET",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi GOUBET\nType : Cours",
+   "start": "2027-01-05T15:45:00+01:00",
+   "end": "2027-01-05T17:45:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-232891-21-TREHOUT_LOIS-Index-Education",
    "title": "Changement organisationnel - MALASSINGNE - TD",
    "location": "I-102",
@@ -2105,6 +2096,15 @@
    "description": "Matière : DDRS 2\nType : TD",
    "start": "2027-01-08T10:15:00+01:00",
    "end": "2027-01-08T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-251602-21-TREHOUT_LOIS-Index-Education",
+   "title": "Changement organisationnel - MALASSINGNE - TD",
+   "location": "",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nType : TD",
+   "start": "2027-01-08T13:30:00+01:00",
+   "end": "2027-01-08T15:30:00+01:00",
    "allDay": false
   },
   {
