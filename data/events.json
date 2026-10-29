@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T15:59:55+00:00",
+ "updated": "2026-10-29T14:16:39+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1322,6 +1322,15 @@
    "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
    "start": "2026-11-17T10:15:00+01:00",
    "end": "2026-11-17T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-251791-14-TREHOUT_LOIS-Index-Education",
+   "title": "APSYTUDE speed meeting - \"parcours du combattant\" - Hall du bâtiment I - Réunion",
+   "location": "",
+   "description": "Matière : APSYTUDE speed meeting\nMémo : \"parcours du combattant\" - Hall du bâtiment I\nType : Réunion",
+   "start": "2026-11-17T12:15:00+01:00",
+   "end": "2026-11-17T13:30:00+01:00",
    "allDay": false
   },
   {
