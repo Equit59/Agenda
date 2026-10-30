@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T14:16:39+00:00",
+ "updated": "2026-10-30T12:52:24+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1075,8 +1075,8 @@
   {
    "id": "Cours-232561-12-TREHOUT_LOIS-Index-Education",
    "title": "Traitement du signal - BOUTGHATIN - Séminaire",
-   "location": "C-214",
-   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-214\nType : Séminaire",
+   "location": "B7-102",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : B7-102\nType : Séminaire",
    "start": "2026-11-03T13:30:00+01:00",
    "end": "2026-11-03T15:30:00+01:00",
    "allDay": false
@@ -1183,8 +1183,8 @@
   {
    "id": "Cours-232393-13-TREHOUT_LOIS-Index-Education",
    "title": "Traitement du signal - BOUTGHATIN - Séminaire",
-   "location": "C-214",
-   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-214\nType : Séminaire",
+   "location": "B7-001",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : B7-001\nType : Séminaire",
    "start": "2026-11-09T13:30:00+01:00",
    "end": "2026-11-09T15:30:00+01:00",
    "allDay": false
@@ -1525,8 +1525,8 @@
   {
    "id": "Cours-232828-15-TREHOUT_LOIS-Index-Education",
    "title": "Traitement du signal - BOUTGHATIN - Séminaire",
-   "location": "C-212",
-   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : C-212\nType : Séminaire",
+   "location": "I-105",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : I-105\nType : Séminaire",
    "start": "2026-11-26T08:00:00+01:00",
    "end": "2026-11-26T12:00:00+01:00",
    "allDay": false
@@ -1669,8 +1669,8 @@
   {
    "id": "Cours-232604-16-TREHOUT_LOIS-Index-Education",
    "title": "Mod. sim. comm. proces. élec. - JEDREZAK - TP",
-   "location": "C-206a, C-206b",
-   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : JEDREZAK\nSalles : C-206a, C-206b\nType : TP",
+   "location": "B7-105",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : JEDREZAK\nSalle : B7-105\nType : TP",
    "start": "2026-12-04T08:00:00+01:00",
    "end": "2026-12-04T12:00:00+01:00",
    "allDay": false
