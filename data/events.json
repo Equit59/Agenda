@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T18:25:59+00:00",
+ "updated": "2026-11-04T15:24:07+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1109,15 +1109,6 @@
    "allDay": false
   },
   {
-   "id": "Cours-249481-12-TREHOUT_LOIS-Index-Education",
-   "title": "SOUTIEN MATHS IE2 - LEDDA - Réunion",
-   "location": "I-101",
-   "description": "Matière : SOUTIEN MATHS IE2\nEnseignant : LEDDA\nSalle : I-101\nType : Réunion",
-   "start": "2026-11-05T13:30:00+01:00",
-   "end": "2026-11-05T14:30:00+01:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-232501-12-TREHOUT_LOIS-Index-Education",
    "title": "Conception et Production de Sy - ROYES - TP",
    "location": "Labo Méca.",
@@ -1182,9 +1173,9 @@
   },
   {
    "id": "Cours-232098-13-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - TD",
+   "title": "Anglais - RIBALS - TD",
    "location": "",
-   "description": "Matière : Anglais\nType : TD",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
    "start": "2026-11-10T08:00:00+01:00",
    "end": "2026-11-10T10:00:00+01:00",
    "allDay": false
@@ -1290,9 +1281,9 @@
   },
   {
    "id": "Cours-232098-14-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - TD",
+   "title": "Anglais - RIBALS - TD",
    "location": "",
-   "description": "Matière : Anglais\nType : TD",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
    "start": "2026-11-17T08:00:00+01:00",
    "end": "2026-11-17T10:00:00+01:00",
    "allDay": false
@@ -1443,9 +1434,9 @@
   },
   {
    "id": "Cours-232098-15-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - TD",
+   "title": "Anglais - RIBALS - TD",
    "location": "",
-   "description": "Matière : Anglais\nType : TD",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
    "start": "2026-11-24T08:00:00+01:00",
    "end": "2026-11-24T10:00:00+01:00",
    "allDay": false
@@ -1569,9 +1560,9 @@
   },
   {
    "id": "Cours-232098-16-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - TD",
+   "title": "Anglais - RIBALS - TD",
    "location": "",
-   "description": "Matière : Anglais\nType : TD",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
    "start": "2026-12-01T08:00:00+01:00",
    "end": "2026-12-01T10:00:00+01:00",
    "allDay": false
@@ -1713,9 +1704,9 @@
   },
   {
    "id": "Cours-232103-17-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - TD",
+   "title": "Anglais - RIBALS - TD",
    "location": "",
-   "description": "Matière : Anglais\nType : TD",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
    "start": "2026-12-08T08:00:00+01:00",
    "end": "2026-12-08T09:00:00+01:00",
    "allDay": false
@@ -1884,9 +1875,9 @@
   },
   {
    "id": "Cours-232104-18-TREHOUT_LOIS-Index-Education",
-   "title": "Anglais - DAVIES, HAGUE, RIBALS - CB Ens",
+   "title": "Anglais - DAVIES, HAGUE, PLOUVIER, RIBALS - CB Ens",
    "location": "I-101, I-102, I-103, I-104",
-   "description": "Matière : Anglais\nEnseignants : DAVIES, HAGUE, RIBALS\nSalles : I-101, I-102, I-103, I-104\nType : CB Ens",
+   "description": "Matière : Anglais\nEnseignants : DAVIES, HAGUE, PLOUVIER, RIBALS\nSalles : I-101, I-102, I-103, I-104\nType : CB Ens",
    "start": "2026-12-15T08:00:00+01:00",
    "end": "2026-12-15T10:00:00+01:00",
    "allDay": false
