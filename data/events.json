@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:24:07+00:00",
+ "updated": "2026-11-05T18:43:55+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1174,8 +1174,8 @@
   {
    "id": "Cours-232098-13-TREHOUT_LOIS-Index-Education",
    "title": "Anglais - RIBALS - TD",
-   "location": "",
-   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
+   "location": "E-301",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nSalle : E-301\nType : TD",
    "start": "2026-11-10T08:00:00+01:00",
    "end": "2026-11-10T10:00:00+01:00",
    "allDay": false
@@ -1183,8 +1183,8 @@
   {
    "id": "Cours-233114-13-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "E-304",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-304\nType : TD",
    "start": "2026-11-10T10:15:00+01:00",
    "end": "2026-11-10T12:15:00+01:00",
    "allDay": false
@@ -1282,8 +1282,8 @@
   {
    "id": "Cours-232098-14-TREHOUT_LOIS-Index-Education",
    "title": "Anglais - RIBALS - TD",
-   "location": "",
-   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
+   "location": "E-403",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nSalle : E-403\nType : TD",
    "start": "2026-11-17T08:00:00+01:00",
    "end": "2026-11-17T10:00:00+01:00",
    "allDay": false
@@ -1291,8 +1291,8 @@
   {
    "id": "Cours-233114-14-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "E-303",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-303\nType : TD",
    "start": "2026-11-17T10:15:00+01:00",
    "end": "2026-11-17T12:15:00+01:00",
    "allDay": false
@@ -1460,15 +1460,6 @@
    "allDay": false
   },
   {
-   "id": "Cours-232594-15-TREHOUT_LOIS-Index-Education",
-   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - TD",
-   "location": "J-101",
-   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : J-101\nType : TD",
-   "start": "2026-11-25T08:00:00+01:00",
-   "end": "2026-11-25T10:00:00+01:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-243034-15-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 3 - LEDDA - TD",
    "location": "I-104",
@@ -1529,6 +1520,15 @@
    "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
    "start": "2026-11-27T15:45:00+01:00",
    "end": "2026-11-27T17:45:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-252335-16-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - TD",
+   "location": "E-502",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : E-502\nType : TD",
+   "start": "2026-11-30T08:00:00+01:00",
+   "end": "2026-11-30T10:00:00+01:00",
    "allDay": false
   },
   {
@@ -1984,8 +1984,8 @@
   {
    "id": "Cours-232927-18-TREHOUT_LOIS-Index-Education",
    "title": "Changement organisationnel - MALASSINGNE - Cours",
-   "location": "Amphi L. de VINC",
-   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi L. de VINC\nType : Cours",
+   "location": "Amphi BODA",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : Amphi BODA\nType : Cours",
    "start": "2026-12-18T10:15:00+01:00",
    "end": "2026-12-18T12:15:00+01:00",
    "allDay": false
