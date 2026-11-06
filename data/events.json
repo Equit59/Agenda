@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:43:55+00:00",
+ "updated": "2026-11-06T15:01:38+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -2612,15 +2612,6 @@
    "allDay": false
   },
   {
-   "id": "Cours-233320-25-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - BOU MATAR-LACAZE - Cours",
-   "location": "Amphi L. de VINC",
-   "description": "Matière : Ondes\nEnseignant : BOU MATAR-LACAZE\nSalle : Amphi L. de VINC\nType : Cours",
-   "start": "2027-02-05T08:00:00+01:00",
-   "end": "2027-02-05T10:00:00+01:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-233524-25-TREHOUT_LOIS-Index-Education",
    "title": "Dynamique des solides - Cours",
    "location": "Amphi L. de VINC",
@@ -3153,18 +3144,18 @@
   },
   {
    "id": "Cours-233780-28-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - TD",
+   "title": "Intelligence ambiante - AFFOGNON - TD",
    "location": "C-118",
-   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "description": "Matière : Intelligence ambiante\nEnseignant : AFFOGNON\nSalle : C-118\nType : TD",
    "start": "2027-02-26T13:30:00+01:00",
    "end": "2027-02-26T15:30:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233781-28-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - TD",
+   "title": "Intelligence ambiante - AFFOGNON - TD",
    "location": "C-118",
-   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "description": "Matière : Intelligence ambiante\nEnseignant : AFFOGNON\nSalle : C-118\nType : TD",
    "start": "2027-02-26T15:45:00+01:00",
    "end": "2027-02-26T17:45:00+01:00",
    "allDay": false
@@ -3181,8 +3172,8 @@
   {
    "id": "Cours-233816-30-TREHOUT_LOIS-Index-Education",
    "title": "Intelligence ambiante - CB Ens",
-   "location": "E-601, E-603",
-   "description": "Matière : Intelligence ambiante\nSalles : E-601, E-603\nType : CB Ens",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Intelligence ambiante\nSalle : Amphi L. de VINC\nType : CB Ens",
    "start": "2027-03-08T09:00:00+01:00",
    "end": "2027-03-08T10:00:00+01:00",
    "allDay": false
@@ -3190,8 +3181,8 @@
   {
    "id": "Cours-233479-30-TREHOUT_LOIS-Index-Education",
    "title": "Project Organizing - DANIEL - TD",
-   "location": "E-504",
-   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : E-504\nType : TD",
+   "location": "J-101",
+   "description": "Matière : Project Organizing\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
    "start": "2027-03-08T10:15:00+01:00",
    "end": "2027-03-08T12:15:00+01:00",
    "allDay": false
@@ -3333,9 +3324,9 @@
   },
   {
    "id": "Cours-233823-30-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - TP",
+   "title": "Intelligence ambiante - AFFOGNON - TP",
    "location": "C-118",
-   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TP",
+   "description": "Matière : Intelligence ambiante\nEnseignant : AFFOGNON\nSalle : C-118\nType : TP",
    "start": "2027-03-12T13:30:00+01:00",
    "end": "2027-03-12T17:30:00+01:00",
    "allDay": false
@@ -3495,9 +3486,9 @@
   },
   {
    "id": "Cours-233838-31-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - TP",
+   "title": "Intelligence ambiante - AFFOGNON - TP",
    "location": "C-118",
-   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TP",
+   "description": "Matière : Intelligence ambiante\nEnseignant : AFFOGNON\nSalle : C-118\nType : TP",
    "start": "2027-03-19T13:30:00+01:00",
    "end": "2027-03-19T17:30:00+01:00",
    "allDay": false
@@ -3800,10 +3791,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-234014-34-TREHOUT_LOIS-Index-Education",
-   "title": "Equipement électrique - GILLON - Cours",
+   "id": "Cours-252411-34-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - BOU MATAR-LACAZE - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Cours",
+   "description": "Matière : Ondes\nEnseignant : BOU MATAR-LACAZE\nSalle : Amphi L. de VINC\nType : Cours",
    "start": "2027-04-07T08:00:00+02:00",
    "end": "2027-04-07T10:00:00+02:00",
    "allDay": false
@@ -4575,11 +4566,20 @@
   },
   {
    "id": "Cours-234163-42-TREHOUT_LOIS-Index-Education",
-   "title": "Marketing - M. MOSCA - Vacataire - Cours",
+   "title": "Marketing - MOSCA - M. MOSCA - Vacataire - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Marketing\nSalle : Amphi L. de VINC\nMémo : M. MOSCA - Vacataire\nType : Cours",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : Amphi L. de VINC\nMémo : M. MOSCA - Vacataire\nType : Cours",
    "start": "2027-06-02T13:30:00+02:00",
    "end": "2027-06-02T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-252412-42-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - Cours",
+   "location": "",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nType : Cours",
+   "start": "2027-06-02T15:45:00+02:00",
+   "end": "2027-06-02T17:45:00+02:00",
    "allDay": false
   },
   {
