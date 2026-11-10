@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:01:38+00:00",
+ "updated": "2026-11-10T17:48:37+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1488,9 +1488,9 @@
   },
   {
    "id": "Cours-232828-15-TREHOUT_LOIS-Index-Education",
-   "title": "Traitement du signal - BOUTGHATIN - Séminaire",
+   "title": "Traitement du signal - BOUVEL - Séminaire",
    "location": "I-105",
-   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : I-105\nType : Séminaire",
+   "description": "Matière : Traitement du signal\nEnseignant : BOUVEL\nSalle : I-105\nType : Séminaire",
    "start": "2026-11-26T08:00:00+01:00",
    "end": "2026-11-26T12:00:00+01:00",
    "allDay": false
