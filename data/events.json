@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:22:27+00:00",
+ "updated": "2026-11-17T22:20:43+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1444,8 +1444,8 @@
   {
    "id": "Cours-232098-15-TREHOUT_LOIS-Index-Education",
    "title": "Anglais - RIBALS - TD",
-   "location": "I-103",
-   "description": "Matière : Anglais\nEnseignant : RIBALS\nSalle : I-103\nType : TD",
+   "location": "E-401",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nSalle : E-401\nType : TD",
    "start": "2026-11-24T08:00:00+01:00",
    "end": "2026-11-24T10:00:00+01:00",
    "allDay": false
@@ -1453,8 +1453,8 @@
   {
    "id": "Cours-233114-15-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "E-306",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-306\nType : TD",
    "start": "2026-11-24T10:15:00+01:00",
    "end": "2026-11-24T12:15:00+01:00",
    "allDay": false
@@ -1475,6 +1475,15 @@
    "description": "Matière : Mathématiques 3\nEnseignant : LEDDA\nSalle : I-104\nType : TD",
    "start": "2026-11-25T10:15:00+01:00",
    "end": "2026-11-25T12:15:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-252777-15-TREHOUT_LOIS-Index-Education",
+   "title": "prés. Exp International+stages - Présence obligatoire pour le groupe A et B1 - Réunion",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : prés. Exp International+stages\nSalle : Amphi L. de VINC\nMémo : Présence obligatoire pour le groupe A et B1\nType : Réunion",
+   "start": "2026-11-25T12:30:00+01:00",
+   "end": "2026-11-25T13:15:00+01:00",
    "allDay": false
   },
   {
@@ -1570,8 +1579,8 @@
   {
    "id": "Cours-232098-16-TREHOUT_LOIS-Index-Education",
    "title": "Anglais - RIBALS - TD",
-   "location": "",
-   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
+   "location": "E-408",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nSalle : E-408\nType : TD",
    "start": "2026-12-01T08:00:00+01:00",
    "end": "2026-12-01T10:00:00+01:00",
    "allDay": false
@@ -1579,8 +1588,8 @@
   {
    "id": "Cours-233114-16-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "E-306",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : E-306\nType : TD",
    "start": "2026-12-01T10:15:00+01:00",
    "end": "2026-12-01T12:15:00+01:00",
    "allDay": false
@@ -1714,8 +1723,8 @@
   {
    "id": "Cours-232103-17-TREHOUT_LOIS-Index-Education",
    "title": "Anglais - RIBALS - TD",
-   "location": "",
-   "description": "Matière : Anglais\nEnseignant : RIBALS\nType : TD",
+   "location": "J-103",
+   "description": "Matière : Anglais\nEnseignant : RIBALS\nSalle : J-103\nType : TD",
    "start": "2026-12-08T08:00:00+01:00",
    "end": "2026-12-08T09:00:00+01:00",
    "allDay": false
@@ -1723,8 +1732,8 @@
   {
    "id": "Cours-232152-17-TREHOUT_LOIS-Index-Education",
    "title": "Espagnol - VIAU - TD",
-   "location": "",
-   "description": "Matière : Espagnol\nEnseignant : VIAU\nType : TD",
+   "location": "J-101",
+   "description": "Matière : Espagnol\nEnseignant : VIAU\nSalle : J-101\nType : TD",
    "start": "2026-12-08T09:15:00+01:00",
    "end": "2026-12-08T11:15:00+01:00",
    "allDay": false
@@ -3764,7 +3773,7 @@
    "allDay": false
   },
   {
-   "id": "Cours-233640-34-TREHOUT_LOIS-Index-Education",
+   "id": "Cours-233641-34-TREHOUT_LOIS-Index-Education",
    "title": "Ondes - TP",
    "location": "C-018",
    "description": "Matière : Ondes\nSalle : C-018\nType : TP",
@@ -3773,12 +3782,21 @@
    "allDay": false
   },
   {
-   "id": "Cours-233871-34-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - CB Ens",
-   "location": "J-101",
-   "description": "Matière : Intelligence ambiante\nSalle : J-101\nType : CB Ens",
+   "id": "Cours-233550-34-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - TD",
+   "location": "I-102",
+   "description": "Matière : Dynamique des solides\nSalle : I-102\nType : TD",
    "start": "2027-04-05T13:30:00+02:00",
-   "end": "2027-04-05T17:30:00+02:00",
+   "end": "2027-04-05T15:30:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233437-34-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-04-05T15:45:00+02:00",
+   "end": "2027-04-05T17:45:00+02:00",
    "allDay": false
   },
   {
@@ -3854,66 +3872,39 @@
    "allDay": false
   },
   {
-   "id": "Cours-233437-34-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - TNE",
-   "location": "",
-   "description": "Matière : Ondes\nType : TNE",
+   "id": "Cours-234301-34-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - TD",
+   "location": "I-102",
+   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
    "start": "2027-04-08T10:15:00+02:00",
    "end": "2027-04-08T12:15:00+02:00",
    "allDay": false
   },
   {
-   "id": "Cours-238343-34-TREHOUT_LOIS-Index-Education",
-   "title": "Matière à préciser - Question/Réponse stage",
+   "id": "Cours-252806-34-TREHOUT_LOIS-Index-Education",
+   "title": "Equipement électrique - GILLON - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Matière à préciser\nSalle : Amphi L. de VINC\nMémo : Question/Réponse stage",
-   "start": "2027-04-09T08:30:00+02:00",
-   "end": "2027-04-09T09:30:00+02:00",
+   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2027-04-09T08:00:00+02:00",
+   "end": "2027-04-09T10:00:00+02:00",
    "allDay": false
   },
   {
-   "id": "Cours-233885-34-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - CB Ens",
-   "location": "E-601, E-602, E-603",
-   "description": "Matière : Intelligence ambiante\nSalles : E-601, E-602, E-603\nType : CB Ens",
+   "id": "Cours-252804-34-TREHOUT_LOIS-Index-Education",
+   "title": "Mathématiques 4 - LEDDA - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
    "start": "2027-04-09T10:15:00+02:00",
    "end": "2027-04-09T12:15:00+02:00",
    "allDay": false
   },
   {
-   "id": "Cours-234301-34-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
-   "location": "I-102",
-   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
-   "start": "2027-04-09T13:30:00+02:00",
-   "end": "2027-04-09T15:30:00+02:00",
-   "allDay": false
-  },
-  {
-   "id": "Cours-233550-34-TREHOUT_LOIS-Index-Education",
-   "title": "Dynamique des solides - TD",
-   "location": "I-102",
-   "description": "Matière : Dynamique des solides\nSalle : I-102\nType : TD",
-   "start": "2027-04-09T15:45:00+02:00",
-   "end": "2027-04-09T17:45:00+02:00",
-   "allDay": false
-  },
-  {
-   "id": "Cours-234015-35-TREHOUT_LOIS-Index-Education",
-   "title": "Equipement électrique - GILLON - Cours",
+   "id": "Cours-252800-34-TREHOUT_LOIS-Index-Education",
+   "title": "Dynamique des solides - CB Surv",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Equipement électrique\nEnseignant : GILLON\nSalle : Amphi L. de VINC\nType : Cours",
-   "start": "2027-04-12T08:00:00+02:00",
-   "end": "2027-04-12T10:00:00+02:00",
-   "allDay": false
-  },
-  {
-   "id": "Cours-233638-35-TREHOUT_LOIS-Index-Education",
-   "title": "Mathématiques 4 - LEDDA - Cours",
-   "location": "Amphi L. de VINC",
-   "description": "Matière : Mathématiques 4\nEnseignant : LEDDA\nSalle : Amphi L. de VINC\nType : Cours",
-   "start": "2027-04-12T10:15:00+02:00",
-   "end": "2027-04-12T12:15:00+02:00",
+   "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "start": "2027-04-09T14:00:00+02:00",
+   "end": "2027-04-09T16:00:00+02:00",
    "allDay": false
   },
   {
@@ -3921,6 +3912,15 @@
    "title": "Ondes - TP",
    "location": "C-018",
    "description": "Matière : Ondes\nSalle : C-018\nType : TP",
+   "start": "2027-04-12T08:00:00+02:00",
+   "end": "2027-04-12T12:00:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-252802-35-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - AFFOGNON, BOURDEAUD HUY, GARGOURI - CB Ens",
+   "location": "J-105",
+   "description": "Matière : Intelligence ambiante\nEnseignants : AFFOGNON, BOURDEAUD HUY, GARGOURI\nSalle : J-105\nType : CB Ens",
    "start": "2027-04-12T13:30:00+02:00",
    "end": "2027-04-12T17:30:00+02:00",
    "allDay": false
@@ -3989,10 +3989,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-233551-35-TREHOUT_LOIS-Index-Education",
-   "title": "Dynamique des solides - CB Ens",
-   "location": "E-601, E-603",
-   "description": "Matière : Dynamique des solides\nSalles : E-601, E-603\nType : CB Ens",
+   "id": "Cours-252805-35-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Intelligence ambiante\nSalle : Amphi L. de VINC\nType : CB Surv",
    "start": "2027-04-15T10:15:00+02:00",
    "end": "2027-04-15T12:15:00+02:00",
    "allDay": false
@@ -4611,9 +4611,9 @@
   },
   {
    "id": "Cours-234166-42-TREHOUT_LOIS-Index-Education",
-   "title": "Marketing - M. MOSCA - Vacataire - TD",
+   "title": "Marketing - MOSCA - M. MOSCA - Vacataire - TD",
    "location": "I-101",
-   "description": "Matière : Marketing\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
    "start": "2027-06-04T10:15:00+02:00",
    "end": "2027-06-04T12:15:00+02:00",
    "allDay": false
@@ -4629,18 +4629,18 @@
   },
   {
    "id": "Cours-234168-43-TREHOUT_LOIS-Index-Education",
-   "title": "Marketing - M. MOSCA - Vacataire - Cours",
+   "title": "Marketing - MOSCA - M. MOSCA - Vacataire - Cours",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Marketing\nSalle : Amphi L. de VINC\nMémo : M. MOSCA - Vacataire\nType : Cours",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : Amphi L. de VINC\nMémo : M. MOSCA - Vacataire\nType : Cours",
    "start": "2027-06-08T08:00:00+02:00",
    "end": "2027-06-08T10:00:00+02:00",
    "allDay": false
   },
   {
    "id": "Cours-234169-43-TREHOUT_LOIS-Index-Education",
-   "title": "Marketing - M. MOSCA - Vacataire - TD",
+   "title": "Marketing - MOSCA - M. MOSCA - Vacataire - TD",
    "location": "I-101",
-   "description": "Matière : Marketing\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
    "start": "2027-06-08T10:15:00+02:00",
    "end": "2027-06-08T12:15:00+02:00",
    "allDay": false
@@ -4665,9 +4665,9 @@
   },
   {
    "id": "Cours-234172-43-TREHOUT_LOIS-Index-Education",
-   "title": "Marketing - M. MOSCA - Vacataire - TD",
+   "title": "Marketing - MOSCA - M. MOSCA - Vacataire - TD",
    "location": "I-101",
-   "description": "Matière : Marketing\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
+   "description": "Matière : Marketing\nEnseignant : MOSCA\nSalle : I-101\nMémo : M. MOSCA - Vacataire\nType : TD",
    "start": "2027-06-11T10:15:00+02:00",
    "end": "2027-06-11T12:15:00+02:00",
    "allDay": false
