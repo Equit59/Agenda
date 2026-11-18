@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:20:43+00:00",
+ "updated": "2026-11-18T13:56:18+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -2316,45 +2316,45 @@
   },
   {
    "id": "Cours-233203-23-TREHOUT_LOIS-Index-Education",
-   "title": "Mod. sim. comm. proces. élec. - REPARATION RATTRAPAGE - CB Surv",
+   "title": "Mod. sim. comm. proces. élec. - BURGNIES - REPARATION RATTRAPAGE - CB Surv",
    "location": "I-106",
-   "description": "Matière : Mod. sim. comm. proces. élec.\nSalle : I-106\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : BURGNIES\nSalle : I-106\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
    "start": "2027-01-21T08:00:00+01:00",
    "end": "2027-01-21T10:00:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233195-23-TREHOUT_LOIS-Index-Education",
-   "title": "Mathématiques 3 - REPARATION RATTRAPAGE - CB Surv",
+   "title": "Mathématiques 3 - BURGNIES - REPARATION RATTRAPAGE - CB Surv",
    "location": "I-101",
-   "description": "Matière : Mathématiques 3\nSalle : I-101\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "description": "Matière : Mathématiques 3\nEnseignant : BURGNIES\nSalle : I-101\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
    "start": "2027-01-21T10:15:00+01:00",
    "end": "2027-01-21T12:15:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-245956-23-TREHOUT_LOIS-Index-Education",
-   "title": "Conception de Système d'inform - REPARATION RATTRAPAGE - CB Surv",
+   "title": "Conception de Système d'inform - BURGNIES - REPARATION RATTRAPAGE - CB Surv",
    "location": "I-106",
-   "description": "Matière : Conception de Système d'inform\nSalle : I-106\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : BURGNIES\nSalle : I-106\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
    "start": "2027-01-22T08:00:00+01:00",
    "end": "2027-01-22T10:00:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233210-23-TREHOUT_LOIS-Index-Education",
-   "title": "Changement organisationnel - REPARATION RATTRAPAGE - CB Surv",
+   "title": "Changement organisationnel - BURGNIES - REPARATION RATTRAPAGE - CB Surv",
    "location": "I-101",
-   "description": "Matière : Changement organisationnel\nSalle : I-101\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "description": "Matière : Changement organisationnel\nEnseignant : BURGNIES\nSalle : I-101\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
    "start": "2027-01-22T10:15:00+01:00",
    "end": "2027-01-22T12:15:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233206-23-TREHOUT_LOIS-Index-Education",
-   "title": "Conception et Production de Sy - REPARATION RATTRAPAGE - CB Surv",
+   "title": "Conception et Production de Sy - BURGNIES - REPARATION RATTRAPAGE - CB Surv",
    "location": "I-105",
-   "description": "Matière : Conception et Production de Sy\nSalle : I-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
+   "description": "Matière : Conception et Production de Sy\nEnseignant : BURGNIES\nSalle : I-105\nMémo : REPARATION RATTRAPAGE\nType : CB Surv",
    "start": "2027-01-22T13:30:00+01:00",
    "end": "2027-01-22T15:30:00+01:00",
    "allDay": false
@@ -2451,9 +2451,9 @@
   },
   {
    "id": "Cours-233618-24-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "I-101",
-   "description": "Matière : Economie et Science politique\nSalle : I-101\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : I-101\nType : TD",
    "start": "2027-01-27T10:15:00+01:00",
    "end": "2027-01-27T12:15:00+01:00",
    "allDay": false
@@ -2586,9 +2586,9 @@
   },
   {
    "id": "Cours-233618-25-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "I-101",
-   "description": "Matière : Economie et Science politique\nSalle : I-101\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : I-101\nType : TD",
    "start": "2027-02-03T10:15:00+01:00",
    "end": "2027-02-03T12:15:00+01:00",
    "allDay": false
@@ -2748,9 +2748,9 @@
   },
   {
    "id": "Cours-233618-26-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "I-102",
-   "description": "Matière : Economie et Science politique\nSalle : I-102\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : I-102\nType : TD",
    "start": "2027-02-10T10:15:00+01:00",
    "end": "2027-02-10T12:15:00+01:00",
    "allDay": false
@@ -2793,9 +2793,9 @@
   },
   {
    "id": "Cours-233305-26-TREHOUT_LOIS-Index-Education",
-   "title": "Du Minerai à la pièce fonction - M. ATTIA Moustapha - TD",
+   "title": "Du Minerai à la pièce fonction - ATTIA - M. ATTIA Moustapha - TD",
    "location": "J-101",
-   "description": "Matière : Du Minerai à la pièce fonction\nSalle : J-101\nMémo : M. ATTIA Moustapha\nType : TD",
+   "description": "Matière : Du Minerai à la pièce fonction\nEnseignant : ATTIA\nSalle : J-101\nMémo : M. ATTIA Moustapha\nType : TD",
    "start": "2027-02-12T08:00:00+01:00",
    "end": "2027-02-12T10:00:00+01:00",
    "allDay": false
@@ -2973,18 +2973,18 @@
   },
   {
    "id": "Cours-233547-27-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "I-103",
-   "description": "Matière : Economie et Science politique\nSalle : I-103\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : I-103\nType : TD",
    "start": "2027-02-19T08:00:00+01:00",
    "end": "2027-02-19T10:00:00+01:00",
    "allDay": false
   },
   {
    "id": "Cours-233309-27-TREHOUT_LOIS-Index-Education",
-   "title": "Du Minerai à la pièce fonction - M.ATTIA Moustapha - TD",
+   "title": "Du Minerai à la pièce fonction - ATTIA - M.ATTIA Moustapha - TD",
    "location": "J-102",
-   "description": "Matière : Du Minerai à la pièce fonction\nSalle : J-102\nMémo : M.ATTIA Moustapha\nType : TD",
+   "description": "Matière : Du Minerai à la pièce fonction\nEnseignant : ATTIA\nSalle : J-102\nMémo : M.ATTIA Moustapha\nType : TD",
    "start": "2027-02-19T10:15:00+01:00",
    "end": "2027-02-19T12:15:00+01:00",
    "allDay": false
@@ -3108,9 +3108,9 @@
   },
   {
    "id": "Cours-233618-28-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "I-102",
-   "description": "Matière : Economie et Science politique\nSalle : I-102\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : I-102\nType : TD",
    "start": "2027-02-24T10:15:00+01:00",
    "end": "2027-02-24T12:15:00+01:00",
    "allDay": false
@@ -3342,9 +3342,9 @@
   },
   {
    "id": "Cours-233484-30-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "I-104",
-   "description": "Matière : Economie et Science politique\nSalle : I-104\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : I-104\nType : TD",
    "start": "2027-03-12T10:15:00+01:00",
    "end": "2027-03-12T12:15:00+01:00",
    "allDay": false
@@ -3441,9 +3441,9 @@
   },
   {
    "id": "Cours-233618-31-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "J-101",
-   "description": "Matière : Economie et Science politique\nSalle : J-101\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : J-101\nType : TD",
    "start": "2027-03-17T10:15:00+01:00",
    "end": "2027-03-17T12:15:00+01:00",
    "allDay": false
@@ -3567,9 +3567,9 @@
   },
   {
    "id": "Cours-233578-32-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "I-101",
-   "description": "Matière : Economie et Science politique\nSalle : I-101\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : I-101\nType : TD",
    "start": "2027-03-24T08:00:00+01:00",
    "end": "2027-03-24T10:00:00+01:00",
    "allDay": false
@@ -3756,9 +3756,9 @@
   },
   {
    "id": "Cours-233484-33-TREHOUT_LOIS-Index-Education",
-   "title": "Economie et Science politique - TD",
+   "title": "Economie et Science politique - BELART - TD",
    "location": "J-102",
-   "description": "Matière : Economie et Science politique\nSalle : J-102\nType : TD",
+   "description": "Matière : Economie et Science politique\nEnseignant : BELART\nSalle : J-102\nType : TD",
    "start": "2027-04-02T10:15:00+02:00",
    "end": "2027-04-02T12:15:00+02:00",
    "allDay": false
