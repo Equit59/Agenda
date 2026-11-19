@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:56:18+00:00",
+ "updated": "2026-11-19T13:01:49+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1570,8 +1570,8 @@
   {
    "id": "Cours-236167-16-TREHOUT_LOIS-Index-Education",
    "title": "Conception de Système d'inform - DANGOUMAU - Demi-sem.",
-   "location": "I-105",
-   "description": "Matière : Conception de Système d'inform\nEnseignant : DANGOUMAU\nSalle : I-105\nType : Demi-sem.",
+   "location": "B7-102",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : DANGOUMAU\nSalle : B7-102\nType : Demi-sem.",
    "start": "2026-11-30T15:45:00+01:00",
    "end": "2026-11-30T17:45:00+01:00",
    "allDay": false
@@ -1750,8 +1750,8 @@
   {
    "id": "Cours-251945-17-TREHOUT_LOIS-Index-Education",
    "title": "Communication d'entreprise - NORMAND - TD",
-   "location": "",
-   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nType : TD",
+   "location": "J-104",
+   "description": "Matière : Communication d'entreprise\nEnseignant : NORMAND\nSalle : J-104\nType : TD",
    "start": "2026-12-09T08:00:00+01:00",
    "end": "2026-12-09T10:00:00+01:00",
    "allDay": false
@@ -1849,8 +1849,8 @@
   {
    "id": "Cours-251562-18-TREHOUT_LOIS-Index-Education",
    "title": "Changement organisationnel - MALASSINGNE - TD",
-   "location": "",
-   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nType : TD",
+   "location": "J-105",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : J-105\nType : TD",
    "start": "2026-12-14T08:00:00+01:00",
    "end": "2026-12-14T10:00:00+01:00",
    "allDay": false
@@ -1867,8 +1867,8 @@
   {
    "id": "Cours-249357-18-TREHOUT_LOIS-Index-Education",
    "title": "DDRS 2 - TD",
-   "location": "",
-   "description": "Matière : DDRS 2\nType : TD",
+   "location": "J-104",
+   "description": "Matière : DDRS 2\nSalle : J-104\nType : TD",
    "start": "2026-12-14T13:30:00+01:00",
    "end": "2026-12-14T15:30:00+01:00",
    "allDay": false
@@ -1876,8 +1876,8 @@
   {
    "id": "Cours-249358-18-TREHOUT_LOIS-Index-Education",
    "title": "DDRS 2 - TD",
-   "location": "",
-   "description": "Matière : DDRS 2\nType : TD",
+   "location": "J-104",
+   "description": "Matière : DDRS 2\nSalle : J-104\nType : TD",
    "start": "2026-12-14T15:45:00+01:00",
    "end": "2026-12-14T17:45:00+01:00",
    "allDay": false
@@ -1921,8 +1921,8 @@
   {
    "id": "Cours-232893-18-TREHOUT_LOIS-Index-Education",
    "title": "Changement organisationnel - MALASSINGNE - TD",
-   "location": "",
-   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nType : TD",
+   "location": "J-105",
+   "description": "Matière : Changement organisationnel\nEnseignant : MALASSINGNE\nSalle : J-105\nType : TD",
    "start": "2026-12-16T08:00:00+01:00",
    "end": "2026-12-16T10:00:00+01:00",
    "allDay": false
@@ -1966,8 +1966,8 @@
   {
    "id": "Cours-232719-18-TREHOUT_LOIS-Index-Education",
    "title": "Introduction aux réseaux - DRUON - Demi-sem.",
-   "location": "I-106",
-   "description": "Matière : Introduction aux réseaux\nEnseignant : DRUON\nSalle : I-106\nType : Demi-sem.",
+   "location": "B7-105",
+   "description": "Matière : Introduction aux réseaux\nEnseignant : DRUON\nSalle : B7-105\nType : Demi-sem.",
    "start": "2026-12-17T08:00:00+01:00",
    "end": "2026-12-17T10:00:00+01:00",
    "allDay": false
@@ -2505,9 +2505,9 @@
   },
   {
    "id": "Cours-234193-24-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - NICLAEYS - TD",
    "location": "I-103",
-   "description": "Matière : Résistance des matériaux\nSalle : I-103\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nSalle : I-103\nType : TD",
    "start": "2027-01-29T15:45:00+01:00",
    "end": "2027-01-29T17:45:00+01:00",
    "allDay": false
@@ -2613,9 +2613,9 @@
   },
   {
    "id": "Cours-234197-25-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - NICLAEYS - TD",
    "location": "I-102",
-   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nSalle : I-102\nType : TD",
    "start": "2027-02-04T08:00:00+01:00",
    "end": "2027-02-04T10:00:00+01:00",
    "allDay": false
@@ -2955,9 +2955,9 @@
   },
   {
    "id": "Cours-234216-27-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - EL BARTALI - TD",
    "location": "J-102",
-   "description": "Matière : Résistance des matériaux\nSalle : J-102\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : EL BARTALI\nSalle : J-102\nType : TD",
    "start": "2027-02-18T10:15:00+01:00",
    "end": "2027-02-18T12:15:00+01:00",
    "allDay": false
@@ -3009,9 +3009,9 @@
   },
   {
    "id": "Cours-234221-28-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - NICLAEYS - TD",
    "location": "I-101",
-   "description": "Matière : Résistance des matériaux\nSalle : I-101\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nSalle : I-101\nType : TD",
    "start": "2027-02-22T08:00:00+01:00",
    "end": "2027-02-22T10:00:00+01:00",
    "allDay": false
@@ -3333,9 +3333,9 @@
   },
   {
    "id": "Cours-234222-30-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - NICLAEYS - TD",
    "location": "I-101",
-   "description": "Matière : Résistance des matériaux\nSalle : I-101\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nSalle : I-101\nType : TD",
    "start": "2027-03-12T08:00:00+01:00",
    "end": "2027-03-12T10:00:00+01:00",
    "allDay": false
@@ -3495,9 +3495,9 @@
   },
   {
    "id": "Cours-234227-31-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - NICLAEYS - TD",
    "location": "I-102",
-   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nSalle : I-102\nType : TD",
    "start": "2027-03-19T08:00:00+01:00",
    "end": "2027-03-19T10:00:00+01:00",
    "allDay": false
@@ -3624,8 +3624,8 @@
    "title": "Résistance des matériaux - CB Ens",
    "location": "E-601, E-603",
    "description": "Matière : Résistance des matériaux\nSalles : E-601, E-603\nType : CB Ens",
-   "start": "2027-03-26T08:00:00+01:00",
-   "end": "2027-03-26T09:00:00+01:00",
+   "start": "2027-03-26T08:15:00+01:00",
+   "end": "2027-03-26T09:15:00+01:00",
    "allDay": false
   },
   {
@@ -3747,9 +3747,9 @@
   },
   {
    "id": "Cours-234242-33-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - NICLAEYS - TD",
    "location": "J-102",
-   "description": "Matière : Résistance des matériaux\nSalle : J-102\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nSalle : J-102\nType : TD",
    "start": "2027-04-02T08:00:00+02:00",
    "end": "2027-04-02T10:00:00+02:00",
    "allDay": false
@@ -3773,21 +3773,12 @@
    "allDay": false
   },
   {
-   "id": "Cours-233641-34-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - TP",
-   "location": "C-018",
-   "description": "Matière : Ondes\nSalle : C-018\nType : TP",
-   "start": "2027-04-05T08:00:00+02:00",
-   "end": "2027-04-05T12:00:00+02:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-233550-34-TREHOUT_LOIS-Index-Education",
    "title": "Dynamique des solides - TD",
    "location": "I-102",
    "description": "Matière : Dynamique des solides\nSalle : I-102\nType : TD",
-   "start": "2027-04-05T13:30:00+02:00",
-   "end": "2027-04-05T15:30:00+02:00",
+   "start": "2027-04-05T08:00:00+02:00",
+   "end": "2027-04-05T10:00:00+02:00",
    "allDay": false
   },
   {
@@ -3795,8 +3786,17 @@
    "title": "Ondes - TNE",
    "location": "",
    "description": "Matière : Ondes\nType : TNE",
-   "start": "2027-04-05T15:45:00+02:00",
-   "end": "2027-04-05T17:45:00+02:00",
+   "start": "2027-04-05T10:15:00+02:00",
+   "end": "2027-04-05T12:15:00+02:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233641-34-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TP",
+   "location": "C-018",
+   "description": "Matière : Ondes\nSalle : C-018\nType : TP",
+   "start": "2027-04-05T13:30:00+02:00",
+   "end": "2027-04-05T17:30:00+02:00",
    "allDay": false
   },
   {
@@ -3872,15 +3872,6 @@
    "allDay": false
   },
   {
-   "id": "Cours-234301-34-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
-   "location": "I-102",
-   "description": "Matière : Résistance des matériaux\nSalle : I-102\nType : TD",
-   "start": "2027-04-08T10:15:00+02:00",
-   "end": "2027-04-08T12:15:00+02:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-252806-34-TREHOUT_LOIS-Index-Education",
    "title": "Equipement électrique - GILLON - Cours",
    "location": "Amphi L. de VINC",
@@ -3899,16 +3890,25 @@
    "allDay": false
   },
   {
+   "id": "Cours-234301-34-TREHOUT_LOIS-Index-Education",
+   "title": "Résistance des matériaux - NICLAEYS - TD",
+   "location": "I-102",
+   "description": "Matière : Résistance des matériaux\nEnseignant : NICLAEYS\nSalle : I-102\nType : TD",
+   "start": "2027-04-09T13:30:00+02:00",
+   "end": "2027-04-09T15:30:00+02:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-252800-34-TREHOUT_LOIS-Index-Education",
    "title": "Dynamique des solides - CB Surv",
    "location": "Amphi L. de VINC",
    "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : CB Surv",
-   "start": "2027-04-09T14:00:00+02:00",
-   "end": "2027-04-09T16:00:00+02:00",
+   "start": "2027-04-09T15:45:00+02:00",
+   "end": "2027-04-09T17:45:00+02:00",
    "allDay": false
   },
   {
-   "id": "Cours-233641-35-TREHOUT_LOIS-Index-Education",
+   "id": "Cours-252956-35-TREHOUT_LOIS-Index-Education",
    "title": "Ondes - TP",
    "location": "C-018",
    "description": "Matière : Ondes\nSalle : C-018\nType : TP",
@@ -4386,9 +4386,9 @@
   },
   {
    "id": "Cours-234326-40-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TD",
+   "title": "Résistance des matériaux - EL BARTALI - TD",
    "location": "E-604",
-   "description": "Matière : Résistance des matériaux\nSalle : E-604\nType : TD",
+   "description": "Matière : Résistance des matériaux\nEnseignant : EL BARTALI\nSalle : E-604\nType : TD",
    "start": "2027-05-21T10:15:00+02:00",
    "end": "2027-05-21T12:15:00+02:00",
    "allDay": false
@@ -4512,9 +4512,9 @@
   },
   {
    "id": "Cours-234332-41-TREHOUT_LOIS-Index-Education",
-   "title": "Résistance des matériaux - TP",
+   "title": "Résistance des matériaux - EL BARTALI - TP",
    "location": "B-028",
-   "description": "Matière : Résistance des matériaux\nSalle : B-028\nType : TP",
+   "description": "Matière : Résistance des matériaux\nEnseignant : EL BARTALI\nSalle : B-028\nType : TP",
    "start": "2027-05-28T08:00:00+02:00",
    "end": "2027-05-28T12:00:00+02:00",
    "allDay": false
@@ -4603,8 +4603,8 @@
   {
    "id": "Cours-234334-42-TREHOUT_LOIS-Index-Education",
    "title": "Résistance des matériaux - CB Surv",
-   "location": "",
-   "description": "Matière : Résistance des matériaux\nType : CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Résistance des matériaux\nSalle : Amphi L. de VINC\nType : CB Surv",
    "start": "2027-06-03T10:15:00+02:00",
    "end": "2027-06-03T12:15:00+02:00",
    "allDay": false
