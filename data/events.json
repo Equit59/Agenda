@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:01:49+00:00",
+ "updated": "2026-11-23T09:01:20+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1435,8 +1435,8 @@
   {
    "id": "Cours-236155-15-TREHOUT_LOIS-Index-Education",
    "title": "Conception de Système d'inform - GARGOURI - Demi-sem.",
-   "location": "I-105",
-   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : I-105\nType : Demi-sem.",
+   "location": "B7-102",
+   "description": "Matière : Conception de Système d'inform\nEnseignant : GARGOURI\nSalle : B7-102\nType : Demi-sem.",
    "start": "2026-11-23T15:45:00+01:00",
    "end": "2026-11-23T17:45:00+01:00",
    "allDay": false
