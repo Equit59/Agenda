@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:01:20+00:00",
+ "updated": "2026-11-23T21:20:03+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1686,9 +1686,9 @@
   },
   {
    "id": "Cours-232608-17-TREHOUT_LOIS-Index-Education",
-   "title": "Mod. sim. comm. proces. élec. - CB Surv",
+   "title": "Mod. sim. comm. proces. élec. - BASIER, DELATTRE, JELINSKI - CB Surv",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Mod. sim. comm. proces. élec.\nSalle : Amphi L. de VINC\nType : CB Surv",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignants : BASIER, DELATTRE, JELINSKI\nSalle : Amphi L. de VINC\nType : CB Surv",
    "start": "2026-12-07T08:00:00+01:00",
    "end": "2026-12-07T10:00:00+01:00",
    "allDay": false
@@ -1821,9 +1821,9 @@
   },
   {
    "id": "Cours-248551-17-TREHOUT_LOIS-Index-Education",
-   "title": "Conception de Système d'inform - DANGOUMAU - CB Ens",
+   "title": "Conception de Système d'inform - BASIER, DANGOUMAU, LEULLIER, MORANA - CB Ens",
    "location": "Amphi L. de VINC",
-   "description": "Matière : Conception de Système d'inform\nEnseignant : DANGOUMAU\nSalle : Amphi L. de VINC\nType : CB Ens",
+   "description": "Matière : Conception de Système d'inform\nEnseignants : BASIER, DANGOUMAU, LEULLIER, MORANA\nSalle : Amphi L. de VINC\nType : CB Ens",
    "start": "2026-12-11T08:00:00+01:00",
    "end": "2026-12-11T10:00:00+01:00",
    "allDay": false
