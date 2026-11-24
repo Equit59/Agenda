@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:20:03+00:00",
+ "updated": "2026-11-24T17:40:49+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1479,9 +1479,9 @@
   },
   {
    "id": "Cours-252777-15-TREHOUT_LOIS-Index-Education",
-   "title": "prés. Exp International+stages - Présence obligatoire pour le groupe A et B1 - Réunion",
+   "title": "prés. Exp International+stages - Présence obligatoire pour le groupe A et B1- IE3 - Réunion",
    "location": "Amphi L. de VINC",
-   "description": "Matière : prés. Exp International+stages\nSalle : Amphi L. de VINC\nMémo : Présence obligatoire pour le groupe A et B1\nType : Réunion",
+   "description": "Matière : prés. Exp International+stages\nSalle : Amphi L. de VINC\nMémo : Présence obligatoire pour le groupe A et B1- IE3\nType : Réunion",
    "start": "2026-11-25T12:30:00+01:00",
    "end": "2026-11-25T13:15:00+01:00",
    "allDay": false
@@ -1682,6 +1682,15 @@
    "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-102\nType : TD",
    "start": "2026-12-04T13:30:00+01:00",
    "end": "2026-12-04T15:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-253099-16-TREHOUT_LOIS-Index-Education",
+   "title": "Mod. sim. comm. proces. élec. - FRANCOIS - Cours",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mod. sim. comm. proces. élec.\nEnseignant : FRANCOIS\nSalle : Amphi L. de VINC\nType : Cours",
+   "start": "2026-12-04T15:45:00+01:00",
+   "end": "2026-12-04T17:45:00+01:00",
    "allDay": false
   },
   {
@@ -1992,9 +2001,9 @@
   },
   {
    "id": "Cours-232435-18-TREHOUT_LOIS-Index-Education",
-   "title": "Traitement du signal - BOUTGHATIN - CB Ens",
+   "title": "Traitement du signal - BASIER - CB Ens",
    "location": "B7-103",
-   "description": "Matière : Traitement du signal\nEnseignant : BOUTGHATIN\nSalle : B7-103\nType : CB Ens",
+   "description": "Matière : Traitement du signal\nEnseignant : BASIER\nSalle : B7-103\nType : CB Ens",
    "start": "2026-12-18T09:00:00+01:00",
    "end": "2026-12-18T10:00:00+01:00",
    "allDay": false
@@ -2540,6 +2549,15 @@
    "allDay": false
   },
   {
+   "id": "Cours-233327-25-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-02-01T15:45:00+01:00",
+   "end": "2027-02-01T17:45:00+01:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-233218-25-TREHOUT_LOIS-Index-Education",
    "title": "Anglais 4 - HAGUE - TD",
    "location": "",
@@ -2621,21 +2639,21 @@
    "allDay": false
   },
   {
-   "id": "Cours-233327-25-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - TNE",
-   "location": "",
-   "description": "Matière : Ondes\nType : TNE",
-   "start": "2027-02-04T10:15:00+01:00",
-   "end": "2027-02-04T12:15:00+01:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-252705-25-TREHOUT_LOIS-Index-Education",
    "title": "Matière à préciser - Réunion",
    "location": "",
    "description": "Matière : Matière à préciser\nType : Réunion",
    "start": "2027-02-04T13:30:00+01:00",
    "end": "2027-02-04T17:30:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-253119-25-TREHOUT_LOIS-Index-Education",
+   "title": "Cycle de conférences - NORMAND - TP",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Cycle de conférences\nEnseignant : NORMAND\nSalle : Amphi L. de VINC\nType : TP",
+   "start": "2027-02-05T09:00:00+01:00",
+   "end": "2027-02-05T10:00:00+01:00",
    "allDay": false
   },
   {
@@ -2684,19 +2702,19 @@
    "allDay": false
   },
   {
-   "id": "Cours-233748-26-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - TD",
-   "location": "C-118",
-   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "id": "Cours-233496-26-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TALBI - TD",
+   "location": "J-104",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-104\nType : TD",
    "start": "2027-02-08T13:30:00+01:00",
    "end": "2027-02-08T15:30:00+01:00",
    "allDay": false
   },
   {
-   "id": "Cours-233750-26-TREHOUT_LOIS-Index-Education",
-   "title": "Intelligence ambiante - TD",
-   "location": "C-118",
-   "description": "Matière : Intelligence ambiante\nSalle : C-118\nType : TD",
+   "id": "Cours-233494-26-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TALBI - TD",
+   "location": "J-104",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-104\nType : TD",
    "start": "2027-02-08T15:45:00+01:00",
    "end": "2027-02-08T17:45:00+01:00",
    "allDay": false
@@ -2720,19 +2738,19 @@
    "allDay": false
   },
   {
-   "id": "Cours-233494-26-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TALBI - TD",
-   "location": "J-104",
-   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-104\nType : TD",
+   "id": "Cours-233748-26-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - BOURDEAUD HUY - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nEnseignant : BOURDEAUD HUY\nSalle : C-118\nType : TD",
    "start": "2027-02-09T13:30:00+01:00",
    "end": "2027-02-09T15:30:00+01:00",
    "allDay": false
   },
   {
-   "id": "Cours-233496-26-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TALBI - TD",
-   "location": "J-104",
-   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-104\nType : TD",
+   "id": "Cours-233750-26-TREHOUT_LOIS-Index-Education",
+   "title": "Intelligence ambiante - BOURDEAUD HUY - TD",
+   "location": "C-118",
+   "description": "Matière : Intelligence ambiante\nEnseignant : BOURDEAUD HUY\nSalle : C-118\nType : TD",
    "start": "2027-02-09T15:45:00+01:00",
    "end": "2027-02-09T17:45:00+01:00",
    "allDay": false
@@ -2774,10 +2792,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-233568-26-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - Séminaire",
-   "location": "I-102",
-   "description": "Matière : Ondes\nSalle : I-102\nType : Séminaire",
+   "id": "Cours-253283-26-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
    "start": "2027-02-11T08:00:00+01:00",
    "end": "2027-02-11T10:00:00+01:00",
    "allDay": false
@@ -2819,10 +2837,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-233740-26-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - TNE",
-   "location": "",
-   "description": "Matière : Ondes\nType : TNE",
+   "id": "Cours-233568-26-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-102",
+   "description": "Matière : Ondes\nSalle : I-102\nType : Séminaire",
    "start": "2027-02-12T15:45:00+01:00",
    "end": "2027-02-12T17:45:00+01:00",
    "allDay": false
@@ -2846,10 +2864,10 @@
    "allDay": false
   },
   {
-   "id": "Cours-233747-27-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - Séminaire",
-   "location": "I-102",
-   "description": "Matière : Ondes\nSalle : I-102\nType : Séminaire",
+   "id": "Cours-233498-27-TREHOUT_LOIS-Index-Education",
+   "title": "Entrepreneuriat - TALBI - TD",
+   "location": "J-103",
+   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-103\nType : TD",
    "start": "2027-02-15T15:45:00+01:00",
    "end": "2027-02-15T17:45:00+01:00",
    "allDay": false
@@ -2873,21 +2891,21 @@
    "allDay": false
   },
   {
-   "id": "Cours-233498-27-TREHOUT_LOIS-Index-Education",
-   "title": "Entrepreneuriat - TALBI - TD",
-   "location": "J-103",
-   "description": "Matière : Entrepreneuriat\nEnseignant : TALBI\nSalle : J-103\nType : TD",
+   "id": "Cours-233779-27-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
    "start": "2027-02-16T13:30:00+01:00",
    "end": "2027-02-16T15:30:00+01:00",
    "allDay": false
   },
   {
-   "id": "Cours-233460-27-TREHOUT_LOIS-Index-Education",
-   "title": "Cycle de conférences - NORMAND - TP",
-   "location": "Amphi L. de VINC",
-   "description": "Matière : Cycle de conférences\nEnseignant : NORMAND\nSalle : Amphi L. de VINC\nType : TP",
+   "id": "Cours-233747-27-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - Séminaire",
+   "location": "I-102",
+   "description": "Matière : Ondes\nSalle : I-102\nType : Séminaire",
    "start": "2027-02-16T15:45:00+01:00",
-   "end": "2027-02-16T16:45:00+01:00",
+   "end": "2027-02-16T17:45:00+01:00",
    "allDay": false
   },
   {
@@ -2947,8 +2965,8 @@
   {
    "id": "Cours-233530-27-TREHOUT_LOIS-Index-Education",
    "title": "Dynamique des solides - CB Ens",
-   "location": "E-601, E-603",
-   "description": "Matière : Dynamique des solides\nSalles : E-601, E-603\nType : CB Ens",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Dynamique des solides\nSalle : Amphi L. de VINC\nType : CB Ens",
    "start": "2027-02-18T09:00:00+01:00",
    "end": "2027-02-18T10:00:00+01:00",
    "allDay": false
@@ -2987,15 +3005,6 @@
    "description": "Matière : Du Minerai à la pièce fonction\nEnseignant : ATTIA\nSalle : J-102\nMémo : M.ATTIA Moustapha\nType : TD",
    "start": "2027-02-19T10:15:00+01:00",
    "end": "2027-02-19T12:15:00+01:00",
-   "allDay": false
-  },
-  {
-   "id": "Cours-233779-27-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - TNE",
-   "location": "",
-   "description": "Matière : Ondes\nType : TNE",
-   "start": "2027-02-19T13:30:00+01:00",
-   "end": "2027-02-19T15:30:00+01:00",
    "allDay": false
   },
   {
@@ -3143,15 +3152,6 @@
    "allDay": false
   },
   {
-   "id": "Cours-233739-28-TREHOUT_LOIS-Index-Education",
-   "title": "Ondes - TNE",
-   "location": "",
-   "description": "Matière : Ondes\nType : TNE",
-   "start": "2027-02-25T08:00:00+01:00",
-   "end": "2027-02-25T10:00:00+01:00",
-   "allDay": false
-  },
-  {
    "id": "Cours-249163-28-TREHOUT_LOIS-Index-Education",
    "title": "Du Minerai à la pièce fonction - TNE",
    "location": "",
@@ -3167,6 +3167,15 @@
    "description": "Matière : Ondes\nSalle : I-101\nType : Séminaire",
    "start": "2027-02-26T08:00:00+01:00",
    "end": "2027-02-26T10:00:00+01:00",
+   "allDay": false
+  },
+  {
+   "id": "Cours-233740-28-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TNE",
+   "location": "",
+   "description": "Matière : Ondes\nType : TNE",
+   "start": "2027-02-26T10:15:00+01:00",
+   "end": "2027-02-26T12:15:00+01:00",
    "allDay": false
   },
   {
@@ -3577,8 +3586,8 @@
   {
    "id": "Cours-233619-32-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 4 - CB Surv",
-   "location": "E-601, E-603",
-   "description": "Matière : Mathématiques 4\nSalles : E-601, E-603\nType : CB Surv",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nSalle : Amphi L. de VINC\nType : CB Surv",
    "start": "2027-03-24T10:15:00+01:00",
    "end": "2027-03-24T12:15:00+01:00",
    "allDay": false
@@ -3622,8 +3631,8 @@
   {
    "id": "Cours-234231-32-TREHOUT_LOIS-Index-Education",
    "title": "Résistance des matériaux - CB Ens",
-   "location": "E-601, E-603",
-   "description": "Matière : Résistance des matériaux\nSalles : E-601, E-603\nType : CB Ens",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Résistance des matériaux\nSalle : Amphi L. de VINC\nType : CB Ens",
    "start": "2027-03-26T08:15:00+01:00",
    "end": "2027-03-26T09:15:00+01:00",
    "allDay": false
@@ -3631,8 +3640,8 @@
   {
    "id": "Cours-233521-32-TREHOUT_LOIS-Index-Education",
    "title": "Entrepreneuriat - NORMAND, TALBI - CB Ens",
-   "location": "",
-   "description": "Matière : Entrepreneuriat\nEnseignants : NORMAND, TALBI\nType : CB Ens",
+   "location": "J-103",
+   "description": "Matière : Entrepreneuriat\nEnseignants : NORMAND, TALBI\nSalle : J-103\nType : CB Ens",
    "start": "2027-03-26T10:15:00+01:00",
    "end": "2027-03-26T12:15:00+01:00",
    "allDay": false
@@ -4304,6 +4313,15 @@
    "allDay": true
   },
   {
+   "id": "Cours-234127-40-TREHOUT_LOIS-Index-Education",
+   "title": "Bureau d'étude - TNE",
+   "location": "",
+   "description": "Matière : Bureau d'étude\nType : TNE",
+   "start": "2027-05-18T08:00:00+02:00",
+   "end": "2027-05-18T10:00:00+02:00",
+   "allDay": false
+  },
+  {
    "id": "Cours-233670-40-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 4 - LEDDA - Cours",
    "location": "Amphi L. de VINC",
@@ -4367,12 +4385,12 @@
    "allDay": false
   },
   {
-   "id": "Cours-234127-40-TREHOUT_LOIS-Index-Education",
-   "title": "Bureau d'étude - TNE",
-   "location": "",
-   "description": "Matière : Bureau d'étude\nType : TNE",
-   "start": "2027-05-20T10:15:00+02:00",
-   "end": "2027-05-20T12:15:00+02:00",
+   "id": "Cours-253297-40-TREHOUT_LOIS-Index-Education",
+   "title": "Ondes - TP",
+   "location": "C-018",
+   "description": "Matière : Ondes\nSalle : C-018\nType : TP",
+   "start": "2027-05-20T08:00:00+02:00",
+   "end": "2027-05-20T12:00:00+02:00",
    "allDay": false
   },
   {
@@ -4504,8 +4522,8 @@
   {
    "id": "Cours-233681-41-TREHOUT_LOIS-Index-Education",
    "title": "Mathématiques 4 - CB Ens",
-   "location": "E-601, E-602, E-603",
-   "description": "Matière : Mathématiques 4\nSalles : E-601, E-602, E-603\nType : CB Ens",
+   "location": "Amphi L. de VINC",
+   "description": "Matière : Mathématiques 4\nSalle : Amphi L. de VINC\nType : CB Ens",
    "start": "2027-05-27T10:15:00+02:00",
    "end": "2027-05-27T12:15:00+02:00",
    "allDay": false
