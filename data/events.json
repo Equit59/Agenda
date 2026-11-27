@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:12:14+00:00",
+ "updated": "2026-11-27T18:57:12+00:00",
  "events": [
   {
    "id": "Cours-232079-3-TREHOUT_LOIS-Index-Education",
@@ -1534,8 +1534,8 @@
   {
    "id": "Cours-232643-15-TREHOUT_LOIS-Index-Education",
    "title": "Project Planning - DANIEL - TD",
-   "location": "J-101",
-   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-101\nType : TD",
+   "location": "J-105",
+   "description": "Matière : Project Planning\nEnseignant : DANIEL\nSalle : J-105\nType : TD",
    "start": "2026-11-27T15:45:00+01:00",
    "end": "2026-11-27T17:45:00+01:00",
    "allDay": false
